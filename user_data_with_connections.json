@@ -2,19 +2,15 @@
     {
         "handle": "dmimica.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6sbzutdek6kxzojvgoec4itl/bafkreibaa5n7shnr4ao5blq2nvbo2eugeu5o6a4guex4wbykt67ivhdp6m@jpeg",
-        "followers_count": 1229,
-        "connections": [
-            "theonion.com",
-            "nytimes.com",
-            "markhamillofficial.bsky.social",
-            "atrupar.com",
-            "briantylercohen.bsky.social"
-        ]
+        "description": "Chileno, Ingeniero, liberal y vivo en Plaza Italia. \nHago podcasts, como Democracia en LSD\n",
+        "followers_count": 1237,
+        "connections": []
     },
     {
         "handle": "mrhitchcok.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:34i4mxxpnlk3izvyucaerfsj/bafkreify373lm7nkaaid7jta3e4al7knrmydyosjw4hy2wgm4xmjyeaaum@jpeg",
-        "followers_count": 3391,
+        "description": "Todo es una opinión .",
+        "followers_count": 3429,
         "connections": [
             "bsky.app",
             "markhamillofficial.bsky.social",
@@ -26,7 +22,8 @@
     {
         "handle": "economist.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mhzk3blh4pfxo3fqh2meowbb/bafkreihks2rloifplwgkbzn3dlnkud7bz2eaegnpn6qltfpnxxxot2mkuq@jpeg",
-        "followers_count": 31734,
+        "description": "News and analysis with a global perspective. We’re here to help you understand the world around you. Subscribe here: https://econ.st/4fAeu4q",
+        "followers_count": 33488,
         "connections": [
             "bsky.app",
             "shashj.bsky.social",
@@ -38,7 +35,8 @@
     {
         "handle": "elpais.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:u6mkbcgviwlbhuwqirmhcgu3/bafkreidlrr3xp5jyyelnldjpzgpppz4a5lj5visirsfgfxelnxssrg6jpy@jpeg",
-        "followers_count": 117227,
+        "description": "La mejor información en español. Con nuestra mirada puesta en España, Europa y América. Suscríbete: https://tinyurl.com/yfbk27jh",
+        "followers_count": 118243,
         "connections": [
             "bsky.app",
             "nytimes.com",
@@ -50,7 +48,8 @@
     {
         "handle": "censelio.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ao6poztm2ostridphfbf2l3y/bafkreidjom4dssoinz4jt5ecqbmqxpzv5nhhq4wytozadyiokrlnvzp6r4@jpeg",
-        "followers_count": 4660,
+        "description": "Director del FRIPO, experto en otoñismo",
+        "followers_count": 4715,
         "connections": [
             "theguardian.com"
         ]
@@ -58,7 +57,8 @@
     {
         "handle": "apalet.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y4bvfcu7wrx7jlyjg6qglqzl/bafkreihf42uqadusa7kcras2qb65uupq6ejrvxe2mcqgtvaz4ctc7tycp4@jpeg",
-        "followers_count": 1116,
+        "description": "Leo y olvido \nwww.laurel.cl\nhttps://revistadossier.udp.cl",
+        "followers_count": 1119,
         "connections": [
             "dril.bsky.social",
             "theguardian.com",
@@ -69,7 +69,8 @@
     {
         "handle": "latercera.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gpkqfsizhbrcixwssvx67mzp/bafkreia6f352zbw6c2fnses2tnrkeaucxa6h74zvashpo6v6z74sja2n7q@jpeg",
-        "followers_count": 3331,
+        "description": "Perfil oficial del diario La Tercera en Bluesky.\n\n🗞️💻📱 https://latercera.com ",
+        "followers_count": 3379,
         "connections": [
             "bsky.app",
             "nytimes.com",
@@ -81,7 +82,8 @@
     {
         "handle": "theclinic.cl",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:u2wkqbunk5ugtkrqwse7exeh/bafkreiefcmxj4zh7thgpejs4gi62z3hrwuot4hyyy75hh737fvluokk25a@jpeg",
-        "followers_count": 1385,
+        "description": "Política, negocios, ciudad, tendencias y tiempo libre. Entender es todo.\n\n📱 🔔  Suscríbete en WhatsApp http://bit.ly/3ZyX6pi",
+        "followers_count": 1441,
         "connections": [
             "bsky.app"
         ]
@@ -89,7 +91,8 @@
     {
         "handle": "quintralacolorada.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ga4qchzhtgt3w6fs4ucd627r/bafkreieerhvod6uxquq4bm6nygxup5zsrn777tzv7jbd7a7el6xtae7lbu@jpeg",
-        "followers_count": 2216,
+        "description": "Luchadora social , no milito en ningún partido político \nVoy contra las malas prácticas #bacheletista y hoy #borista  , no me tengan como enemiga por qué soy el mismo demonio",
+        "followers_count": 2236,
         "connections": [
             "bsky.app",
             "nytimes.com",
@@ -99,7 +102,8 @@
     {
         "handle": "cgajardop.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qal4kbwqqbfwss4do3aj5thn/bafkreideghitp2xivnkyvory3tajnwa6gpczbyppkhhzhcd4t47be2dktm@jpeg",
-        "followers_count": 4681,
+        "description": "Que más quisiera que pasar la vida entera\nComo estudiante el día de la primavera….",
+        "followers_count": 4711,
         "connections": [
             "bsky.app",
             "eldiario.es",
@@ -109,7 +113,8 @@
     {
         "handle": "baradit.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cctijzgxgai7e7zmscr4ohtk/bafkreia4spuvtqunle6xjlfgerl36babmuv7eddy36dudvkuzxx6b7ansi@jpeg",
-        "followers_count": 2242,
+        "description": "Escritor\nNovela EL SÓTANO ROJO / 2024",
+        "followers_count": 2267,
         "connections": [
             "nytimes.com",
             "theguardian.com"
@@ -118,7 +123,8 @@
     {
         "handle": "giorgiojackson.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rp5pyqtp4xgol7lkdcm6vqig/bafkreic53fdotxidopsfdz7wt3mnroknldgrbw4dfml3dve4owtcwzue4y@jpeg",
-        "followers_count": 1220,
+        "description": "",
+        "followers_count": 1288,
         "connections": [
             "bsky.app",
             "nytimes.com",
@@ -130,7 +136,8 @@
     {
         "handle": "rafacavada.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xedazyy7wsdfi6wzo5gbedus/bafkreihg6gk6kj3bsgyjuwilowrsl2ouxx3cdjhjjh5njprtni7djyee6u@jpeg",
-        "followers_count": 2565,
+        "description": "",
+        "followers_count": 2733,
         "connections": [
             "bsky.app",
             "nytimes.com",
@@ -141,7 +148,8 @@
     {
         "handle": "profdevisridhar.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:is7ixjncehsouy4q3lp73t32/bafkreifjttnthxxvxcdeehdv4k2767p3pokyhnzyfpefsrygbcmrlkjixu@jpeg",
-        "followers_count": 13348,
+        "description": "Professor & Chair of Global Public Health, Edinburgh Uni. Certified Level 3 Personal Trainer. Author of 'Preventable'. Views own.",
+        "followers_count": 13455,
         "connections": [
             "theguardian.com",
             "pippacrerar.bsky.social"
@@ -150,7 +158,8 @@
     {
         "handle": "matamala.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2rifyv2umowl47hyy2hg63cv/bafkreifoycpnl4c2u5ipiuf57umswlouq2teplsqhyxhrbzggxecgh72vu@jpeg",
-        "followers_count": 4271,
+        "description": "Periodista y escritor valdiviano 🇨🇱 \nConductor en CHV Noticias.\nVideo podcast LO QUE IMPORTA \nColumnista.",
+        "followers_count": 4315,
         "connections": [
             "bsky.app",
             "nytimes.com",
@@ -162,7 +171,8 @@
     {
         "handle": "sepulvedanico.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wuefdqy6amjklax2dgdvsbn6/bafkreihenraypemrxzn4keq3uvd74yutpawmtdbrengq5c5j2ctwdl4lxm@jpeg",
-        "followers_count": 1626,
+        "description": "Periodista.",
+        "followers_count": 1639,
         "connections": [
             "bsky.app",
             "nytimes.com",
@@ -174,7 +184,8 @@
     {
         "handle": "criordor.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:o2fmlrk45qqzhm2ug3jasjgl/bafkreihm5en2ghln3cq6lhbg2za6zp25d427egwmvy2xognpnhsk7othyy@jpeg",
-        "followers_count": 1598,
+        "description": "Ecóloga microbiana. Microbial ecologist\nNuevo libro: \"Amor Microbiano\" 💘🦠",
+        "followers_count": 2526,
         "connections": [
             "theguardian.com"
         ]
@@ -182,7 +193,8 @@
     {
         "handle": "xchongc.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2xkbo7oujfqbffp5biwv2ejz/bafkreigp4ewo7wg4yadw45jfe3rdjv2dssk4bkci542sao5hap7succciu@jpeg",
-        "followers_count": 3311,
+        "description": "Abogada. En esta red, una exploradora con acceso a internet. “Que viva la ciencia, que viva la poesía”.",
+        "followers_count": 3339,
         "connections": [
             "bsky.app",
             "nytimes.com",
@@ -193,7 +205,8 @@
     {
         "handle": "drericding.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7a6eqoyhbtmkhqphfesjybq3/bafkreibqzspb6ncw32iyljt4catkdwosjd2k5g56yc27oweeaibyivr5aq@jpeg",
-        "followers_count": 136798,
+        "description": "Public health warnings. Health policy | epidemiology. Chair and Faculty at NECSI. Former 16 years at Harvard. DC & Virginia. \n\nBio & contact: necsi.edu/eric-feigl-ding\n\nA short story: nym.ag/3olszuo \n\nKeep in touch: drericding.substack.com/subscribe (free)",
+        "followers_count": 144701,
         "connections": [
             "bsky.app",
             "aoc.bsky.social",
@@ -205,7 +218,8 @@
     {
         "handle": "jburnmurdoch.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ho34pe25d3ywc6g6vxugre2i/bafkreia72csyi2k72zq6hkijxwxc4ydix7siuwxdi2uqhpst6mggst5yh4@jpeg",
-        "followers_count": 91858,
+        "description": "Columnist and chief data reporter the Financial Times | Stories, stats & scatterplots | john.burn-murdoch@ft.com\n\n📝 ft.com/jbm",
+        "followers_count": 92290,
         "connections": [
             "bsky.app",
             "aoc.bsky.social",
@@ -217,7 +231,8 @@
     {
         "handle": "cnn.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
-        "followers_count": 381656,
+        "description": "Asking the hard questions and bringing unique perspectives from across the globe. This is CNN.",
+        "followers_count": 387311,
         "connections": [
             "bsky.app"
         ]
@@ -225,7 +240,8 @@
     {
         "handle": "markhamillofficial.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xyddpg6usmgh2t2jgf4e37yk/bafkreiblhhbzu6vecooxeyx5kee22uxmcigpne2wuhu76vquu4p4ts3cde@jpeg",
-        "followers_count": 750353,
+        "description": "Believe in yourself! Work hard, never give up & anything's possible! OR: Kick back, relax & aim low: You'll never be disappointed...😜 I IGNORE ALL DMs!",
+        "followers_count": 775865,
         "connections": [
             "bsky.app",
             "georgetakei.bsky.social",
@@ -237,13 +253,15 @@
     {
         "handle": "nytimes.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
-        "followers_count": 750756,
+        "description": "In-depth, independent reporting to better understand the world, now on Bluesky. News tips? Share them here: http://nyti.ms/2FVHq9v",
+        "followers_count": 758484,
         "connections": []
     },
     {
         "handle": "aoc.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p7gxyfr5vii5ntpwo7f6dhe2/bafkreia7pjciqmezep36yotfgas23eie47sy5ymcorzd7exejlxtiox6by@jpeg",
-        "followers_count": 960767,
+        "description": "Waitress turned Congresswoman for the Bronx and Queens. Grassroots elected, small-dollar supported. A better world is possible.\n\nocasiocortez.com",
+        "followers_count": 978487,
         "connections": [
             "bsky.app",
             "georgetakei.bsky.social",
@@ -255,13 +273,15 @@
     {
         "handle": "damivago.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkpbs6phlif6m5z6jov3lwje/bafkreibwfgqlgshnf5oj3ci4hx6iir5lav2stw3szp2fb4d3qrbnxuqsue@jpeg",
-        "followers_count": 2905,
+        "description": "Dibujante de Humor Gráfico. Cómics no Aptos para Amargados. Antofagastino en Santiago. Tienda Online: http://damivago.cl/tienda // esponsor.gg/damivago // https://www.instagram.com/damivago",
+        "followers_count": 2932,
         "connections": []
     },
     {
         "handle": "theguardian.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
-        "followers_count": 343821,
+        "description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://support.theguardian.com",
+        "followers_count": 350809,
         "connections": [
             "pippacrerar.bsky.social"
         ]
@@ -269,7 +289,8 @@
     {
         "handle": "erictopol.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6vwezbhj7wwowu4sbur5npjk/bafkreihbab5kozffhxcmr5jcbc5cl6aumtdffgkjdug4g5jm2dxlfwvkvi@jpeg",
-        "followers_count": 88209,
+        "description": "physician-scientist, author, editor \n\nhttps://www.scripps.edu/faculty/topol/\nhttps://erictopol.substack.com",
+        "followers_count": 88892,
         "connections": [
             "bsky.app",
             "georgetakei.bsky.social",
@@ -281,7 +302,8 @@
     {
         "handle": "who.int",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:univ47kzorwxjih3lqzrnwmv/bafkreifnvtdwzmz25zxaidfg3f4co6gbiulwdpn2cicjdsqyjvkhgy5gsy@jpeg",
-        "followers_count": 28565,
+        "description": "We (The World Health Organization) are the United Nations’ health agency championing Health For All. Always check the latest posts for updated advice/information. We will remove misinformation, spam and hate speech here. \nwww.who.int",
+        "followers_count": 32840,
         "connections": [
             "bsky.app"
         ]
@@ -289,7 +311,8 @@
     {
         "handle": "bmj.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:r2tqb4cbjkgt4ntcmby64lav/bafkreieg6rvhxhowrjz4iad77wbgmsgiy7z2fccoug5k5ee7u5x6zqgezi@jpeg",
-        "followers_count": 9295,
+        "description": "The BMJ is patient centred, evidence based, and independent. Help us improve the health of our world with the best science, journalism, education, and comment. \n\nDonate now to The BMJ x IRC appeal 2024-25: https://help.rescue-uk.org/bmj",
+        "followers_count": 9520,
         "connections": [
             "bsky.app"
         ]
@@ -297,7 +320,8 @@
     {
         "handle": "nbody6.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvboqghesbqlv73klkwdq2ds/bafkreicvtxfnjsaevkys56rffkg3krrk3g5ssmka4glo455cb3wl7vdz4a@jpeg",
-        "followers_count": 1707,
+        "description": "Astrofísico\nSantiago - Chile",
+        "followers_count": 1725,
         "connections": [
             "washingtonpost.com",
             "eldiario.es"
@@ -306,7 +330,8 @@
     {
         "handle": "malaimagen.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cfjom57q73xoskh2xrphqd75/bafkreihgduioob7ioc46cqht5u6lwfgli3frw7yhn64nxfk2nb3ihncoti@jpeg",
-        "followers_count": 3063,
+        "description": "Dibujo mal pero canto peor\nesponsor.com/malaimagen",
+        "followers_count": 3082,
         "connections": [
             "bsky.app",
             "juanarivers.bsky.social"
@@ -315,7 +340,8 @@
     {
         "handle": "bacigalupe.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:x3mtlnr3etvyh6axi442jw76/bafkreifc7t5wyjxr66ns552jziept23rzywlwjaxtx6ecxm6a6fzlpjhke@jpeg",
-        "followers_count": 2599,
+        "description": "Professor of counseling psychology at UMASS Boston, psychotherapist, painter, transnational, public health, environmentalist and climate justice activist. Writing and building an art studio next to the ocean. Construyendo un estudio al lado del mar.",
+        "followers_count": 2614,
         "connections": [
             "bsky.app",
             "theonion.com",
@@ -327,7 +353,8 @@
     {
         "handle": "observablehq.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:v7w63oyizwhmzkqpx3tjn5r6/bafkreie2kflsivzir7kio3tz3tm4dtk7nxd5rnc7b3l2nhja6w64pjdcjy@jpeg",
-        "followers_count": 1459,
+        "description": "The end-to-end solution for developers who want to build and host dashboards that don’t suck.",
+        "followers_count": 1468,
         "connections": [
             "bsky.app"
         ]
@@ -335,19 +362,22 @@
     {
         "handle": "bsky.app",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z72i7hdynmk6r22z27h6tvur/bafkreihagr2cmvl2jt4mgx3sppwe2it3fwolkrbtjrhcnwjk4jdijhsoze@jpeg",
-        "followers_count": 16543053,
+        "description": "official Bluesky account (check username👆)\n\nPress: press@blueskyweb.xyz\nSupport: support@bsky.app",
+        "followers_count": 16702146,
         "connections": []
     },
     {
         "handle": "juanarivers.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:47gj6jyirhxtibccijva4hxs/bafkreibfyfxsychjicysgzfong3qbcfexbuofaecnplsynkksgjwlfgqfa@jpeg",
-        "followers_count": 1980,
+        "description": "Columpiatorio de fashion&política, ridículo y poder. Con énfasis en lo ridículo. ",
+        "followers_count": 1994,
         "connections": []
     },
     {
         "handle": "washingtonpost.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreicx5ybi5wukvetsv3m74z3nmvbvrdhgms6sr4nlilrktv5u2lmsay@jpeg",
-        "followers_count": 556824,
+        "description": "Democracy Skies in Blueness\n",
+        "followers_count": 561031,
         "connections": [
             "jay.bsky.team",
             "bloomberg.com",
@@ -357,7 +387,8 @@
     {
         "handle": "jay.bsky.team",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oky5czdrnfjpqslsw2a5iclo/bafkreihidru2xruxdxlvvcixc7lbgoudzicjbrdgacdhdhxyfw4yut4nfq@jpeg",
-        "followers_count": 450794,
+        "description": "CEO of Bluesky, steward of AT Protocol. \n\nLet’s build a federated republic, starting with this server. 🌱 🪴 🌳 ",
+        "followers_count": 453672,
         "connections": [
             "georgetakei.bsky.social",
             "mcuban.bsky.social",
@@ -368,7 +399,8 @@
     {
         "handle": "marcelias.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pjiafkey2cokiupsxpswqlk7/bafkreibda5a7updqoqvq2k4jnklowk5cv2zlljz4zztuzdedfivgnnkwwa@jpeg",
-        "followers_count": 447329,
+        "description": "Founder @democracydocket.com. Chair of Elias Law Group. My dog's name is Bode.",
+        "followers_count": 454559,
         "connections": [
             "atrupar.com",
             "mollyjongfast.bsky.social",
@@ -380,7 +412,8 @@
     {
         "handle": "hcrichardson.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wpj5z24vsmik5ocqjybwjpso/bafkreiclxlptb23gfjal6mkp7xzxyiwbgqiwwvimjfslea3p5qgnq2spki@jpeg",
-        "followers_count": 317600,
+        "description": "Historian. Author. Professor. Budding Curmudgeon. I study the contrast between image and reality in America, especially in politics.",
+        "followers_count": 324677,
         "connections": [
             "georgetakei.bsky.social",
             "mcuban.bsky.social",
@@ -392,13 +425,15 @@
     {
         "handle": "theonion.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:a4pqq234yw7fqbddawjo7y35/bafkreiajdz4ktkjv5jrnye7sotgz6g5xarts6yu6ypbhninxqnvwoiwsfi@jpeg",
-        "followers_count": 753613,
+        "description": "America’s Finest News Source.\n\nA @globaltetrahedron.bsky.social subsidiary. ",
+        "followers_count": 762295,
         "connections": []
     },
     {
         "handle": "atrupar.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4llrhdclvdlmmynkwsmg5tdc/bafkreibmhm3h6ar52pogvolisrzjdhwa2myras5vkxzj67twxn2l6pogwu@jpeg",
-        "followers_count": 530777,
+        "description": "Independent journalist and publisher of the Public Notice newsletter ",
+        "followers_count": 535979,
         "connections": [
             "georgetakei.bsky.social",
             "mcuban.bsky.social",
@@ -410,37 +445,43 @@
     {
         "handle": "georgetakei.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y4zs4cabaezzwx3bz2e5nnj2/bafkreihyuljtklac6pgvt4kbndezofm23wswyhdqmh77bgedrxhuigwbh4@jpeg",
-        "followers_count": 836865,
+        "description": "I’ve boldly gone into the clear blue yonder. Follow for more recipes and tips.\n",
+        "followers_count": 853724,
         "connections": []
     },
     {
         "handle": "mcuban.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y5xyloyy7s4a2bwfeimj7r3b/bafkreihxddlkbnblytjdbajg5qopawdfcabg5e7ppwja6zmm3lvnedzojm@jpeg",
-        "followers_count": 685876,
+        "description": "Entrepreneur \nCostplusdrugs.com",
+        "followers_count": 697193,
         "connections": []
     },
     {
         "handle": "meidastouch.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xjc7mkotpenvhh6ffewkdpyn/bafkreifmocqyainrhqyrla3lewf7xb6mj3vqchd73iefmumh6hs6jtdcmy@jpeg",
-        "followers_count": 543780,
+        "description": "The fastest growing independent news network in the world. We cover breaking news, politics, law and more. We are unapologetically pro-democracy.",
+        "followers_count": 550359,
         "connections": []
     },
     {
         "handle": "mollyjongfast.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oqr5mp25r7z3vfr3igeerxbw/bafkreife3esnaucwuw3ciizmart6a7pt23nh24pplnvwjb47txsk7xlq6y@jpeg",
-        "followers_count": 513444,
+        "description": "Special correspondent at Vanity Fair ￼and host of the Fast politics podcast and MSNBC",
+        "followers_count": 518505,
         "connections": []
     },
     {
         "handle": "gtconway.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4lx6nur5wstwoc4wtgj56kyu/bafkreihbchxrwqxmvvnhkpvbbgnhrinybygl5b7ommglbny7p5p4ifanue@jpeg",
-        "followers_count": 511000,
+        "description": "Recovering lawyer who may relapse at any moment. Contributor, The Atlantic. President, Society for the Rule of Law.",
+        "followers_count": 518819,
         "connections": []
     },
     {
         "handle": "briantylercohen.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vocg5apjrlm7dfptvy6qbrfy/bafkreic7awikqepwolxd2z3ezt672ltf3hbfsmhxqldd2lmbu34723auxq@jpeg",
-        "followers_count": 499214,
+        "description": "Political commentary. Three billion views on YouTube. #1 NYT bestselling author. MSNBC contributor.\n\nhttps://linktr.ee/briantylercohen",
+        "followers_count": 506509,
         "connections": [
             "georgetakei.bsky.social",
             "mcuban.bsky.social",
@@ -452,7 +493,8 @@
     {
         "handle": "sethabramson.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vpfavbhwv4okwh6ydgp5uxf6/bafkreic36bvwqtv7pugzw4zh2kxmgxapuoxpkuoz5p3zelcjn7h26o5ake@jpeg",
-        "followers_count": 265038,
+        "description": "Journalist, lawyer, NYT-bestselling presidential historian, former CNN and BBC contributor, musician, retired journalism professor.\n\nBio: sethabramson.net/bio\nProof: sethabramson.substack.com\nRetro: retrostack.substack.com\nHounds: houndsmusic.substack.com",
+        "followers_count": 266311,
         "connections": [
             "npr.org",
             "ronfilipkowski.bsky.social",
@@ -464,7 +506,8 @@
     {
         "handle": "npr.org",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln72v57ivz2g46uqf4xxqiuh/bafkreiggmfuoyybcriueenrxrhaemubfanwj77qi2nuro7fs4javp3fkom@jpeg",
-        "followers_count": 486266,
+        "description": "This is NPR 🎙️",
+        "followers_count": 494420,
         "connections": [
             "emilyliu.me",
             "support.bsky.team",
@@ -476,67 +519,78 @@
     {
         "handle": "ronfilipkowski.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:t6ubj2wlhc34awzcymh3qpur/bafkreifqp5wczyswtq4g45yi73ivgtlhctw2jj3ghjfsve53k4tvli62cy@jpeg",
-        "followers_count": 466719,
+        "description": "Editor in Chief, MeidasNews. Former Fed & State Prosecutor, Marine, Attorney. Switched parties from R to D in 2020. MeidasPlus.com/subscribe",
+        "followers_count": 469520,
         "connections": []
     },
     {
         "handle": "adamkinzinger.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tsksqpjisdvtusxq6ide5tzj/bafkreidsxdxp3kqmm7p6c34rjixibrazmnhjzzfgctjcrsov4v5wi2hbgi@jpeg",
-        "followers_count": 425976,
+        "description": "Former US Congressman, Proud RINO, husband, and military man.  Fighting the MAGA brain worms daily!\n\nAdamkinzinger.komi.io\nAdamkinzinger.substack.com",
+        "followers_count": 429490,
         "connections": []
     },
     {
         "handle": "chrislhayes.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:e62gb2ushvtvjvqcbrxeaw2n/bafkreignbhxunrcvqpwkgd6jshgjenc4at6rtbvfnwsyy5g32kq56cyfaq@jpeg",
-        "followers_count": 383090,
+        "description": "Bronx boy. Cubs fan. Dad, husband, writer, podcaster and cable news host. ",
+        "followers_count": 387994,
         "connections": []
     },
     {
         "handle": "mehdirhasan.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:j53tav4pdcpfxyx2gcfr5fhb/bafkreid3qifkugat3tjsfz3hqyzi3h5tsf6dph2qqcsf4g4fokw6h4pm6e@jpeg",
-        "followers_count": 368732,
+        "description": "Editor and CEO, Zeteo \nAuthor, ‘Win Every Argument’ \nBritish-American",
+        "followers_count": 373322,
         "connections": []
     },
     {
         "handle": "redditspaceviewes.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lr7ey7d75zqtsqizrerjvigt/bafkreiddn6xuyggougeqvz4lck5yqrcpakqpndvgvpqgqmafrqcjtbfixu@jpeg",
-        "followers_count": 176729,
+        "description": "Welcome,this account is devoted high-quality image of space,sharing quality astrophotography science &Technology",
+        "followers_count": 176730,
         "connections": []
     },
     {
         "handle": "emilyliu.me",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vjug55kidv6sye7ykr5faxxn/bafkreia63347vwjt4sgfkedgvytodt22ugfck5o36qotwaflsf3qq5xj3y@jpeg",
-        "followers_count": 78826,
+        "description": "big fan of the open internet & technology as a tool for agency\n🌱 emilyliu.me\n🌀 bluesky team",
+        "followers_count": 79170,
         "connections": []
     },
     {
         "handle": "support.bsky.team",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oc6vwdlmk2kqyida5i74d3p5/bafkreiam7csw2k4bj6sgxe4fkg5nvvglun7yz4rxs2szvs6a5tbv5ydzgq@jpeg",
-        "followers_count": 57490,
+        "description": "Submit bug reports, feature requests, and feedback with the in-app form in your left side menu (mobile) or right column (desktop), or email us at support@bsky.app.",
+        "followers_count": 58059,
         "connections": []
     },
     {
         "handle": "hansilowang.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eijqdygh72wuei7faamrclpc/bafkreid7i7y76y32ag5vcd4ugnzm62tttxc5wvvo4isu7l3kkbettecfi4@jpeg",
-        "followers_count": 52435,
+        "description": "NPR correspondent reporting on how elections, the census and other parts of the U.S. government work • email: hwang@npr.org • signal: hansi.01",
+        "followers_count": 52609,
         "connections": []
     },
     {
         "handle": "lindaholmes.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nnybt4xto5wei34knpj3kexp/bafkreigmahy5icfrlk3sopttzmlm2wkpgrbh373yq6x3s7wnzkgtjpwz4y@jpeg",
-        "followers_count": 47696,
+        "description": "Host, NPR. Writer of novels. Companion of internet dog. Oh God, I should probably be doing one of my jobs right now.",
+        "followers_count": 48018,
         "connections": []
     },
     {
         "handle": "edeggans.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nchapqrqunftqm76t7oy53ts/bafkreie2tx3q6dwubapfzxxjztzc2msbhfunxihgrgrnsyxkwokgojznai@jpeg",
-        "followers_count": 32368,
+        "description": "NPR TV critic, media analyst and guest host. Adjunct prof at Duke University and Indiana University. Father to four. Blerd. Drummer. Author: Race-Baiter: How the Media Wields Dangerous Words to Divide a Nation. Media bloviator.  ",
+        "followers_count": 32724,
         "connections": []
     },
     {
         "handle": "shashj.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mj5h6johygkjaoo3dg5q23lm/bafkreifqsw4576zytpf2psa4yyjve7xv6tt5ceiaqrogfm7vu5eypav6ce@jpeg",
-        "followers_count": 29746,
+        "description": "Defence Editor at The Economist  ",
+        "followers_count": 30187,
         "connections": [
             "pwnallthethings.bsky.social",
             "carlomasala1.bsky.social",
@@ -548,37 +602,43 @@
     {
         "handle": "pwnallthethings.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ovyajbnegrir2ddtwfhijiob/bafkreigshibagl3u2yefhuj3qkthwlbkufw4vhpv6cevvgfmp5uwioxmdq@jpeg",
-        "followers_count": 136631,
+        "description": "Just thinking out loud. ",
+        "followers_count": 138244,
         "connections": []
     },
     {
         "handle": "carlomasala1.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mfsnflbfiv7uxpomj2zd37xd/bafkreifxiemtxjleqfc5vzcukw3qze2jth7uio3c47a2olqxldwssmor6m@jpeg",
-        "followers_count": 54597,
+        "description": "IR Scholar. Universität der Bundeswehr München. Private account",
+        "followers_count": 54819,
         "connections": []
     },
     {
         "handle": "ldfreedman.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ts5ajcxetbjh3kx455t3fwkq/bafkreih3g7qntaxi3coeid23kosygnb723ikczfhbvtrnv56ek2n76owie@jpeg",
-        "followers_count": 35900,
+        "description": "Emeritus Professor of War Studies King's College London. Latest Book Command: The Politics of Military Operations from Korea to Ukraine. Substack Comment is Freed https://samf.substack.com/",
+        "followers_count": 36160,
         "connections": []
     },
     {
         "handle": "michaelkofman.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4bk4vtgddvt7vcg2aahesh5e/bafkreiagtx5y7to5rwp22nxpyspqj63l3wifne4ww4dyhknmwt3hsvfrdi@jpeg",
-        "followers_count": 28433,
+        "description": "Senior Fellow, Carnegie Endowment. Defense analysis with a focus on the Russian and Ukrainian militaries.",
+        "followers_count": 28715,
         "connections": []
     },
     {
         "handle": "rikefranke.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eycg47nc4kycvzgiq3r5h326/bafkreickic6mc5o6zuqfwahkmxybupobwylc5l4uf6ggx67d4wygptf7qu@jpeg",
-        "followers_count": 25459,
+        "description": "Senior Fellow at European Council on Foreign Relations. #Drone politics PhD UniofOxford, previously Sciences Po. Writes about all things #Germany #Defence. Diskutiert/ discutes bei SicherheitsPod & LeCollimateur",
+        "followers_count": 25634,
         "connections": []
     },
     {
         "handle": "duncanrobinson.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cq3cgajrgw3sdbmfz2ml4374/bafkreicow6ejs25sfqb72xwb22kybw5sw6dmqguwevxnjsjevk3wnox7l4@jpeg",
-        "followers_count": 27328,
+        "description": "Write Bagehot column for the Economist ",
+        "followers_count": 27411,
         "connections": [
             "dril.bsky.social",
             "dieworkwear.bsky.social",
@@ -590,37 +650,43 @@
     {
         "handle": "dril.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6wpkkitfdkgthatfvspcfmjo/bafkreiggofiqpdnz6tfajmu7i5gdqyl7j27h22bqivpmkymuzwd5kcudfm@jpeg",
-        "followers_count": 409840,
+        "description": "https://linktr.ee/drilreal\n\nJust a few of my posts here to look at . Make sure to look at my links and my posts and to click on all my links and like my posts .",
+        "followers_count": 411769,
         "connections": []
     },
     {
         "handle": "dieworkwear.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ks3gpa6ftoyaq7hmf6c4qx4c/bafkreihrqpqih4olrrltatktn2n4rzljwhgajacguab4u3j6vfubanumou@jpeg",
-        "followers_count": 330742,
+        "description": "Menswear writer. Editor at Put This On. Words at The New York Times, The Washington Post, The Financial Times, Esquire, and Mr. Porter. \n\nIf you have a style question, search:\n\nhttps://dieworkwear.com/ | https://putthison.com/start-here/\n",
+        "followers_count": 333616,
         "connections": []
     },
     {
         "handle": "xkcd.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cz73r7iyiqn26upot4jtjdhk/bafkreibandvfr3i2qpwbuzfwcw26px2wfh2vkrgtbr2neiof4muzca2h2i@jpeg",
-        "followers_count": 293061,
+        "description": "",
+        "followers_count": 293923,
         "connections": []
     },
     {
         "handle": "jonbois.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ovioxia6nlp5luphgf5ovg7p/bafkreigd5i4uzekbbr347dtizjzsgqrjcd7s5gmrnugxazualhfkgdtu5q@jpeg",
-        "followers_count": 208541,
+        "description": "jon\n\nhttps://www.patreon.com/c/SecretBase\nhttps://www.youtube.com/SecretBaseSBN",
+        "followers_count": 210248,
         "connections": []
     },
     {
         "handle": "adamserwer.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lzlqyldh7nfc34pfffvd24ko/bafkreihu4pvhv2qv7xy6mpdrfswu2dip5nxybq6qs2vvuujgcwmmtfngkq@jpeg",
-        "followers_count": 207004,
+        "description": "Romanista",
+        "followers_count": 208402,
         "connections": []
     },
     {
         "handle": "hern.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:psxf6wrijwkudvi2etmxsess/bafkreiagp6dmewrztlhig227zf47rtmvvnoynywvsdx3sqjlkyn4h7ukcm@jpeg",
-        "followers_count": 24666,
+        "description": "AI writer at the Economist. I write about it, that is. I’m still human.",
+        "followers_count": 24810,
         "connections": [
             "dril.bsky.social",
             "bencollins.bsky.social",
@@ -632,31 +698,36 @@
     {
         "handle": "bencollins.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:x4qyokjtdzgl7gmqhsw4ajqj/bafkreihfnahgxywmhcl4fffsa65tk4edrio5bjyy3s3yabr6caymiyl73a@jpeg",
-        "followers_count": 323665,
+        "description": "American businessman.",
+        "followers_count": 327009,
         "connections": []
     },
     {
         "handle": "bellingcat.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sb54dpdfefflykmf5bcfvr7t/bafkreick3tvuw6kxfcpjgnxf75dhigmll53w5jgvin4mw3hre344o4tmiu@jpeg",
-        "followers_count": 163269,
+        "description": "Bellingcat is an independent investigative collective of researchers, investigators and citizen journalists brought together by a passion for open source research.\nWant to support our charity? bellingcat.com/donate \n",
+        "followers_count": 164498,
         "connections": []
     },
     {
         "handle": "caseynewton.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jg7zvku4khzmvyjwbzv4lnly/bafkreia6255mkaxmxpjxcjjsoyc46hzmltlxvlvkvoegpknmgtakjbrtue@jpeg",
-        "followers_count": 152284,
+        "description": "Email salesman at Platformer.news and podcast co-host at Hard Fork. ",
+        "followers_count": 153730,
         "connections": []
     },
     {
         "handle": "molly.wiki",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:exrxvyu6bpoym6mbnctke5tn/bafkreibiohyczyzxp3auyguy2klhslnv3nqgehpu7daglouztx4zziy2yq@jpeg",
-        "followers_count": 142455,
+        "description": "independent researcher, writer, and technology critic focused on cryptocurrency industry • software engineer • wikipedian\n\n• writes: https://citationneeded.news/ and @web3isgoinggreat.com\n• links: https://mollywhite.net/linktree\n\nshe/her 💗💜💙",
+        "followers_count": 144163,
         "connections": []
     },
     {
         "handle": "matthewholehouse.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:phrwhxykvoi3zwiasdcaijyi/bafkreib6lfmkndm5lb6iimfifw6dubw5jw64vmmcd7x7fbqxo5oy72gz4y@jpeg",
-        "followers_count": 24628,
+        "description": "British political correspondent at The Economist. Comment journalist of the year, British Journalism Awards 2023.",
+        "followers_count": 24692,
         "connections": [
             "dieworkwear.bsky.social",
             "financialtimes.com",
@@ -668,31 +739,36 @@
     {
         "handle": "financialtimes.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5u54z2qgkq43dh2nzwzdbbhb/bafkreif2ng565gq22mobaq5olikueiux7qcpr6d62zrkbph42m65r7cekm@jpeg",
-        "followers_count": 208967,
+        "description": "The best of FT journalism, including breaking news and analysis.\n\nhttps://www.ft.com\n\nThe users this account follows are verified FT staff or contributors.",
+        "followers_count": 210434,
         "connections": []
     },
     {
         "handle": "lewisgoodall.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4jajixlbh346ugyindwqppwc/bafkreidq3ikwxknlhsex7aadzwvw4z3lumk4gcivnf6sht7m2jl2ofayra@jpeg",
-        "followers_count": 116146,
+        "description": "Journalist, Reporter, Writer, Presenter @ Britain's biggest news podcast The News Agents (Mon-Fri) and Sunday with Lewis Goodall on LBC 10-12.\n\nWebsite: lewisgoodall.com\nEmail: lewis.goodall@global.com",
+        "followers_count": 116664,
         "connections": []
     },
     {
         "handle": "pippacrerar.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2pysiybkjfyq3wtouxcgaoet/bafkreifu2ehvjeozvheqvr6qxjv6mfmsodjjgsvfjn7tvlog35q42ow5eu@jpeg",
-        "followers_count": 92644,
+        "description": "Political Editor, The Guardian\nhttps://www.theguardian.com/profile/pippacrerar",
+        "followers_count": 92964,
         "connections": []
     },
     {
         "handle": "ioponomarenko.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7wggz3lwumigckbfms7j4trd/bafkreichks3k6vjmpl3nwhqstmfkkukzgvf73psmjurubnndjs5xqdceta@jpeg",
-        "followers_count": 87671,
+        "description": "Live straight out of Bucha 🇺🇦",
+        "followers_count": 88338,
         "connections": []
     },
     {
         "handle": "taylorlorenz.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wo3lxbcfvdptzxyvq3qt2rgj/bafkreicwwe5tldfztlhmt3ptek4caneerpzovsendty5nf4v4oqqnyxdly@jpeg",
-        "followers_count": 179915,
+        "description": "Journalist writing about technology and life online at User Mag. \n\nSUBSCRIBE TO USER MAG TODAY: UserMag.co\n\nHost of Power User podcast ",
+        "followers_count": 180635,
         "connections": [
             "mcuban.bsky.social",
             "mollyjongfast.bsky.social",
@@ -704,13 +780,15 @@
     {
         "handle": "jamellebouie.net",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nvfposmpmhegtyvhbs75s3pw/bafkreiefjdjiahsa4upn3zabt4bxjfculjcxsdrxzc75nqlylfx7xo2izy@jpeg",
-        "followers_count": 413156,
+        "description": "The real jbouie. Columnist for the New York Times Opinion section. Co-host of the Unclear and Present Danger podcast. b-boy-bouiebaisse on TikTok. National program director of the CHUM Group.\n\nSend me your mutual aid requests. ",
+        "followers_count": 414949,
         "connections": []
     },
     {
         "handle": "eldiario.es",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sv2ivxvf7fxchmo2xamo3wwx/bafkreig7jgphqil24iybzjelgkn5aibs73v47medmv2qbzrlwwsatmrbie@jpeg",
-        "followers_count": 103822,
+        "description": "Periodismo a pesar de todo. Hazte socio, hazte socia http://usuarios.eldiario.es/hazte_socio",
+        "followers_count": 104684,
         "connections": [
             "bloomberg.com",
             "archive.org",
@@ -722,37 +800,43 @@
     {
         "handle": "bloomberg.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uewxgchsjy4kmtu7dcxa77us/bafkreiakf7idqsxdw6mur57feg2ns7hdhg6oalorn5celiio2ygxacrvhy@jpeg",
-        "followers_count": 267142,
+        "description": "The first word in business news. \nNewsletters: http://bloom.bg/newsletters \nPodcasts: http://bloom.bg/podcasts \nThe Big Take podcast: http://trib.al/jtoXfuT",
+        "followers_count": 268827,
         "connections": []
     },
     {
         "handle": "archive.org",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:73dpznbu4wqwtcyurwbiulov/bafkreiemdvhpo5rnsxktik5dkvmmc6horutcnlyoxwwrhsuaojz6qbzdyy@jpeg",
-        "followers_count": 236279,
+        "description": "Internet Archive is a non-profit research library preserving web pages, books, movies & audio for public access. Explore web history via the Wayback Machine. ",
+        "followers_count": 237139,
         "connections": []
     },
     {
         "handle": "data.ft.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ul3dm3b76hu2cqla3qxb4v6u/bafkreif2ng565gq22mobaq5olikueiux7qcpr6d62zrkbph42m65r7cekm@jpeg",
-        "followers_count": 137688,
+        "description": "The FT’s team of reporters, statisticians, illustrators, cartographers, designers, and developers work with colleagues across our newsrooms, using graphics and data to find, investigate and explain stories.\n\nhttps://www.ft.com/visual-and-data-journalism",
+        "followers_count": 138007,
         "connections": []
     },
     {
         "handle": "sintxaurrondo.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fmfnbdcj2fl5bycsurqpbmwo/bafkreicljiwtnlriq4elduaz4hxytg6mopzkhg4wulvz4z34tjyiycrpiy@jpeg",
-        "followers_count": 44770,
+        "description": "Periodista.",
+        "followers_count": 45056,
         "connections": []
     },
     {
         "handle": "iescolar.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eycpndxca25ujfbglonqsy3l/bafkreigk72sd4i7aa34hvajhezllezvyokdylyrbqztfgacg435ilp2q74@jpeg",
-        "followers_count": 28742,
+        "description": "Director de eldiario.es",
+        "followers_count": 29671,
         "connections": []
     },
     {
         "handle": "treadres.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ami7o3cslvxmc3utm523o2go/bafkreicb4sy6j6z7kc6xpfaaev4ggabcghjmi4dk27zjfpptx3cunohck4@jpeg",
-        "followers_count": 20291,
+        "description": "Take the road less travelled.",
+        "followers_count": 23007,
         "connections": [
             "mcuban.bsky.social",
             "muellershewrote.bsky.social",
@@ -764,19 +848,22 @@
     {
         "handle": "muellershewrote.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:x4g4laxkmsrczwvnvbbgsm7g/bafkreihmnd3rro432oiyr3tg6alcp7w3rqv4xqkrccubck5xz3hdax3fx4@jpeg",
-        "followers_count": 465317,
+        "description": "Owner of MSW Media, host of The Daily Beans, Jack, and Cleanup on Aisle 45 podcasts. #Leguminati. Veteran. She/Her Substack: muellershewrote.com",
+        "followers_count": 468225,
         "connections": []
     },
     {
         "handle": "maryltrump.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dkcsbqdaipybdturs2pzftwt/bafkreigypnp7i7uvwsvujg477wf3fygfcbfmjj53jvohxu6d65ccyzwmbm@jpeg",
-        "followers_count": 226779,
+        "description": "Author. Mom. Defender of democracy. http://linktr.ee/marytrump",
+        "followers_count": 228119,
         "connections": []
     },
     {
         "handle": "scalzi.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qvzn322kmcvd7xtnips5xaun/bafkreih4dn5gllculyzb6wlqcqparkax35zloe3bzn2nufeqeilz4sutsu@jpeg",
-        "followers_count": 205149,
+        "description": "I enjoy pie.",
+        "followers_count": 205709,
         "connections": []
     }
 ]
