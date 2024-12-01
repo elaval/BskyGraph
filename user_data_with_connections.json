@@ -1,61 +1,15 @@
 [
     {
-        "handle": "pcayuqueo.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ap7xqzzg2pzto6yb53qpyiae/bafkreibdz7bv4oerrichdnldjyrpxanbc7u5upy47xrvg62m64lejekrca@jpeg",
-        "followers_count": 549,
-        "connections": {
-            "followers_count": 549,
-            "connections": [
-                "bsky.app",
-                "censelio.bsky.social",
-                "juanarivers.bsky.social"
-            ]
-        }
-    },
-    {
-        "handle": "jpiquer.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vp3olhrwglixb5g6ptoyf4zm/bafkreid2fdwgqf54ddqq6arhbvb3gli3pi77yut62sxcgdvwmjxfowj4wq@jpeg",
-        "followers_count": 337,
-        "connections": {
-            "followers_count": 337,
-            "connections": [
-                "aoc.bsky.social",
-                "washingtonpost.com",
-                "jay.bsky.team",
-                "marcelias.bsky.social",
-                "hcrichardson.bsky.social"
-            ]
-        }
-    },
-    {
-        "handle": "juanseapi.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jlnhkgwjgzfxnahodceknhxf/bafkreickifvi4ntf4pp5bkbtanu47awwoghvgouynucg24mx7p6fjasubm@jpeg",
-        "followers_count": 163,
-        "connections": {
-            "followers_count": 163,
-            "connections": [
-                "bsky.app",
-                "aoc.bsky.social",
-                "theonion.com",
-                "jay.bsky.team",
-                "theguardian.com"
-            ]
-        }
-    },
-    {
         "handle": "dmimica.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6sbzutdek6kxzojvgoec4itl/bafkreibaa5n7shnr4ao5blq2nvbo2eugeu5o6a4guex4wbykt67ivhdp6m@jpeg",
         "followers_count": 1229,
-        "connections": {
-            "followers_count": 1229,
-            "connections": [
-                "theonion.com",
-                "nytimes.com",
-                "markhamillofficial.bsky.social",
-                "atrupar.com",
-                "briantylercohen.bsky.social"
-            ]
-        }
+        "connections": [
+            "theonion.com",
+            "nytimes.com",
+            "markhamillofficial.bsky.social",
+            "atrupar.com",
+            "briantylercohen.bsky.social"
+        ]
     },
     {
         "handle": "mrhitchcok.bsky.social",
@@ -67,42 +21,6 @@
             "cnn.com",
             "sethabramson.bsky.social",
             "redditspaceviewes.bsky.social"
-        ]
-    },
-    {
-        "handle": "copano.bsky.social",
-        "avatar_url": "",
-        "followers_count": 923,
-        "connections": [
-            "bsky.app"
-        ]
-    },
-    {
-        "handle": "elquenoaporta.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ix6gh6ph2ohi2smjw5tckjwc/bafkreiaoergx3ihz7ry7u5gxabvfa5wbfniangsaam4lizgyc7s2qqdn5u@jpeg",
-        "followers_count": 97,
-        "connections": [
-            "bsky.app"
-        ]
-    },
-    {
-        "handle": "guillodibujante.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wkk7lbelk3a2446vd2p7z2wz/bafkreieabx5idvpqoq4i4pzedegm6a2nenalav5rbavz2nrarxuizud3hq@jpeg",
-        "followers_count": 407,
-        "connections": [
-            "bsky.app"
-        ]
-    },
-    {
-        "handle": "polarbearby.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:udohvepz72axnaikfosi2h3z/bafkreicpzfxjhpbrb6bwj2z5br62wcgfe2fktlsncfaiwfu35rghl2uxie@jpeg",
-        "followers_count": 54,
-        "connections": [
-            "bsky.app",
-            "nytimes.com",
-            "npr.org",
-            "cnn.com",
-            "theguardian.com"
         ]
     },
     {
@@ -130,39 +48,11 @@
         ]
     },
     {
-        "handle": "mariajaraquemada.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6qqrh3xfcqxunshioyq6dx67/bafkreig4qdtop6s2522wwspsybgma5fwuz53ycspqrqolni5nv5zkv4jhq@jpeg",
-        "followers_count": 599,
-        "connections": [
-            "bsky.app",
-            "nytimes.com",
-            "washingtonpost.com",
-            "theguardian.com",
-            "taylorlorenz.bsky.social"
-        ]
-    },
-    {
-        "handle": "antoniaurrejola.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6pgmdgikn62k4ugqcufilb7/bafkreihpkudoxyqf6gsvaumm6b7vi2cnaxo4xxkcz4wpa3yqtqvdvtgz7m@jpeg",
-        "followers_count": 334,
-        "connections": [
-            "bsky.app",
-            "aoc.bsky.social",
-            "theguardian.com",
-            "eldiario.es",
-            "treadres.bsky.social"
-        ]
-    },
-    {
         "handle": "censelio.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ao6poztm2ostridphfbf2l3y/bafkreidjom4dssoinz4jt5ecqbmqxpzv5nhhq4wytozadyiokrlnvzp6r4@jpeg",
         "followers_count": 4660,
         "connections": [
-            "theguardian.com",
-            "ap.brid.gy",
-            "us.theguardian.com",
-            "electomania.es",
-            "museumsassociation.bsky.social"
+            "theguardian.com"
         ]
     },
     {
@@ -173,19 +63,7 @@
             "dril.bsky.social",
             "theguardian.com",
             "dieworkwear.bsky.social",
-            "adamserwer.bsky.social",
-            "theatlantic.com"
-        ]
-    },
-    {
-        "handle": "renesaffirio.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4acyeonrlu4zevzs5nyz3gu7/bafkreifmm7sziazp4e3wquhxfixmami5bspd7vfamqc4h5c2quqq3i7chi@jpeg",
-        "followers_count": 648,
-        "connections": [
-            "bsky.app",
-            "ddserrano.bsky.social",
-            "latercera.com",
-            "xchongc.bsky.social"
+            "adamserwer.bsky.social"
         ]
     },
     {
@@ -201,49 +79,11 @@
         ]
     },
     {
-        "handle": "elpaischile.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lefutsiwlmitoldxvjf4bo2e/bafkreifur6deecspg37ipgaukdqlwui5ye4xprexopuz4gph3ycektefsi@jpeg",
-        "followers_count": 838,
-        "connections": [
-            "bsky.app",
-            "elpaisamerica.bsky.social"
-        ]
-    },
-    {
-        "handle": "senapred.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bntxpy4bwwwfhdfcd4btgsu5/bafkreifonfaxecr363wyhsnrzeuetclflfmu3sbuelxnwjfvadlxvclekq@jpeg",
-        "followers_count": 424,
-        "connections": [
-            "bsky.app",
-            "uchileradio.bot.altgr.xyz"
-        ]
-    },
-    {
         "handle": "theclinic.cl",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:u2wkqbunk5ugtkrqwse7exeh/bafkreiefcmxj4zh7thgpejs4gi62z3hrwuot4hyyy75hh737fvluokk25a@jpeg",
         "followers_count": 1385,
         "connections": [
             "bsky.app"
-        ]
-    },
-    {
-        "handle": "radioadn.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:a2pjivc2qoijpbh2mjdtg7ix/bafkreicic6jy5toslhpsnf5n6ac3ztxijy3psqpv5oys3y2c3nffzxw5ti@jpeg",
-        "followers_count": 948,
-        "connections": [
-            "bsky.app"
-        ]
-    },
-    {
-        "handle": "lucialopez.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eg25epgm5mj7tzfc76arg77b/bafkreiannoalcivwfijbzdxrophsyozxij6bxegks6lt652jmmpvtxvl7m@jpeg",
-        "followers_count": 548,
-        "connections": [
-            "bsky.app",
-            "nytimes.com",
-            "cnn.com",
-            "theguardian.com",
-            "bloomberg.com"
         ]
     },
     {
@@ -253,21 +93,7 @@
         "connections": [
             "bsky.app",
             "nytimes.com",
-            "theguardian.com",
-            "hannibal.bsky.social",
-            "inviernos.bsky.social"
-        ]
-    },
-    {
-        "handle": "daniloherrerad.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6sv7vm2zmnjorl5uhmwxtxaj/bafkreiamrupiwmqa345cjj6rajstfnh22a7l6ta4ujtwpjsejrmdi6ma4a@jpeg",
-        "followers_count": 889,
-        "connections": [
-            "cgajardop.bsky.social",
-            "matamala.bsky.social",
-            "mattyll.bsky.social",
-            "marioaguilera4.bsky.social",
-            "maibennett.com"
+            "theguardian.com"
         ]
     },
     {
@@ -277,9 +103,7 @@
         "connections": [
             "bsky.app",
             "eldiario.es",
-            "matamala.bsky.social",
-            "bototos.bsky.social",
-            "floroceballos.bsky.social"
+            "matamala.bsky.social"
         ]
     },
     {
@@ -288,94 +112,7 @@
         "followers_count": 2242,
         "connections": [
             "nytimes.com",
-            "theguardian.com",
-            "spanishrevolution.bsky.social",
-            "madverse.bsky.social",
-            "kevin-mele.bsky.social"
-        ]
-    },
-    {
-        "handle": "fabriziocopano.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rcq5lraayrz4uxfwlcmkpnjf/bafkreigtwjgmgezncmoqc4gafyfqdjfq3gu4djxs76oxgioksox76t26si@jpeg",
-        "followers_count": 615,
-        "connections": [
-            "felipetmedina.bsky.social"
-        ]
-    },
-    {
-        "handle": "heliamolina.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqdg3jp47xvnm6qhtcxd4g7u/bafkreicqenffnnkzscprh5pxqiittwgx4djtbwxomivxt6nwk6m3yneybq@jpeg",
-        "followers_count": 740,
-        "connections": [
-            "bsky.app",
-            "cla-cor.bsky.social",
-            "bacigalupe.bsky.social",
-            "rafacavada.bsky.social",
-            "freddystock.bsky.social"
-        ]
-    },
-    {
-        "handle": "valdebenitonata.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7thtnfhae5rlnbwdzsfays2j/bafkreidohfncoxfxe3wf4aa3yx2uuktztzl5gbknt4iubd3blcko4gluva@jpeg",
-        "followers_count": 927,
-        "connections": [
-            "bsky.app",
-            "theguardian.com",
-            "newyorker.com",
-            "vagoilustrado.bsky.social",
-            "mattyll.bsky.social"
-        ]
-    },
-    {
-        "handle": "marcoporchile.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2eb2azgbkyjzbps3mi6ln7mg/bafkreidaznoxk53frx23zr3soz2jbpl3i7utdhgfcibqicqlwxeuojs4ey@jpeg",
-        "followers_count": 480,
-        "connections": []
-    },
-    {
-        "handle": "tomashirschg.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eelrc7jgspgrr4oz2m7lvwbe/bafkreiepnbbnmmw2xhuuatksvk7tn6ninxndcign66kchxcyo6skvl7ei4@jpeg",
-        "followers_count": 317,
-        "connections": [
-            "bsky.app",
-            "nytimes.com",
-            "washingtonpost.com",
-            "cnn.com",
-            "rbreich.bsky.social"
-        ]
-    },
-    {
-        "handle": "mlagoscc.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:txtv2enoiyhw4wesfguqxbft/bafkreied5zkmfyjuflkigkum4x6h5tfusig7jslh6vnk64v3plrb5k2ei4@jpeg",
-        "followers_count": 238,
-        "connections": [
-            "bsky.app",
-            "theguardian.com",
-            "rpsagainsttrump.bsky.social",
-            "bbcnewsnight.bsky.social",
-            "eldiario.es"
-        ]
-    },
-    {
-        "handle": "gonzalowinterr.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nbx22oelose4eiouogo3tgtu/bafkreia7atvy2smmi756ng42rirgwmd6jrsnl4odyesg6c5frkwsawcoau@jpeg",
-        "followers_count": 375,
-        "connections": [
-            "bsky.app",
-            "matamala.bsky.social",
-            "xchongc.bsky.social",
-            "malaimagen.bsky.social",
-            "bacigalupe.bsky.social"
-        ]
-    },
-    {
-        "handle": "nicograu.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:shjc7pof2czhlagpi55j7y2h/bafkreieqm42wqfkezal2drc7g5rrwixcl2dg55feypjifpldtwo22hd7yi@jpeg",
-        "followers_count": 98,
-        "connections": [
-            "bsky.app",
-            "rafacavada.bsky.social",
-            "giorgiojackson.bsky.social"
+            "theguardian.com"
         ]
     },
     {
@@ -391,18 +128,6 @@
         ]
     },
     {
-        "handle": "profeclaudio.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jygib42mbj7e4dejafo3kmlf/bafkreibduzz4gsb77tc7orjq2oepuxiomltbhi6fip3bcyiikxrrxk3xzq@jpeg",
-        "followers_count": 125,
-        "connections": [
-            "bsky.app",
-            "nytimes.com",
-            "cnn.com",
-            "jentaub.bsky.social",
-            "crimeajewel.bsky.social"
-        ]
-    },
-    {
         "handle": "rafacavada.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xedazyy7wsdfi6wzo5gbedus/bafkreihg6gk6kj3bsgyjuwilowrsl2ouxx3cdjhjjh5njprtni7djyee6u@jpeg",
         "followers_count": 2565,
@@ -410,16 +135,7 @@
             "bsky.app",
             "nytimes.com",
             "cnn.com",
-            "theguardian.com",
-            "theverge.com"
-        ]
-    },
-    {
-        "handle": "pablosimonetti.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ipsbjva4zwljwpaaut57m3am/bafkreibbdi3nqnonuw7od5mu6hajcizpwizswczeloq34z6lmikmsd2pru@jpeg",
-        "followers_count": 43,
-        "connections": [
-            "bsky.app"
+            "theguardian.com"
         ]
     },
     {
@@ -428,86 +144,7 @@
         "followers_count": 13348,
         "connections": [
             "theguardian.com",
-            "georgemonbiot.bsky.social",
-            "pippacrerar.bsky.social",
-            "profaliceroberts.bsky.social",
-            "trishgreenhalgh.bsky.social"
-        ]
-    },
-    {
-        "handle": "patricionavia.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dspzpaojuptsbdr4nk22ykho/bafkreichibphhftnymdfjqyd23gotmscrbx3v265miaq22yapwaa7r7x3i@jpeg",
-        "followers_count": 50,
-        "connections": [
-            "bsky.app"
-        ]
-    },
-    {
-        "handle": "juanpablobeca.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6uxzaofdfjz5nx7vcdocwn4r/bafkreidj5qoymxntzvfce3mpkntbsomx4xppfbkvrwwwaaxwtx2bwf2p7y@jpeg",
-        "followers_count": 13,
-        "connections": [
-            "bsky.app",
-            "nytimes.com",
-            "cnn.com",
-            "matamala.bsky.social",
-            "floroceballos.bsky.social"
-        ]
-    },
-    {
-        "handle": "franciscaroman.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hrcymibjckzkteuq7bg3vach/bafkreictrevbqwgwar5vtaniutoyisvbhxkjw5ieeke27hbztww3qve4iy@jpeg",
-        "followers_count": 8,
-        "connections": [
-            "bsky.app",
-            "nytimes.com",
-            "washingtonpost.com",
-            "cnn.com",
-            "theguardian.com"
-        ]
-    },
-    {
-        "handle": "ppalet.bsky.social",
-        "avatar_url": "",
-        "followers_count": 50,
-        "connections": [
-            "aoc.bsky.social",
-            "wiki-potd.bsky.social",
-            "matamala.bsky.social",
-            "xchongc.bsky.social",
-            "malaimagen.bsky.social"
-        ]
-    },
-    {
-        "handle": "south-america.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zruqw4kym4nxvpamifeutp5c/bafkreigia7tfbg77vj5fozpkmcor6fioecccr4emuyrewww26oslclsbwi@jpeg",
-        "followers_count": 77,
-        "connections": [
-            "bsky.app"
-        ]
-    },
-    {
-        "handle": "earthquakes.live",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:emij7suwjtth6fai5lwzdgi2/bafkreigia7tfbg77vj5fozpkmcor6fioecccr4emuyrewww26oslclsbwi@jpeg",
-        "followers_count": 286,
-        "connections": [
-            "bsky.app",
-            "nytimes.com",
-            "spahn711.bsky.social",
-            "drwendyrocks.bsky.social",
-            "geohenning.bsky.social"
-        ]
-    },
-    {
-        "handle": "rodrigodvm.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2ydn24nrq2r6a2xg2uqun2vw/bafkreib726ti35hrpgbb7yt2dk24p2lsjp756ynis54zuvep5aq2urftuq@jpeg",
-        "followers_count": 32,
-        "connections": [
-            "bsky.app",
-            "nytimes.com",
-            "npr.org",
-            "cnn.com",
-            "theguardian.com"
+            "pippacrerar.bsky.social"
         ]
     },
     {
@@ -520,30 +157,6 @@
             "npr.org",
             "cnn.com",
             "theguardian.com"
-        ]
-    },
-    {
-        "handle": "eugenioseverin.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mucajqxk62nwbegzgq2a7gja/bafkreidadinaxikeduqtjidbgybppa3p5opcjqykneddizouzye6swjmcu@jpeg",
-        "followers_count": 171,
-        "connections": [
-            "bsky.app",
-            "aoc.bsky.social",
-            "nytimes.com",
-            "cnn.com",
-            "theguardian.com"
-        ]
-    },
-    {
-        "handle": "paulinaastrozas.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7y7ntu3jtxgx554uzltsgr67/bafkreihhavaojpm5eg465b45nipef32t6fq7nc76xbjdolnepnxr4bqkrm@jpeg",
-        "followers_count": 733,
-        "connections": [
-            "bsky.app",
-            "aoc.bsky.social",
-            "nytimes.com",
-            "washingtonpost.com",
-            "cnn.com"
         ]
     },
     {
@@ -563,35 +176,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:o2fmlrk45qqzhm2ug3jasjgl/bafkreihm5en2ghln3cq6lhbg2za6zp25d427egwmvy2xognpnhsk7othyy@jpeg",
         "followers_count": 1598,
         "connections": [
-            "theguardian.com",
-            "kiccc.bsky.social",
-            "qjqj.bsky.social",
-            "guillaumelondon.bsky.social",
-            "i55i.bsky.social"
-        ]
-    },
-    {
-        "handle": "veronicaundurraga.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4kfuac4lsveba5iirl6d3fgf/bafkreifz3unlj2h6ypev4kuwozpt6r63t24yagtlfhn7wbbayiichqzjpi@jpeg",
-        "followers_count": 499,
-        "connections": [
-            "bsky.app",
-            "nytimes.com",
-            "washingtonpost.com",
-            "cnn.com",
-            "theatlantic.com"
-        ]
-    },
-    {
-        "handle": "el-abc.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:budj47nw3arpeuxhadgy4e6u/bafkreicjwud7sver5xvs3skvzreyvtyb5vvntwircriqz3mxxr5a3m6jvy@jpeg",
-        "followers_count": 596,
-        "connections": [
-            "bsky.app",
-            "aoc.bsky.social",
-            "nytimes.com",
-            "mcuban.bsky.social",
-            "washingtonpost.com"
+            "theguardian.com"
         ]
     },
     {
@@ -602,44 +187,7 @@
             "bsky.app",
             "nytimes.com",
             "markhamillofficial.bsky.social",
-            "theguardian.com",
-            "lavanguardia.com"
-        ]
-    },
-    {
-        "handle": "jaimebassa.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nlgfcagxs7tcu72wvptf7ecj/bafkreia5mtce43qhee6eibraceycfs2rbhpc7l3duk6dycgkcf4gjopf2a@jpeg",
-        "followers_count": 936,
-        "connections": [
-            "bsky.app",
-            "vagoilustrado.bsky.social",
-            "jodemocracy.bsky.social",
-            "zurdacensurada.bsky.social",
-            "bsepulveda.bsky.social"
-        ]
-    },
-    {
-        "handle": "jnavon.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wrktt6hmbdd3nadqe26bemii/bafkreieyooeag373t7mnnublnia3ffzzrwlkztxv5kxxpo5np6lpwj5pbi@jpeg",
-        "followers_count": 146,
-        "connections": [
-            "bsky.app",
-            "nytimes.com",
-            "mcuban.bsky.social",
-            "theguardian.com",
-            "theverge.com"
-        ]
-    },
-    {
-        "handle": "bastianolea.rbind.io",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bv2tbcgmiobb2rir4rq2w45/bafkreif6kvh2bjvhuqcy3mku3pfw7kwhzklpk65t6xannkudks53wjyula@jpeg",
-        "followers_count": 546,
-        "connections": [
-            "bsky.app",
-            "dril.bsky.social",
-            "pfrazee.com",
-            "parkermolloy.com",
-            "chrisgeidner.bsky.social"
+            "theguardian.com"
         ]
     },
     {
@@ -671,11 +219,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
         "followers_count": 381656,
         "connections": [
-            "bsky.app",
-            "jaketapper.bsky.social",
-            "kfile.bsky.social",
-            "brianstelter.bsky.social",
-            "maggiehaberman.bsky.social"
+            "bsky.app"
         ]
     },
     {
@@ -694,13 +238,7 @@
         "handle": "nytimes.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
         "followers_count": 750756,
-        "connections": [
-            "theathletic.bsky.social",
-            "charliesavage.bsky.social",
-            "rmac.bsky.social",
-            "peterbakernyt.bsky.social",
-            "kevinroose.com"
-        ]
+        "connections": []
     },
     {
         "handle": "aoc.bsky.social",
@@ -718,35 +256,14 @@
         "handle": "damivago.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkpbs6phlif6m5z6jov3lwje/bafkreibwfgqlgshnf5oj3ci4hx6iir5lav2stw3szp2fb4d3qrbnxuqsue@jpeg",
         "followers_count": 2905,
-        "connections": [
-            "chistico.bsky.social",
-            "vagoilustrado.bsky.social",
-            "robertokiltro.bsky.social",
-            "mattyll.bsky.social",
-            "piensaprensatv.bsky.social"
-        ]
+        "connections": []
     },
     {
         "handle": "theguardian.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
         "followers_count": 343821,
         "connections": [
-            "georgemonbiot.bsky.social",
-            "carolecadwalla.bsky.social",
-            "pippacrerar.bsky.social",
-            "owenjones.bsky.social",
-            "moiradonegan.bsky.social"
-        ]
-    },
-    {
-        "handle": "espublicocl.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:b3hu563gwq4rcj5ualngtr4u/bafkreicqfeqoollnlkezd7esulztzki47jqgxumafsunh3vredodaeqosy@jpeg",
-        "followers_count": 522,
-        "connections": [
-            "bsky.app",
-            "ftorche.bsky.social",
-            "sajuria.com",
-            "sebastian-gray.bsky.social"
+            "pippacrerar.bsky.social"
         ]
     },
     {
@@ -766,8 +283,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:univ47kzorwxjih3lqzrnwmv/bafkreifnvtdwzmz25zxaidfg3f4co6gbiulwdpn2cicjdsqyjvkhgy5gsy@jpeg",
         "followers_count": 28565,
         "connections": [
-            "bsky.app",
-            "unhcr.org"
+            "bsky.app"
         ]
     },
     {
@@ -775,11 +291,7 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:r2tqb4cbjkgt4ntcmby64lav/bafkreieg6rvhxhowrjz4iad77wbgmsgiy7z2fccoug5k5ee7u5x6zqgezi@jpeg",
         "followers_count": 9295,
         "connections": [
-            "bsky.app",
-            "trishgreenhalgh.bsky.social",
-            "chrischirp.bsky.social",
-            "bschillace.brandyschillace.com",
-            "martinmckee.bsky.social"
+            "bsky.app"
         ]
     },
     {
@@ -788,34 +300,7 @@
         "followers_count": 1707,
         "connections": [
             "washingtonpost.com",
-            "astrokatie.com",
-            "eldiario.es",
-            "philplait.bsky.social",
-            "90sanimepics.bsky.social"
-        ]
-    },
-    {
-        "handle": "jathibaut.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rqhmkcjnrg5jvb4zrdexkuof/bafkreiaioql5syhmswc4es7l6c6jnkvf3ni7a3tdkrgew33j3bnwhfwaf4@jpeg",
-        "followers_count": 185,
-        "connections": [
-            "descifraguerra.bsky.social",
-            "mazzucatom.bsky.social",
-            "xannita.bsky.social",
-            "vagoilustrado.bsky.social",
-            "robertokiltro.bsky.social"
-        ]
-    },
-    {
-        "handle": "carlostph.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4o5ksiwiveguvgdwoahnrd7b/bafkreigh62on2kexf75vahunwy27plrpmyqf7nskktlvbkpo7n7frsygea@jpeg",
-        "followers_count": 68,
-        "connections": [
-            "bsky.app",
-            "georgetakei.bsky.social",
-            "theonion.com",
-            "calltoactivism.bsky.social",
-            "mjfree.bsky.social"
+            "eldiario.es"
         ]
     },
     {
@@ -824,10 +309,7 @@
         "followers_count": 3063,
         "connections": [
             "bsky.app",
-            "mattyll.bsky.social",
-            "bototos.bsky.social",
-            "juanarivers.bsky.social",
-            "hipokinetico.bsky.social"
+            "juanarivers.bsky.social"
         ]
     },
     {
@@ -847,43 +329,20 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:v7w63oyizwhmzkqpx3tjn5r6/bafkreie2kflsivzir7kio3tz3tm4dtk7nxd5rnc7b3l2nhja6w64pjdcjy@jpeg",
         "followers_count": 1459,
         "connections": [
-            "bsky.app",
-            "buffer.com",
-            "ocks.org"
-        ]
-    },
-    {
-        "handle": "sandracortes.bsky.social",
-        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yivvyg6lql2p2kfwqsa6lkri/bafkreifyk6p2wvqjpmbmmbv4uhmntotaoms5oocsvq4wbvqsmr5iwuqsxq@jpeg",
-        "followers_count": 62,
-        "connections": [
-            "bsky.app",
-            "climate.skyfleet.blue",
-            "ipcc.bsky.social",
-            "ipbes.bsky.social",
-            "carsoncenter.bsky.social"
+            "bsky.app"
         ]
     },
     {
         "handle": "bsky.app",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z72i7hdynmk6r22z27h6tvur/bafkreihagr2cmvl2jt4mgx3sppwe2it3fwolkrbtjrhcnwjk4jdijhsoze@jpeg",
         "followers_count": 16543053,
-        "connections": [
-            "safety.bsky.app",
-            "atproto.com"
-        ]
+        "connections": []
     },
     {
         "handle": "juanarivers.bsky.social",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:47gj6jyirhxtibccijva4hxs/bafkreibfyfxsychjicysgzfong3qbcfexbuofaecnplsynkksgjwlfgqfa@jpeg",
         "followers_count": 1980,
-        "connections": [
-            "lavanguardia.com",
-            "vagoilustrado.bsky.social",
-            "mattyll.bsky.social",
-            "uweones.bsky.social",
-            "bototos.bsky.social"
-        ]
+        "connections": []
     },
     {
         "handle": "washingtonpost.com",
@@ -892,8 +351,6 @@
         "connections": [
             "jay.bsky.team",
             "bloomberg.com",
-            "pbump.com",
-            "drewharwell.com",
             "emilyliu.me"
         ]
     },
@@ -905,7 +362,6 @@
             "georgetakei.bsky.social",
             "mcuban.bsky.social",
             "npr.org",
-            "stephenking.bsky.social",
             "jamellebouie.net"
         ]
     },
@@ -937,11 +393,7 @@
         "handle": "theonion.com",
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:a4pqq234yw7fqbddawjo7y35/bafkreiajdz4ktkjv5jrnye7sotgz6g5xarts6yu6ypbhninxqnvwoiwsfi@jpeg",
         "followers_count": 753613,
-        "connections": [
-            "brycetetraeder.bsky.social",
-            "globaltetrahedron.bsky.social",
-            "kartoonistkelly.bsky.social"
-        ]
+        "connections": []
     },
     {
         "handle": "atrupar.com",
