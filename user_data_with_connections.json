@@ -748,5 +748,35 @@
         "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eycpndxca25ujfbglonqsy3l/bafkreigk72sd4i7aa34hvajhezllezvyokdylyrbqztfgacg435ilp2q74@jpeg",
         "followers_count": 28742,
         "connections": []
+    },
+    {
+        "handle": "treadres.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ami7o3cslvxmc3utm523o2go/bafkreicb4sy6j6z7kc6xpfaaev4ggabcghjmi4dk27zjfpptx3cunohck4@jpeg",
+        "followers_count": 20291,
+        "connections": [
+            "mcuban.bsky.social",
+            "muellershewrote.bsky.social",
+            "maryltrump.bsky.social",
+            "jonbois.bsky.social",
+            "scalzi.com"
+        ]
+    },
+    {
+        "handle": "muellershewrote.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:x4g4laxkmsrczwvnvbbgsm7g/bafkreihmnd3rro432oiyr3tg6alcp7w3rqv4xqkrccubck5xz3hdax3fx4@jpeg",
+        "followers_count": 465317,
+        "connections": []
+    },
+    {
+        "handle": "maryltrump.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dkcsbqdaipybdturs2pzftwt/bafkreigypnp7i7uvwsvujg477wf3fygfcbfmjj53jvohxu6d65ccyzwmbm@jpeg",
+        "followers_count": 226779,
+        "connections": []
+    },
+    {
+        "handle": "scalzi.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qvzn322kmcvd7xtnips5xaun/bafkreih4dn5gllculyzb6wlqcqparkax35zloe3bzn2nufeqeilz4sutsu@jpeg",
+        "followers_count": 205149,
+        "connections": []
     }
 ]
