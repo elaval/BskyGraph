@@ -1631,3 +1631,892 @@
 2024-12-01 20:06:34,605 - INFO -  - DisplayName updated for 'scalzi.com'.
 2024-12-01 20:06:35,613 - INFO - Update complete. Total users updated: 201/136
 2024-12-01 20:06:35,617 - INFO - Successfully saved updated graph to 'user_graph.pkl'.
+2024-12-01 23:21:28,619 - INFO - HTTP Request: POST https://bsky.social/xrpc/com.atproto.server.createSession "HTTP/1.1 200 OK"
+2024-12-01 23:21:29,547 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=elaval.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:29,549 - INFO - Login successful.
+2024-12-01 23:21:29,551 - INFO - Backup created at 'user_graph_backup.pkl'.
+2024-12-01 23:21:29,551 - INFO - Successfully loaded 'user_graph.pkl'.
+2024-12-01 23:21:29,554 - INFO - Updating user 1/147: pcayuqueo.bsky.social
+2024-12-01 23:21:29,555 - INFO - Fetching profile for pcayuqueo.bsky.social...
+2024-12-01 23:21:29,945 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=pcayuqueo.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:29,948 - INFO - Fetched profile for pcayuqueo.bsky.social.
+2024-12-01 23:21:29,949 - INFO -  - Followers count updated: 549 -> 563
+2024-12-01 23:21:29,949 - INFO -  - DisplayName updated for 'pcayuqueo.bsky.social'.
+2024-12-01 23:21:30,958 - INFO - Updating user 2/147: jpiquer.bsky.social
+2024-12-01 23:21:30,958 - INFO - Fetching profile for jpiquer.bsky.social...
+2024-12-01 23:21:31,302 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=jpiquer.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:31,304 - INFO - Fetched profile for jpiquer.bsky.social.
+2024-12-01 23:21:31,304 - INFO -  - Followers count updated: 337 -> 348
+2024-12-01 23:21:31,304 - INFO -  - DisplayName updated for 'jpiquer.bsky.social'.
+2024-12-01 23:21:32,306 - INFO - Updating user 3/147: juanseapi.bsky.social
+2024-12-01 23:21:32,307 - INFO - Fetching profile for juanseapi.bsky.social...
+2024-12-01 23:21:32,618 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=juanseapi.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:32,621 - INFO - Fetched profile for juanseapi.bsky.social.
+2024-12-01 23:21:32,622 - INFO -  - Followers count updated: 163 -> 180
+2024-12-01 23:21:32,622 - INFO -  - DisplayName updated for 'juanseapi.bsky.social'.
+2024-12-01 23:21:33,625 - INFO - Updating user 4/147: dmimica.bsky.social
+2024-12-01 23:21:33,626 - INFO - Fetching profile for dmimica.bsky.social...
+2024-12-01 23:21:34,023 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=dmimica.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:34,025 - INFO - Fetched profile for dmimica.bsky.social.
+2024-12-01 23:21:34,027 - INFO -  - Followers count updated: 1229 -> 1238
+2024-12-01 23:21:34,028 - INFO -  - DisplayName updated for 'dmimica.bsky.social'.
+2024-12-01 23:21:35,034 - INFO - Updating user 5/147: mrhitchcok.bsky.social
+2024-12-01 23:21:35,034 - INFO - Fetching profile for mrhitchcok.bsky.social...
+2024-12-01 23:21:35,349 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=mrhitchcok.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:35,354 - INFO - Fetched profile for mrhitchcok.bsky.social.
+2024-12-01 23:21:35,354 - INFO -  - Followers count updated: 3391 -> 3432
+2024-12-01 23:21:35,354 - INFO -  - DisplayName updated for 'mrhitchcok.bsky.social'.
+2024-12-01 23:21:36,357 - INFO - Updating user 6/147: copano.bsky.social
+2024-12-01 23:21:36,357 - INFO - Fetching profile for copano.bsky.social...
+2024-12-01 23:21:36,690 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=copano.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:36,691 - INFO - Fetched profile for copano.bsky.social.
+2024-12-01 23:21:36,692 - INFO -  - Followers count updated: 923 -> 936
+2024-12-01 23:21:36,692 - INFO -  - DisplayName updated for 'copano.bsky.social'.
+2024-12-01 23:21:37,696 - INFO - Updating user 7/147: elquenoaporta.bsky.social
+2024-12-01 23:21:37,697 - INFO - Fetching profile for elquenoaporta.bsky.social...
+2024-12-01 23:21:38,179 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=elquenoaporta.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:38,182 - INFO - Fetched profile for elquenoaporta.bsky.social.
+2024-12-01 23:21:38,182 - INFO -  - Followers count updated: 97 -> 98
+2024-12-01 23:21:38,182 - INFO -  - DisplayName remains unchanged.
+2024-12-01 23:21:39,189 - INFO - Updating user 8/147: guillodibujante.bsky.social
+2024-12-01 23:21:39,189 - INFO - Fetching profile for guillodibujante.bsky.social...
+2024-12-01 23:21:39,511 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=guillodibujante.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:39,512 - INFO - Fetched profile for guillodibujante.bsky.social.
+2024-12-01 23:21:39,512 - INFO -  - Followers count updated: 407 -> 409
+2024-12-01 23:21:39,513 - INFO -  - DisplayName remains unchanged.
+2024-12-01 23:21:40,519 - INFO - Updating user 9/147: polarbearby.bsky.social
+2024-12-01 23:21:40,519 - INFO - Fetching profile for polarbearby.bsky.social...
+2024-12-01 23:21:40,834 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=polarbearby.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:40,835 - INFO - Fetched profile for polarbearby.bsky.social.
+2024-12-01 23:21:40,835 - INFO -  - Followers count updated: 54 -> 60
+2024-12-01 23:21:40,835 - INFO -  - DisplayName remains unchanged.
+2024-12-01 23:21:41,838 - INFO - Updating user 10/147: economist.com
+2024-12-01 23:21:41,838 - INFO - Fetching profile for economist.com...
+2024-12-01 23:21:42,166 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=economist.com "HTTP/1.1 200 OK"
+2024-12-01 23:21:42,176 - INFO - Fetched profile for economist.com.
+2024-12-01 23:21:42,177 - INFO -  - Followers count updated: 31734 -> 33633
+2024-12-01 23:21:42,177 - INFO -  - DisplayName updated for 'economist.com'.
+2024-12-01 23:21:43,183 - INFO - Updating user 11/147: elpais.com
+2024-12-01 23:21:43,184 - INFO - Fetching profile for elpais.com...
+2024-12-01 23:21:43,576 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=elpais.com "HTTP/1.1 200 OK"
+2024-12-01 23:21:43,579 - INFO - Fetched profile for elpais.com.
+2024-12-01 23:21:43,579 - INFO -  - Followers count updated: 117227 -> 118311
+2024-12-01 23:21:43,579 - INFO -  - DisplayName updated for 'elpais.com'.
+2024-12-01 23:21:44,586 - INFO - Updating user 12/147: mariajaraquemada.bsky.social
+2024-12-01 23:21:44,587 - INFO - Fetching profile for mariajaraquemada.bsky.social...
+2024-12-01 23:21:44,925 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=mariajaraquemada.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:44,926 - INFO - Fetched profile for mariajaraquemada.bsky.social.
+2024-12-01 23:21:44,926 - INFO -  - Followers count updated: 599 -> 606
+2024-12-01 23:21:44,927 - INFO -  - DisplayName updated for 'mariajaraquemada.bsky.social'.
+2024-12-01 23:21:45,933 - INFO - Updating user 13/147: antoniaurrejola.bsky.social
+2024-12-01 23:21:45,933 - INFO - Fetching profile for antoniaurrejola.bsky.social...
+2024-12-01 23:21:46,275 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=antoniaurrejola.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:46,278 - INFO - Fetched profile for antoniaurrejola.bsky.social.
+2024-12-01 23:21:46,278 - INFO -  - Followers count updated: 334 -> 348
+2024-12-01 23:21:46,278 - INFO -  - DisplayName updated for 'antoniaurrejola.bsky.social'.
+2024-12-01 23:21:47,283 - INFO - Updating user 14/147: censelio.bsky.social
+2024-12-01 23:21:47,283 - INFO - Fetching profile for censelio.bsky.social...
+2024-12-01 23:21:47,778 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=censelio.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:47,779 - INFO - Fetched profile for censelio.bsky.social.
+2024-12-01 23:21:47,779 - INFO -  - Followers count updated: 4660 -> 4721
+2024-12-01 23:21:47,779 - INFO -  - DisplayName updated for 'censelio.bsky.social'.
+2024-12-01 23:21:48,785 - INFO - Updating user 15/147: apalet.bsky.social
+2024-12-01 23:21:48,786 - INFO - Fetching profile for apalet.bsky.social...
+2024-12-01 23:21:49,211 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=apalet.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:49,212 - INFO - Fetched profile for apalet.bsky.social.
+2024-12-01 23:21:49,212 - INFO -  - Followers count updated: 1116 -> 1121
+2024-12-01 23:21:49,212 - INFO -  - DisplayName updated for 'apalet.bsky.social'.
+2024-12-01 23:21:50,219 - INFO - Updating user 16/147: renesaffirio.bsky.social
+2024-12-01 23:21:50,219 - INFO - Fetching profile for renesaffirio.bsky.social...
+2024-12-01 23:21:50,535 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=renesaffirio.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:50,540 - INFO - Fetched profile for renesaffirio.bsky.social.
+2024-12-01 23:21:50,541 - INFO -  - Followers count updated: 648 -> 655
+2024-12-01 23:21:50,541 - INFO -  - DisplayName updated for 'renesaffirio.bsky.social'.
+2024-12-01 23:21:51,547 - INFO - Updating user 17/147: latercera.com
+2024-12-01 23:21:51,548 - INFO - Fetching profile for latercera.com...
+2024-12-01 23:21:53,052 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=latercera.com "HTTP/1.1 200 OK"
+2024-12-01 23:21:53,053 - INFO - Fetched profile for latercera.com.
+2024-12-01 23:21:53,054 - INFO -  - Followers count updated: 3331 -> 3384
+2024-12-01 23:21:53,054 - INFO -  - DisplayName updated for 'latercera.com'.
+2024-12-01 23:21:54,059 - INFO - Updating user 18/147: elpaischile.bsky.social
+2024-12-01 23:21:54,060 - INFO - Fetching profile for elpaischile.bsky.social...
+2024-12-01 23:21:54,375 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=elpaischile.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:54,376 - INFO - Fetched profile for elpaischile.bsky.social.
+2024-12-01 23:21:54,376 - INFO -  - Followers count updated: 838 -> 871
+2024-12-01 23:21:54,376 - INFO -  - DisplayName updated for 'elpaischile.bsky.social'.
+2024-12-01 23:21:55,381 - INFO - Updating user 19/147: senapred.bsky.social
+2024-12-01 23:21:55,381 - INFO - Fetching profile for senapred.bsky.social...
+2024-12-01 23:21:55,698 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=senapred.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:55,700 - INFO - Fetched profile for senapred.bsky.social.
+2024-12-01 23:21:55,701 - INFO -  - Followers count updated: 424 -> 439
+2024-12-01 23:21:55,701 - INFO -  - DisplayName updated for 'senapred.bsky.social'.
+2024-12-01 23:21:56,706 - INFO - Updating user 20/147: theclinic.cl
+2024-12-01 23:21:56,707 - INFO - Fetching profile for theclinic.cl...
+2024-12-01 23:21:57,016 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=theclinic.cl "HTTP/1.1 200 OK"
+2024-12-01 23:21:57,017 - INFO - Fetched profile for theclinic.cl.
+2024-12-01 23:21:57,017 - INFO -  - Followers count updated: 1385 -> 1457
+2024-12-01 23:21:57,017 - INFO -  - DisplayName updated for 'theclinic.cl'.
+2024-12-01 23:21:58,023 - INFO - Updating user 21/147: radioadn.bsky.social
+2024-12-01 23:21:58,023 - INFO - Fetching profile for radioadn.bsky.social...
+2024-12-01 23:21:58,330 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=radioadn.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:58,331 - INFO - Fetched profile for radioadn.bsky.social.
+2024-12-01 23:21:58,331 - INFO -  - Followers count updated: 948 -> 976
+2024-12-01 23:21:58,331 - INFO -  - DisplayName updated for 'radioadn.bsky.social'.
+2024-12-01 23:21:59,334 - INFO - Updating user 22/147: lucialopez.bsky.social
+2024-12-01 23:21:59,334 - INFO - Fetching profile for lucialopez.bsky.social...
+2024-12-01 23:21:59,651 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=lucialopez.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:21:59,653 - INFO - Fetched profile for lucialopez.bsky.social.
+2024-12-01 23:21:59,654 - INFO -  - Followers count updated: 548 -> 561
+2024-12-01 23:21:59,654 - INFO -  - DisplayName updated for 'lucialopez.bsky.social'.
+2024-12-01 23:22:00,658 - INFO - Updating user 23/147: quintralacolorada.bsky.social
+2024-12-01 23:22:00,658 - INFO - Fetching profile for quintralacolorada.bsky.social...
+2024-12-01 23:22:01,002 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=quintralacolorada.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:01,004 - INFO - Fetched profile for quintralacolorada.bsky.social.
+2024-12-01 23:22:01,004 - INFO -  - Followers count updated: 2216 -> 2238
+2024-12-01 23:22:01,004 - INFO -  - DisplayName updated for 'quintralacolorada.bsky.social'.
+2024-12-01 23:22:02,011 - INFO - Updating user 24/147: daniloherrerad.bsky.social
+2024-12-01 23:22:02,011 - INFO - Fetching profile for daniloherrerad.bsky.social...
+2024-12-01 23:22:02,326 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=daniloherrerad.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:02,328 - INFO - Fetched profile for daniloherrerad.bsky.social.
+2024-12-01 23:22:02,329 - INFO -  - Followers count updated: 889 -> 895
+2024-12-01 23:22:02,329 - INFO -  - DisplayName updated for 'daniloherrerad.bsky.social'.
+2024-12-01 23:22:03,332 - INFO - Updating user 25/147: cgajardop.bsky.social
+2024-12-01 23:22:03,333 - INFO - Fetching profile for cgajardop.bsky.social...
+2024-12-01 23:22:03,658 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=cgajardop.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:03,665 - INFO - Fetched profile for cgajardop.bsky.social.
+2024-12-01 23:22:03,666 - INFO -  - Followers count updated: 4681 -> 4715
+2024-12-01 23:22:03,667 - INFO -  - DisplayName updated for 'cgajardop.bsky.social'.
+2024-12-01 23:22:04,677 - INFO - Updating user 26/147: baradit.bsky.social
+2024-12-01 23:22:04,678 - INFO - Fetching profile for baradit.bsky.social...
+2024-12-01 23:22:04,982 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=baradit.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:04,986 - INFO - Fetched profile for baradit.bsky.social.
+2024-12-01 23:22:04,987 - INFO -  - Followers count updated: 2242 -> 2284
+2024-12-01 23:22:04,987 - INFO -  - DisplayName updated for 'baradit.bsky.social'.
+2024-12-01 23:22:05,995 - INFO - Updating user 27/147: fabriziocopano.bsky.social
+2024-12-01 23:22:05,996 - INFO - Fetching profile for fabriziocopano.bsky.social...
+2024-12-01 23:22:06,310 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=fabriziocopano.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:06,312 - INFO - Fetched profile for fabriziocopano.bsky.social.
+2024-12-01 23:22:06,312 - INFO -  - Followers count updated: 615 -> 627
+2024-12-01 23:22:06,312 - INFO -  - DisplayName updated for 'fabriziocopano.bsky.social'.
+2024-12-01 23:22:07,319 - INFO - Updating user 28/147: heliamolina.bsky.social
+2024-12-01 23:22:07,319 - INFO - Fetching profile for heliamolina.bsky.social...
+2024-12-01 23:22:07,635 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=heliamolina.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:07,637 - INFO - Fetched profile for heliamolina.bsky.social.
+2024-12-01 23:22:07,637 - INFO -  - Followers count updated: 740 -> 747
+2024-12-01 23:22:07,637 - INFO -  - DisplayName updated for 'heliamolina.bsky.social'.
+2024-12-01 23:22:08,644 - INFO - Updating user 29/147: valdebenitonata.bsky.social
+2024-12-01 23:22:08,646 - INFO - Fetching profile for valdebenitonata.bsky.social...
+2024-12-01 23:22:08,962 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=valdebenitonata.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:08,963 - INFO - Fetched profile for valdebenitonata.bsky.social.
+2024-12-01 23:22:08,963 - INFO -  - Followers count updated: 927 -> 938
+2024-12-01 23:22:08,963 - INFO -  - DisplayName updated for 'valdebenitonata.bsky.social'.
+2024-12-01 23:22:09,969 - INFO - Updating user 30/147: marcoporchile.bsky.social
+2024-12-01 23:22:09,970 - INFO - Fetching profile for marcoporchile.bsky.social...
+2024-12-01 23:22:10,295 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=marcoporchile.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:10,297 - INFO - Fetched profile for marcoporchile.bsky.social.
+2024-12-01 23:22:10,297 - INFO -  - Followers count updated: 480 -> 514
+2024-12-01 23:22:10,297 - INFO -  - DisplayName updated for 'marcoporchile.bsky.social'.
+2024-12-01 23:22:11,300 - INFO - Updating user 31/147: tomashirschg.bsky.social
+2024-12-01 23:22:11,300 - INFO - Fetching profile for tomashirschg.bsky.social...
+2024-12-01 23:22:11,624 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=tomashirschg.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:11,626 - INFO - Fetched profile for tomashirschg.bsky.social.
+2024-12-01 23:22:11,626 - INFO -  - Followers count updated: 317 -> 324
+2024-12-01 23:22:11,626 - INFO -  - DisplayName updated for 'tomashirschg.bsky.social'.
+2024-12-01 23:22:12,633 - INFO - Updating user 32/147: mlagoscc.bsky.social
+2024-12-01 23:22:12,633 - INFO - Fetching profile for mlagoscc.bsky.social...
+2024-12-01 23:22:12,942 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=mlagoscc.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:12,943 - INFO - Fetched profile for mlagoscc.bsky.social.
+2024-12-01 23:22:12,943 - INFO -  - Followers count updated: 238 -> 267
+2024-12-01 23:22:12,943 - INFO -  - DisplayName updated for 'mlagoscc.bsky.social'.
+2024-12-01 23:22:13,948 - INFO - Updating user 33/147: gonzalowinterr.bsky.social
+2024-12-01 23:22:13,948 - INFO - Fetching profile for gonzalowinterr.bsky.social...
+2024-12-01 23:22:14,289 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=gonzalowinterr.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:14,291 - INFO - Fetched profile for gonzalowinterr.bsky.social.
+2024-12-01 23:22:14,291 - INFO -  - Followers count updated: 375 -> 394
+2024-12-01 23:22:14,291 - INFO -  - DisplayName updated for 'gonzalowinterr.bsky.social'.
+2024-12-01 23:22:15,296 - INFO - Updating user 34/147: nicograu.bsky.social
+2024-12-01 23:22:15,297 - INFO - Fetching profile for nicograu.bsky.social...
+2024-12-01 23:22:15,628 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=nicograu.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:15,629 - INFO - Fetched profile for nicograu.bsky.social.
+2024-12-01 23:22:15,629 - INFO -  - Followers count updated: 98 -> 100
+2024-12-01 23:22:15,629 - INFO -  - DisplayName updated for 'nicograu.bsky.social'.
+2024-12-01 23:22:16,631 - INFO - Updating user 35/147: giorgiojackson.bsky.social
+2024-12-01 23:22:16,632 - INFO - Fetching profile for giorgiojackson.bsky.social...
+2024-12-01 23:22:16,936 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=giorgiojackson.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:16,938 - INFO - Fetched profile for giorgiojackson.bsky.social.
+2024-12-01 23:22:16,938 - INFO -  - Followers count updated: 1220 -> 1291
+2024-12-01 23:22:16,939 - INFO -  - DisplayName updated for 'giorgiojackson.bsky.social'.
+2024-12-01 23:22:17,944 - INFO - Updating user 36/147: profeclaudio.bsky.social
+2024-12-01 23:22:17,944 - INFO - Fetching profile for profeclaudio.bsky.social...
+2024-12-01 23:22:18,267 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=profeclaudio.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:18,269 - INFO - Fetched profile for profeclaudio.bsky.social.
+2024-12-01 23:22:18,269 - INFO -  - Followers count updated: 125 -> 129
+2024-12-01 23:22:18,269 - INFO -  - DisplayName remains unchanged.
+2024-12-01 23:22:19,272 - INFO - Updating user 37/147: rafacavada.bsky.social
+2024-12-01 23:22:19,272 - INFO - Fetching profile for rafacavada.bsky.social...
+2024-12-01 23:22:19,605 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=rafacavada.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:19,607 - INFO - Fetched profile for rafacavada.bsky.social.
+2024-12-01 23:22:19,608 - INFO -  - Followers count updated: 2565 -> 2738
+2024-12-01 23:22:19,608 - INFO -  - DisplayName updated for 'rafacavada.bsky.social'.
+2024-12-01 23:22:20,612 - INFO - Updating user 38/147: pablosimonetti.bsky.social
+2024-12-01 23:22:20,613 - INFO - Fetching profile for pablosimonetti.bsky.social...
+2024-12-01 23:22:20,951 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=pablosimonetti.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:20,952 - INFO - Fetched profile for pablosimonetti.bsky.social.
+2024-12-01 23:22:20,953 - INFO -  - Followers count updated: 43 -> 44
+2024-12-01 23:22:20,953 - INFO -  - DisplayName remains unchanged.
+2024-12-01 23:22:21,955 - INFO - Updating user 39/147: profdevisridhar.bsky.social
+2024-12-01 23:22:21,955 - INFO - Fetching profile for profdevisridhar.bsky.social...
+2024-12-01 23:22:22,278 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=profdevisridhar.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:22,278 - INFO - Fetched profile for profdevisridhar.bsky.social.
+2024-12-01 23:22:22,279 - INFO -  - Followers count updated: 13348 -> 13462
+2024-12-01 23:22:22,279 - INFO -  - DisplayName updated for 'profdevisridhar.bsky.social'.
+2024-12-01 23:22:23,285 - INFO - Updating user 40/147: patricionavia.bsky.social
+2024-12-01 23:22:23,286 - INFO - Fetching profile for patricionavia.bsky.social...
+2024-12-01 23:22:23,596 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=patricionavia.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:23,597 - INFO - Fetched profile for patricionavia.bsky.social.
+2024-12-01 23:22:23,597 - INFO -  - Followers count updated: 50 -> 54
+2024-12-01 23:22:23,597 - INFO -  - DisplayName updated for 'patricionavia.bsky.social'.
+2024-12-01 23:22:24,603 - INFO - Updating user 41/147: juanpablobeca.bsky.social
+2024-12-01 23:22:24,603 - INFO - Fetching profile for juanpablobeca.bsky.social...
+2024-12-01 23:22:24,916 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=juanpablobeca.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:24,917 - INFO - Fetched profile for juanpablobeca.bsky.social.
+2024-12-01 23:22:24,917 - INFO -  - Followers count remains unchanged.
+2024-12-01 23:22:24,918 - INFO -  - DisplayName updated for 'juanpablobeca.bsky.social'.
+2024-12-01 23:22:25,925 - INFO - Updating user 42/147: franciscaroman.bsky.social
+2024-12-01 23:22:25,925 - INFO - Fetching profile for franciscaroman.bsky.social...
+2024-12-01 23:22:26,234 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=franciscaroman.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:26,236 - INFO - Fetched profile for franciscaroman.bsky.social.
+2024-12-01 23:22:26,236 - INFO -  - Followers count updated: 8 -> 7
+2024-12-01 23:22:26,236 - INFO -  - DisplayName remains unchanged.
+2024-12-01 23:22:27,243 - INFO - Updating user 43/147: ppalet.bsky.social
+2024-12-01 23:22:27,243 - INFO - Fetching profile for ppalet.bsky.social...
+2024-12-01 23:22:27,554 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ppalet.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:27,557 - INFO - Fetched profile for ppalet.bsky.social.
+2024-12-01 23:22:27,561 - INFO -  - Followers count updated: 50 -> 51
+2024-12-01 23:22:27,561 - INFO -  - DisplayName updated for 'ppalet.bsky.social'.
+2024-12-01 23:22:28,568 - INFO - Updating user 44/147: south-america.bsky.social
+2024-12-01 23:22:28,568 - INFO - Fetching profile for south-america.bsky.social...
+2024-12-01 23:22:28,930 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=south-america.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:28,932 - INFO - Fetched profile for south-america.bsky.social.
+2024-12-01 23:22:28,932 - INFO -  - Followers count updated: 77 -> 80
+2024-12-01 23:22:28,933 - INFO -  - DisplayName updated for 'south-america.bsky.social'.
+2024-12-01 23:22:29,937 - INFO - Updating user 45/147: earthquakes.live
+2024-12-01 23:22:29,938 - INFO - Fetching profile for earthquakes.live...
+2024-12-01 23:22:30,247 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=earthquakes.live "HTTP/1.1 200 OK"
+2024-12-01 23:22:30,249 - INFO - Fetched profile for earthquakes.live.
+2024-12-01 23:22:30,250 - INFO -  - Followers count updated: 286 -> 297
+2024-12-01 23:22:30,250 - INFO -  - DisplayName updated for 'earthquakes.live'.
+2024-12-01 23:22:31,257 - INFO - Updating user 46/147: rodrigodvm.bsky.social
+2024-12-01 23:22:31,257 - INFO - Fetching profile for rodrigodvm.bsky.social...
+2024-12-01 23:22:31,578 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=rodrigodvm.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:31,579 - INFO - Fetched profile for rodrigodvm.bsky.social.
+2024-12-01 23:22:31,579 - INFO -  - Followers count updated: 32 -> 37
+2024-12-01 23:22:31,579 - INFO -  - DisplayName updated for 'rodrigodvm.bsky.social'.
+2024-12-01 23:22:32,585 - INFO - Updating user 47/147: matamala.bsky.social
+2024-12-01 23:22:32,585 - INFO - Fetching profile for matamala.bsky.social...
+2024-12-01 23:22:32,908 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=matamala.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:32,910 - INFO - Fetched profile for matamala.bsky.social.
+2024-12-01 23:22:32,911 - INFO -  - Followers count updated: 4271 -> 4322
+2024-12-01 23:22:32,911 - INFO -  - DisplayName updated for 'matamala.bsky.social'.
+2024-12-01 23:22:33,915 - INFO - Updating user 48/147: eugenioseverin.bsky.social
+2024-12-01 23:22:33,915 - INFO - Fetching profile for eugenioseverin.bsky.social...
+2024-12-01 23:22:34,240 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=eugenioseverin.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:34,242 - INFO - Fetched profile for eugenioseverin.bsky.social.
+2024-12-01 23:22:34,242 - INFO -  - Followers count updated: 171 -> 173
+2024-12-01 23:22:34,242 - INFO -  - DisplayName remains unchanged.
+2024-12-01 23:22:35,248 - INFO - Updating user 49/147: paulinaastrozas.bsky.social
+2024-12-01 23:22:35,248 - INFO - Fetching profile for paulinaastrozas.bsky.social...
+2024-12-01 23:22:35,558 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=paulinaastrozas.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:35,560 - INFO - Fetched profile for paulinaastrozas.bsky.social.
+2024-12-01 23:22:35,560 - INFO -  - Followers count updated: 733 -> 741
+2024-12-01 23:22:35,560 - INFO -  - DisplayName updated for 'paulinaastrozas.bsky.social'.
+2024-12-01 23:22:36,563 - INFO - Updating user 50/147: sepulvedanico.bsky.social
+2024-12-01 23:22:36,569 - INFO - Fetching profile for sepulvedanico.bsky.social...
+2024-12-01 23:22:36,897 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=sepulvedanico.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:36,899 - INFO - Fetched profile for sepulvedanico.bsky.social.
+2024-12-01 23:22:36,899 - INFO -  - Followers count updated: 1626 -> 1643
+2024-12-01 23:22:36,899 - INFO -  - DisplayName updated for 'sepulvedanico.bsky.social'.
+2024-12-01 23:22:37,905 - INFO - Updating user 51/147: criordor.bsky.social
+2024-12-01 23:22:37,905 - INFO - Fetching profile for criordor.bsky.social...
+2024-12-01 23:22:38,219 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=criordor.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:38,221 - INFO - Fetched profile for criordor.bsky.social.
+2024-12-01 23:22:38,221 - INFO -  - Followers count updated: 1598 -> 2558
+2024-12-01 23:22:38,221 - INFO -  - DisplayName updated for 'criordor.bsky.social'.
+2024-12-01 23:22:39,224 - INFO - Updating user 52/147: veronicaundurraga.bsky.social
+2024-12-01 23:22:39,224 - INFO - Fetching profile for veronicaundurraga.bsky.social...
+2024-12-01 23:22:39,530 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=veronicaundurraga.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:39,532 - INFO - Fetched profile for veronicaundurraga.bsky.social.
+2024-12-01 23:22:39,532 - INFO -  - Followers count updated: 499 -> 509
+2024-12-01 23:22:39,532 - INFO -  - DisplayName remains unchanged.
+2024-12-01 23:22:40,536 - INFO - Updating user 53/147: el-abc.bsky.social
+2024-12-01 23:22:40,537 - INFO - Fetching profile for el-abc.bsky.social...
+2024-12-01 23:22:40,846 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=el-abc.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:40,847 - INFO - Fetched profile for el-abc.bsky.social.
+2024-12-01 23:22:40,848 - INFO -  - Followers count updated: 596 -> 610
+2024-12-01 23:22:40,848 - INFO -  - DisplayName updated for 'el-abc.bsky.social'.
+2024-12-01 23:22:41,855 - INFO - Updating user 54/147: xchongc.bsky.social
+2024-12-01 23:22:41,856 - INFO - Fetching profile for xchongc.bsky.social...
+2024-12-01 23:22:42,220 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=xchongc.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:42,222 - INFO - Fetched profile for xchongc.bsky.social.
+2024-12-01 23:22:42,222 - INFO -  - Followers count updated: 3311 -> 3342
+2024-12-01 23:22:42,222 - INFO -  - DisplayName updated for 'xchongc.bsky.social'.
+2024-12-01 23:22:43,228 - INFO - Updating user 55/147: jaimebassa.bsky.social
+2024-12-01 23:22:43,228 - INFO - Fetching profile for jaimebassa.bsky.social...
+2024-12-01 23:22:43,539 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=jaimebassa.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:43,540 - INFO - Fetched profile for jaimebassa.bsky.social.
+2024-12-01 23:22:43,540 - INFO -  - Followers count updated: 936 -> 957
+2024-12-01 23:22:43,541 - INFO -  - DisplayName updated for 'jaimebassa.bsky.social'.
+2024-12-01 23:22:44,546 - INFO - Updating user 56/147: jnavon.bsky.social
+2024-12-01 23:22:44,546 - INFO - Fetching profile for jnavon.bsky.social...
+2024-12-01 23:22:44,850 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=jnavon.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:44,853 - INFO - Fetched profile for jnavon.bsky.social.
+2024-12-01 23:22:44,853 - INFO -  - Followers count remains unchanged.
+2024-12-01 23:22:44,853 - INFO -  - DisplayName updated for 'jnavon.bsky.social'.
+2024-12-01 23:22:45,856 - INFO - Updating user 57/147: bastianolea.rbind.io
+2024-12-01 23:22:45,856 - INFO - Fetching profile for bastianolea.rbind.io...
+2024-12-01 23:22:46,163 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=bastianolea.rbind.io "HTTP/1.1 200 OK"
+2024-12-01 23:22:46,164 - INFO - Fetched profile for bastianolea.rbind.io.
+2024-12-01 23:22:46,164 - INFO -  - Followers count updated: 546 -> 564
+2024-12-01 23:22:46,165 - INFO -  - DisplayName updated for 'bastianolea.rbind.io'.
+2024-12-01 23:22:47,171 - INFO - Updating user 58/147: drericding.bsky.social
+2024-12-01 23:22:47,172 - INFO - Fetching profile for drericding.bsky.social...
+2024-12-01 23:22:47,474 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=drericding.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:47,476 - INFO - Fetched profile for drericding.bsky.social.
+2024-12-01 23:22:47,476 - INFO -  - Followers count updated: 136798 -> 145431
+2024-12-01 23:22:47,476 - INFO -  - DisplayName updated for 'drericding.bsky.social'.
+2024-12-01 23:22:48,480 - INFO - Updating user 59/147: jburnmurdoch.bsky.social
+2024-12-01 23:22:48,480 - INFO - Fetching profile for jburnmurdoch.bsky.social...
+2024-12-01 23:22:48,786 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=jburnmurdoch.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:48,788 - INFO - Fetched profile for jburnmurdoch.bsky.social.
+2024-12-01 23:22:48,788 - INFO -  - Followers count updated: 91858 -> 92347
+2024-12-01 23:22:48,788 - INFO -  - DisplayName updated for 'jburnmurdoch.bsky.social'.
+2024-12-01 23:22:49,795 - INFO - Updating user 60/147: cnn.com
+2024-12-01 23:22:49,795 - INFO - Fetching profile for cnn.com...
+2024-12-01 23:22:50,104 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=cnn.com "HTTP/1.1 200 OK"
+2024-12-01 23:22:50,105 - INFO - Fetched profile for cnn.com.
+2024-12-01 23:22:50,106 - INFO -  - Followers count updated: 381656 -> 388184
+2024-12-01 23:22:50,106 - INFO -  - DisplayName updated for 'cnn.com'.
+2024-12-01 23:22:51,112 - INFO - Updating user 61/147: markhamillofficial.bsky.social
+2024-12-01 23:22:51,112 - INFO - Fetching profile for markhamillofficial.bsky.social...
+2024-12-01 23:22:51,483 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=markhamillofficial.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:51,485 - INFO - Fetched profile for markhamillofficial.bsky.social.
+2024-12-01 23:22:51,485 - INFO -  - Followers count updated: 750353 -> 784188
+2024-12-01 23:22:51,485 - INFO -  - DisplayName updated for 'markhamillofficial.bsky.social'.
+2024-12-01 23:22:52,491 - INFO - Updating user 62/147: nytimes.com
+2024-12-01 23:22:52,491 - INFO - Fetching profile for nytimes.com...
+2024-12-01 23:22:52,791 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=nytimes.com "HTTP/1.1 200 OK"
+2024-12-01 23:22:52,793 - INFO - Fetched profile for nytimes.com.
+2024-12-01 23:22:52,793 - INFO -  - Followers count updated: 750756 -> 759552
+2024-12-01 23:22:52,793 - INFO -  - DisplayName updated for 'nytimes.com'.
+2024-12-01 23:22:53,796 - INFO - Updating user 63/147: aoc.bsky.social
+2024-12-01 23:22:53,796 - INFO - Fetching profile for aoc.bsky.social...
+2024-12-01 23:22:54,196 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=aoc.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:54,198 - INFO - Fetched profile for aoc.bsky.social.
+2024-12-01 23:22:54,198 - INFO -  - Followers count updated: 960767 -> 980289
+2024-12-01 23:22:54,198 - INFO -  - DisplayName updated for 'aoc.bsky.social'.
+2024-12-01 23:22:55,203 - INFO - Updating user 64/147: damivago.bsky.social
+2024-12-01 23:22:55,203 - INFO - Fetching profile for damivago.bsky.social...
+2024-12-01 23:22:55,517 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=damivago.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:55,524 - INFO - Fetched profile for damivago.bsky.social.
+2024-12-01 23:22:55,524 - INFO -  - Followers count updated: 2905 -> 2931
+2024-12-01 23:22:55,525 - INFO -  - DisplayName updated for 'damivago.bsky.social'.
+2024-12-01 23:22:56,532 - INFO - Updating user 65/147: theguardian.com
+2024-12-01 23:22:56,532 - INFO - Fetching profile for theguardian.com...
+2024-12-01 23:22:56,842 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=theguardian.com "HTTP/1.1 200 OK"
+2024-12-01 23:22:56,844 - INFO - Fetched profile for theguardian.com.
+2024-12-01 23:22:56,845 - INFO -  - Followers count updated: 343821 -> 351631
+2024-12-01 23:22:56,845 - INFO -  - DisplayName updated for 'theguardian.com'.
+2024-12-01 23:22:57,853 - INFO - Updating user 66/147: espublicocl.bsky.social
+2024-12-01 23:22:57,853 - INFO - Fetching profile for espublicocl.bsky.social...
+2024-12-01 23:22:58,175 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=espublicocl.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:58,177 - INFO - Fetched profile for espublicocl.bsky.social.
+2024-12-01 23:22:58,177 - INFO -  - Followers count updated: 522 -> 535
+2024-12-01 23:22:58,177 - INFO -  - DisplayName updated for 'espublicocl.bsky.social'.
+2024-12-01 23:22:59,179 - INFO - Updating user 67/147: erictopol.bsky.social
+2024-12-01 23:22:59,179 - INFO - Fetching profile for erictopol.bsky.social...
+2024-12-01 23:22:59,495 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=erictopol.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:22:59,497 - INFO - Fetched profile for erictopol.bsky.social.
+2024-12-01 23:22:59,497 - INFO -  - Followers count updated: 88209 -> 88968
+2024-12-01 23:22:59,497 - INFO -  - DisplayName updated for 'erictopol.bsky.social'.
+2024-12-01 23:23:00,503 - INFO - Updating user 68/147: who.int
+2024-12-01 23:23:00,504 - INFO - Fetching profile for who.int...
+2024-12-01 23:23:00,810 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=who.int "HTTP/1.1 200 OK"
+2024-12-01 23:23:00,813 - INFO - Fetched profile for who.int.
+2024-12-01 23:23:00,813 - INFO -  - Followers count updated: 28565 -> 32908
+2024-12-01 23:23:00,813 - INFO -  - DisplayName updated for 'who.int'.
+2024-12-01 23:23:01,820 - INFO - Updating user 69/147: bmj.com
+2024-12-01 23:23:01,821 - INFO - Fetching profile for bmj.com...
+2024-12-01 23:23:02,181 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=bmj.com "HTTP/1.1 200 OK"
+2024-12-01 23:23:02,182 - INFO - Fetched profile for bmj.com.
+2024-12-01 23:23:02,183 - INFO -  - Followers count updated: 9295 -> 9540
+2024-12-01 23:23:02,183 - INFO -  - DisplayName updated for 'bmj.com'.
+2024-12-01 23:23:03,190 - INFO - Updating user 70/147: nbody6.bsky.social
+2024-12-01 23:23:03,190 - INFO - Fetching profile for nbody6.bsky.social...
+2024-12-01 23:23:03,506 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=nbody6.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:03,508 - INFO - Fetched profile for nbody6.bsky.social.
+2024-12-01 23:23:03,509 - INFO -  - Followers count updated: 1707 -> 1741
+2024-12-01 23:23:03,509 - INFO -  - DisplayName updated for 'nbody6.bsky.social'.
+2024-12-01 23:23:04,514 - INFO - Updating user 71/147: jathibaut.bsky.social
+2024-12-01 23:23:04,514 - INFO - Fetching profile for jathibaut.bsky.social...
+2024-12-01 23:23:04,942 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=jathibaut.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:04,943 - INFO - Fetched profile for jathibaut.bsky.social.
+2024-12-01 23:23:04,944 - INFO -  - Followers count updated: 185 -> 188
+2024-12-01 23:23:04,944 - INFO -  - DisplayName updated for 'jathibaut.bsky.social'.
+2024-12-01 23:23:05,948 - INFO - Updating user 72/147: carlostph.bsky.social
+2024-12-01 23:23:05,948 - INFO - Fetching profile for carlostph.bsky.social...
+2024-12-01 23:23:06,269 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=carlostph.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:06,272 - INFO - Fetched profile for carlostph.bsky.social.
+2024-12-01 23:23:06,272 - INFO -  - Followers count updated: 68 -> 73
+2024-12-01 23:23:06,272 - INFO -  - DisplayName updated for 'carlostph.bsky.social'.
+2024-12-01 23:23:07,279 - INFO - Updating user 73/147: malaimagen.bsky.social
+2024-12-01 23:23:07,279 - INFO - Fetching profile for malaimagen.bsky.social...
+2024-12-01 23:23:07,599 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=malaimagen.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:07,600 - INFO - Fetched profile for malaimagen.bsky.social.
+2024-12-01 23:23:07,600 - INFO -  - Followers count updated: 3063 -> 3092
+2024-12-01 23:23:07,600 - INFO -  - DisplayName updated for 'malaimagen.bsky.social'.
+2024-12-01 23:23:08,606 - INFO - Updating user 74/147: bacigalupe.bsky.social
+2024-12-01 23:23:08,606 - INFO - Fetching profile for bacigalupe.bsky.social...
+2024-12-01 23:23:08,930 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=bacigalupe.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:08,932 - INFO - Fetched profile for bacigalupe.bsky.social.
+2024-12-01 23:23:08,932 - INFO -  - Followers count updated: 2599 -> 2616
+2024-12-01 23:23:08,933 - INFO -  - DisplayName updated for 'bacigalupe.bsky.social'.
+2024-12-01 23:23:09,937 - INFO - Updating user 75/147: observablehq.com
+2024-12-01 23:23:09,937 - INFO - Fetching profile for observablehq.com...
+2024-12-01 23:23:10,262 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=observablehq.com "HTTP/1.1 200 OK"
+2024-12-01 23:23:10,266 - INFO - Fetched profile for observablehq.com.
+2024-12-01 23:23:10,266 - INFO -  - Followers count updated: 1459 -> 1468
+2024-12-01 23:23:10,266 - INFO -  - DisplayName updated for 'observablehq.com'.
+2024-12-01 23:23:11,271 - INFO - Updating user 76/147: sandracortes.bsky.social
+2024-12-01 23:23:11,272 - INFO - Fetching profile for sandracortes.bsky.social...
+2024-12-01 23:23:11,581 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=sandracortes.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:11,583 - INFO - Fetched profile for sandracortes.bsky.social.
+2024-12-01 23:23:11,583 - INFO -  - Followers count updated: 62 -> 66
+2024-12-01 23:23:11,583 - INFO -  - DisplayName updated for 'sandracortes.bsky.social'.
+2024-12-01 23:23:12,590 - INFO - Updating user 77/147: bsky.app
+2024-12-01 23:23:12,590 - INFO - Fetching profile for bsky.app...
+2024-12-01 23:23:12,902 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=bsky.app "HTTP/1.1 200 OK"
+2024-12-01 23:23:12,904 - INFO - Fetched profile for bsky.app.
+2024-12-01 23:23:12,904 - INFO -  - Followers count updated: 16543053 -> 16723732
+2024-12-01 23:23:12,904 - INFO -  - DisplayName updated for 'bsky.app'.
+2024-12-01 23:23:13,911 - INFO - Updating user 78/147: juanarivers.bsky.social
+2024-12-01 23:23:13,911 - INFO - Fetching profile for juanarivers.bsky.social...
+2024-12-01 23:23:14,225 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=juanarivers.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:14,227 - INFO - Fetched profile for juanarivers.bsky.social.
+2024-12-01 23:23:14,227 - INFO -  - Followers count updated: 1980 -> 2001
+2024-12-01 23:23:14,227 - INFO -  - DisplayName updated for 'juanarivers.bsky.social'.
+2024-12-01 23:23:15,232 - INFO - Updating user 79/147: washingtonpost.com
+2024-12-01 23:23:15,232 - INFO - Fetching profile for washingtonpost.com...
+2024-12-01 23:23:15,569 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=washingtonpost.com "HTTP/1.1 200 OK"
+2024-12-01 23:23:15,570 - INFO - Fetched profile for washingtonpost.com.
+2024-12-01 23:23:15,570 - INFO -  - Followers count updated: 556824 -> 561813
+2024-12-01 23:23:15,571 - INFO -  - DisplayName updated for 'washingtonpost.com'.
+2024-12-01 23:23:16,574 - INFO - Updating user 80/147: jay.bsky.team
+2024-12-01 23:23:16,574 - INFO - Fetching profile for jay.bsky.team...
+2024-12-01 23:23:16,894 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=jay.bsky.team "HTTP/1.1 200 OK"
+2024-12-01 23:23:16,896 - INFO - Fetched profile for jay.bsky.team.
+2024-12-01 23:23:16,896 - INFO -  - Followers count updated: 450794 -> 453989
+2024-12-01 23:23:16,896 - INFO -  - DisplayName updated for 'jay.bsky.team'.
+2024-12-01 23:23:17,900 - INFO - Updating user 81/147: marcelias.bsky.social
+2024-12-01 23:23:17,901 - INFO - Fetching profile for marcelias.bsky.social...
+2024-12-01 23:23:18,276 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=marcelias.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:18,277 - INFO - Fetched profile for marcelias.bsky.social.
+2024-12-01 23:23:18,278 - INFO -  - Followers count updated: 447329 -> 455655
+2024-12-01 23:23:18,278 - INFO -  - DisplayName updated for 'marcelias.bsky.social'.
+2024-12-01 23:23:19,284 - INFO - Updating user 82/147: hcrichardson.bsky.social
+2024-12-01 23:23:19,284 - INFO - Fetching profile for hcrichardson.bsky.social...
+2024-12-01 23:23:19,587 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=hcrichardson.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:19,591 - INFO - Fetched profile for hcrichardson.bsky.social.
+2024-12-01 23:23:19,591 - INFO -  - Followers count updated: 317600 -> 325722
+2024-12-01 23:23:19,592 - INFO -  - DisplayName updated for 'hcrichardson.bsky.social'.
+2024-12-01 23:23:20,599 - INFO - Updating user 83/147: theonion.com
+2024-12-01 23:23:20,599 - INFO - Fetching profile for theonion.com...
+2024-12-01 23:23:20,903 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=theonion.com "HTTP/1.1 200 OK"
+2024-12-01 23:23:20,904 - INFO - Fetched profile for theonion.com.
+2024-12-01 23:23:20,905 - INFO -  - Followers count updated: 753613 -> 763898
+2024-12-01 23:23:20,905 - INFO -  - DisplayName updated for 'theonion.com'.
+2024-12-01 23:23:21,910 - INFO - Updating user 84/147: atrupar.com
+2024-12-01 23:23:21,910 - INFO - Fetching profile for atrupar.com...
+2024-12-01 23:23:22,213 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=atrupar.com "HTTP/1.1 200 OK"
+2024-12-01 23:23:22,214 - INFO - Fetched profile for atrupar.com.
+2024-12-01 23:23:22,215 - INFO -  - Followers count updated: 530777 -> 536955
+2024-12-01 23:23:22,215 - INFO -  - DisplayName updated for 'atrupar.com'.
+2024-12-01 23:23:23,221 - INFO - Updating user 85/147: georgetakei.bsky.social
+2024-12-01 23:23:23,222 - INFO - Fetching profile for georgetakei.bsky.social...
+2024-12-01 23:23:23,536 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=georgetakei.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:23,537 - INFO - Fetched profile for georgetakei.bsky.social.
+2024-12-01 23:23:23,537 - INFO -  - Followers count updated: 836865 -> 856369
+2024-12-01 23:23:23,538 - INFO -  - DisplayName updated for 'georgetakei.bsky.social'.
+2024-12-01 23:23:24,540 - INFO - Updating user 86/147: mcuban.bsky.social
+2024-12-01 23:23:24,541 - INFO - Fetching profile for mcuban.bsky.social...
+2024-12-01 23:23:24,866 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=mcuban.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:24,869 - INFO - Fetched profile for mcuban.bsky.social.
+2024-12-01 23:23:24,869 - INFO -  - Followers count updated: 685876 -> 699808
+2024-12-01 23:23:24,870 - INFO -  - DisplayName updated for 'mcuban.bsky.social'.
+2024-12-01 23:23:25,876 - INFO - Updating user 87/147: meidastouch.bsky.social
+2024-12-01 23:23:25,876 - INFO - Fetching profile for meidastouch.bsky.social...
+2024-12-01 23:23:26,186 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=meidastouch.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:26,188 - INFO - Fetched profile for meidastouch.bsky.social.
+2024-12-01 23:23:26,188 - INFO -  - Followers count updated: 543780 -> 551187
+2024-12-01 23:23:26,188 - INFO -  - DisplayName updated for 'meidastouch.bsky.social'.
+2024-12-01 23:23:27,194 - INFO - Updating user 88/147: mollyjongfast.bsky.social
+2024-12-01 23:23:27,194 - INFO - Fetching profile for mollyjongfast.bsky.social...
+2024-12-01 23:23:27,511 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=mollyjongfast.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:27,514 - INFO - Fetched profile for mollyjongfast.bsky.social.
+2024-12-01 23:23:27,514 - INFO -  - Followers count updated: 513444 -> 519330
+2024-12-01 23:23:27,515 - INFO -  - DisplayName updated for 'mollyjongfast.bsky.social'.
+2024-12-01 23:23:28,521 - INFO - Updating user 89/147: gtconway.bsky.social
+2024-12-01 23:23:28,522 - INFO - Fetching profile for gtconway.bsky.social...
+2024-12-01 23:23:28,834 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=gtconway.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:28,836 - INFO - Fetched profile for gtconway.bsky.social.
+2024-12-01 23:23:28,836 - INFO -  - Followers count updated: 511000 -> 519799
+2024-12-01 23:23:28,836 - INFO -  - DisplayName updated for 'gtconway.bsky.social'.
+2024-12-01 23:23:29,843 - INFO - Updating user 90/147: briantylercohen.bsky.social
+2024-12-01 23:23:29,844 - INFO - Fetching profile for briantylercohen.bsky.social...
+2024-12-01 23:23:31,525 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=briantylercohen.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:31,526 - INFO - Fetched profile for briantylercohen.bsky.social.
+2024-12-01 23:23:31,527 - INFO -  - Followers count updated: 499214 -> 509334
+2024-12-01 23:23:31,527 - INFO -  - DisplayName updated for 'briantylercohen.bsky.social'.
+2024-12-01 23:23:32,533 - INFO - Updating user 91/147: sethabramson.bsky.social
+2024-12-01 23:23:32,534 - INFO - Fetching profile for sethabramson.bsky.social...
+2024-12-01 23:23:32,850 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=sethabramson.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:32,852 - INFO - Fetched profile for sethabramson.bsky.social.
+2024-12-01 23:23:32,852 - INFO -  - Followers count updated: 265038 -> 266532
+2024-12-01 23:23:32,852 - INFO -  - DisplayName updated for 'sethabramson.bsky.social'.
+2024-12-01 23:23:33,859 - INFO - Updating user 92/147: npr.org
+2024-12-01 23:23:33,859 - INFO - Fetching profile for npr.org...
+2024-12-01 23:23:34,206 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=npr.org "HTTP/1.1 200 OK"
+2024-12-01 23:23:34,208 - INFO - Fetched profile for npr.org.
+2024-12-01 23:23:34,208 - INFO -  - Followers count updated: 486266 -> 495270
+2024-12-01 23:23:34,208 - INFO -  - DisplayName updated for 'npr.org'.
+2024-12-01 23:23:35,213 - INFO - Updating user 93/147: ronfilipkowski.bsky.social
+2024-12-01 23:23:35,213 - INFO - Fetching profile for ronfilipkowski.bsky.social...
+2024-12-01 23:23:35,516 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ronfilipkowski.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:35,518 - INFO - Fetched profile for ronfilipkowski.bsky.social.
+2024-12-01 23:23:35,519 - INFO -  - Followers count updated: 466719 -> 469947
+2024-12-01 23:23:35,519 - INFO -  - DisplayName updated for 'ronfilipkowski.bsky.social'.
+2024-12-01 23:23:36,526 - INFO - Updating user 94/147: adamkinzinger.bsky.social
+2024-12-01 23:23:36,526 - INFO - Fetching profile for adamkinzinger.bsky.social...
+2024-12-01 23:23:36,834 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=adamkinzinger.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:36,836 - INFO - Fetched profile for adamkinzinger.bsky.social.
+2024-12-01 23:23:36,836 - INFO -  - Followers count updated: 425976 -> 431375
+2024-12-01 23:23:36,836 - INFO -  - DisplayName updated for 'adamkinzinger.bsky.social'.
+2024-12-01 23:23:37,843 - INFO - Updating user 95/147: chrislhayes.bsky.social
+2024-12-01 23:23:37,844 - INFO - Fetching profile for chrislhayes.bsky.social...
+2024-12-01 23:23:38,200 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=chrislhayes.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:38,202 - INFO - Fetched profile for chrislhayes.bsky.social.
+2024-12-01 23:23:38,202 - INFO -  - Followers count updated: 383090 -> 388404
+2024-12-01 23:23:38,202 - INFO -  - DisplayName updated for 'chrislhayes.bsky.social'.
+2024-12-01 23:23:39,208 - INFO - Updating user 96/147: mehdirhasan.bsky.social
+2024-12-01 23:23:39,209 - INFO - Fetching profile for mehdirhasan.bsky.social...
+2024-12-01 23:23:39,514 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=mehdirhasan.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:39,515 - INFO - Fetched profile for mehdirhasan.bsky.social.
+2024-12-01 23:23:39,515 - INFO -  - Followers count updated: 368732 -> 373909
+2024-12-01 23:23:39,516 - INFO -  - DisplayName updated for 'mehdirhasan.bsky.social'.
+2024-12-01 23:23:40,521 - INFO - Updating user 97/147: redditspaceviewes.bsky.social
+2024-12-01 23:23:40,521 - INFO - Fetching profile for redditspaceviewes.bsky.social...
+2024-12-01 23:23:40,830 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=redditspaceviewes.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:40,832 - INFO - Fetched profile for redditspaceviewes.bsky.social.
+2024-12-01 23:23:40,833 - INFO -  - Followers count updated: 176729 -> 176728
+2024-12-01 23:23:40,833 - INFO -  - DisplayName updated for 'redditspaceviewes.bsky.social'.
+2024-12-01 23:23:41,839 - INFO - Updating user 98/147: emilyliu.me
+2024-12-01 23:23:41,840 - INFO - Fetching profile for emilyliu.me...
+2024-12-01 23:23:42,188 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=emilyliu.me "HTTP/1.1 200 OK"
+2024-12-01 23:23:42,190 - INFO - Fetched profile for emilyliu.me.
+2024-12-01 23:23:42,190 - INFO -  - Followers count updated: 78826 -> 79236
+2024-12-01 23:23:42,190 - INFO -  - DisplayName updated for 'emilyliu.me'.
+2024-12-01 23:23:43,196 - INFO - Updating user 99/147: support.bsky.team
+2024-12-01 23:23:43,196 - INFO - Fetching profile for support.bsky.team...
+2024-12-01 23:23:43,510 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=support.bsky.team "HTTP/1.1 200 OK"
+2024-12-01 23:23:43,512 - INFO - Fetched profile for support.bsky.team.
+2024-12-01 23:23:43,512 - INFO -  - Followers count updated: 57490 -> 58122
+2024-12-01 23:23:43,512 - INFO -  - DisplayName updated for 'support.bsky.team'.
+2024-12-01 23:23:44,517 - INFO - Updating user 100/147: hansilowang.bsky.social
+2024-12-01 23:23:44,517 - INFO - Fetching profile for hansilowang.bsky.social...
+2024-12-01 23:23:44,829 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=hansilowang.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:44,831 - INFO - Fetched profile for hansilowang.bsky.social.
+2024-12-01 23:23:44,831 - INFO -  - Followers count updated: 52435 -> 52638
+2024-12-01 23:23:44,831 - INFO -  - DisplayName updated for 'hansilowang.bsky.social'.
+2024-12-01 23:23:45,836 - INFO - Updating user 101/147: lindaholmes.bsky.social
+2024-12-01 23:23:45,836 - INFO - Fetching profile for lindaholmes.bsky.social...
+2024-12-01 23:23:46,186 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=lindaholmes.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:46,189 - INFO - Fetched profile for lindaholmes.bsky.social.
+2024-12-01 23:23:46,189 - INFO -  - Followers count updated: 47696 -> 48069
+2024-12-01 23:23:46,189 - INFO -  - DisplayName updated for 'lindaholmes.bsky.social'.
+2024-12-01 23:23:47,196 - INFO - Updating user 102/147: edeggans.bsky.social
+2024-12-01 23:23:47,196 - INFO - Fetching profile for edeggans.bsky.social...
+2024-12-01 23:23:47,508 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=edeggans.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:47,509 - INFO - Fetched profile for edeggans.bsky.social.
+2024-12-01 23:23:47,509 - INFO -  - Followers count updated: 32368 -> 32766
+2024-12-01 23:23:47,509 - INFO -  - DisplayName updated for 'edeggans.bsky.social'.
+2024-12-01 23:23:48,511 - INFO - Updating user 103/147: shashj.bsky.social
+2024-12-01 23:23:48,512 - INFO - Fetching profile for shashj.bsky.social...
+2024-12-01 23:23:48,828 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=shashj.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:48,830 - INFO - Fetched profile for shashj.bsky.social.
+2024-12-01 23:23:48,830 - INFO -  - Followers count updated: 29746 -> 30249
+2024-12-01 23:23:48,830 - INFO -  - DisplayName updated for 'shashj.bsky.social'.
+2024-12-01 23:23:49,833 - INFO - Updating user 104/147: pwnallthethings.bsky.social
+2024-12-01 23:23:49,835 - INFO - Fetching profile for pwnallthethings.bsky.social...
+2024-12-01 23:23:50,142 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=pwnallthethings.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:50,144 - INFO - Fetched profile for pwnallthethings.bsky.social.
+2024-12-01 23:23:50,145 - INFO -  - Followers count updated: 136631 -> 138867
+2024-12-01 23:23:50,145 - INFO -  - DisplayName updated for 'pwnallthethings.bsky.social'.
+2024-12-01 23:23:51,147 - INFO - Updating user 105/147: carlomasala1.bsky.social
+2024-12-01 23:23:51,148 - INFO - Fetching profile for carlomasala1.bsky.social...
+2024-12-01 23:23:51,453 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=carlomasala1.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:51,454 - INFO - Fetched profile for carlomasala1.bsky.social.
+2024-12-01 23:23:51,454 - INFO -  - Followers count updated: 54597 -> 54827
+2024-12-01 23:23:51,454 - INFO -  - DisplayName updated for 'carlomasala1.bsky.social'.
+2024-12-01 23:23:52,460 - INFO - Updating user 106/147: ldfreedman.bsky.social
+2024-12-01 23:23:52,460 - INFO - Fetching profile for ldfreedman.bsky.social...
+2024-12-01 23:23:52,770 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ldfreedman.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:52,771 - INFO - Fetched profile for ldfreedman.bsky.social.
+2024-12-01 23:23:52,771 - INFO -  - Followers count updated: 35900 -> 36216
+2024-12-01 23:23:52,771 - INFO -  - DisplayName updated for 'ldfreedman.bsky.social'.
+2024-12-01 23:23:53,776 - INFO - Updating user 107/147: michaelkofman.bsky.social
+2024-12-01 23:23:53,777 - INFO - Fetching profile for michaelkofman.bsky.social...
+2024-12-01 23:23:54,094 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=michaelkofman.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:54,095 - INFO - Fetched profile for michaelkofman.bsky.social.
+2024-12-01 23:23:54,096 - INFO -  - Followers count updated: 28433 -> 28788
+2024-12-01 23:23:54,096 - INFO -  - DisplayName updated for 'michaelkofman.bsky.social'.
+2024-12-01 23:23:55,099 - INFO - Updating user 108/147: rikefranke.bsky.social
+2024-12-01 23:23:55,099 - INFO - Fetching profile for rikefranke.bsky.social...
+2024-12-01 23:23:55,408 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=rikefranke.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:55,411 - INFO - Fetched profile for rikefranke.bsky.social.
+2024-12-01 23:23:55,411 - INFO -  - Followers count updated: 25459 -> 25649
+2024-12-01 23:23:55,411 - INFO -  - DisplayName updated for 'rikefranke.bsky.social'.
+2024-12-01 23:23:56,414 - INFO - Updating user 109/147: duncanrobinson.bsky.social
+2024-12-01 23:23:56,414 - INFO - Fetching profile for duncanrobinson.bsky.social...
+2024-12-01 23:23:56,778 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=duncanrobinson.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:56,780 - INFO - Fetched profile for duncanrobinson.bsky.social.
+2024-12-01 23:23:56,780 - INFO -  - Followers count updated: 27328 -> 27426
+2024-12-01 23:23:56,780 - INFO -  - DisplayName updated for 'duncanrobinson.bsky.social'.
+2024-12-01 23:23:57,786 - INFO - Updating user 110/147: dril.bsky.social
+2024-12-01 23:23:57,786 - INFO - Fetching profile for dril.bsky.social...
+2024-12-01 23:23:58,101 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=dril.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:58,106 - INFO - Fetched profile for dril.bsky.social.
+2024-12-01 23:23:58,106 - INFO -  - Followers count updated: 409840 -> 411980
+2024-12-01 23:23:58,106 - INFO -  - DisplayName updated for 'dril.bsky.social'.
+2024-12-01 23:23:59,112 - INFO - Updating user 111/147: dieworkwear.bsky.social
+2024-12-01 23:23:59,113 - INFO - Fetching profile for dieworkwear.bsky.social...
+2024-12-01 23:23:59,491 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=dieworkwear.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:23:59,493 - INFO - Fetched profile for dieworkwear.bsky.social.
+2024-12-01 23:23:59,493 - INFO -  - Followers count updated: 330742 -> 334033
+2024-12-01 23:23:59,494 - INFO -  - DisplayName updated for 'dieworkwear.bsky.social'.
+2024-12-01 23:24:00,498 - INFO - Updating user 112/147: xkcd.com
+2024-12-01 23:24:00,498 - INFO - Fetching profile for xkcd.com...
+2024-12-01 23:24:00,823 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=xkcd.com "HTTP/1.1 200 OK"
+2024-12-01 23:24:00,828 - INFO - Fetched profile for xkcd.com.
+2024-12-01 23:24:00,828 - INFO -  - Followers count updated: 293061 -> 294053
+2024-12-01 23:24:00,828 - INFO -  - DisplayName updated for 'xkcd.com'.
+2024-12-01 23:24:01,835 - INFO - Updating user 113/147: jonbois.bsky.social
+2024-12-01 23:24:01,835 - INFO - Fetching profile for jonbois.bsky.social...
+2024-12-01 23:24:02,143 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=jonbois.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:02,144 - INFO - Fetched profile for jonbois.bsky.social.
+2024-12-01 23:24:02,144 - INFO -  - Followers count updated: 208541 -> 210593
+2024-12-01 23:24:02,144 - INFO -  - DisplayName updated for 'jonbois.bsky.social'.
+2024-12-01 23:24:03,148 - INFO - Updating user 114/147: adamserwer.bsky.social
+2024-12-01 23:24:03,149 - INFO - Fetching profile for adamserwer.bsky.social...
+2024-12-01 23:24:03,465 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=adamserwer.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:03,467 - INFO - Fetched profile for adamserwer.bsky.social.
+2024-12-01 23:24:03,467 - INFO -  - Followers count updated: 207004 -> 208951
+2024-12-01 23:24:03,468 - INFO -  - DisplayName updated for 'adamserwer.bsky.social'.
+2024-12-01 23:24:04,474 - INFO - Updating user 115/147: hern.bsky.social
+2024-12-01 23:24:04,474 - INFO - Fetching profile for hern.bsky.social...
+2024-12-01 23:24:04,862 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=hern.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:04,863 - INFO - Fetched profile for hern.bsky.social.
+2024-12-01 23:24:04,864 - INFO -  - Followers count updated: 24666 -> 24832
+2024-12-01 23:24:04,864 - INFO -  - DisplayName updated for 'hern.bsky.social'.
+2024-12-01 23:24:05,869 - INFO - Updating user 116/147: bencollins.bsky.social
+2024-12-01 23:24:05,870 - INFO - Fetching profile for bencollins.bsky.social...
+2024-12-01 23:24:06,186 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=bencollins.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:06,188 - INFO - Fetched profile for bencollins.bsky.social.
+2024-12-01 23:24:06,189 - INFO -  - Followers count updated: 323665 -> 327533
+2024-12-01 23:24:06,189 - INFO -  - DisplayName updated for 'bencollins.bsky.social'.
+2024-12-01 23:24:07,196 - INFO - Updating user 117/147: bellingcat.com
+2024-12-01 23:24:07,196 - INFO - Fetching profile for bellingcat.com...
+2024-12-01 23:24:07,500 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=bellingcat.com "HTTP/1.1 200 OK"
+2024-12-01 23:24:07,502 - INFO - Fetched profile for bellingcat.com.
+2024-12-01 23:24:07,502 - INFO -  - Followers count updated: 163269 -> 164658
+2024-12-01 23:24:07,502 - INFO -  - DisplayName updated for 'bellingcat.com'.
+2024-12-01 23:24:08,509 - INFO - Updating user 118/147: caseynewton.bsky.social
+2024-12-01 23:24:08,510 - INFO - Fetching profile for caseynewton.bsky.social...
+2024-12-01 23:24:08,816 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=caseynewton.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:08,818 - INFO - Fetched profile for caseynewton.bsky.social.
+2024-12-01 23:24:08,819 - INFO -  - Followers count updated: 152284 -> 154338
+2024-12-01 23:24:08,819 - INFO -  - DisplayName updated for 'caseynewton.bsky.social'.
+2024-12-01 23:24:09,823 - INFO - Updating user 119/147: molly.wiki
+2024-12-01 23:24:09,824 - INFO - Fetching profile for molly.wiki...
+2024-12-01 23:24:10,125 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=molly.wiki "HTTP/1.1 200 OK"
+2024-12-01 23:24:10,126 - INFO - Fetched profile for molly.wiki.
+2024-12-01 23:24:10,126 - INFO -  - Followers count updated: 142455 -> 144826
+2024-12-01 23:24:10,126 - INFO -  - DisplayName updated for 'molly.wiki'.
+2024-12-01 23:24:11,128 - INFO - Updating user 120/147: matthewholehouse.bsky.social
+2024-12-01 23:24:11,129 - INFO - Fetching profile for matthewholehouse.bsky.social...
+2024-12-01 23:24:11,438 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=matthewholehouse.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:11,439 - INFO - Fetched profile for matthewholehouse.bsky.social.
+2024-12-01 23:24:11,439 - INFO -  - Followers count updated: 24628 -> 24702
+2024-12-01 23:24:11,440 - INFO -  - DisplayName updated for 'matthewholehouse.bsky.social'.
+2024-12-01 23:24:12,441 - INFO - Updating user 121/147: financialtimes.com
+2024-12-01 23:24:12,442 - INFO - Fetching profile for financialtimes.com...
+2024-12-01 23:24:12,766 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=financialtimes.com "HTTP/1.1 200 OK"
+2024-12-01 23:24:12,768 - INFO - Fetched profile for financialtimes.com.
+2024-12-01 23:24:12,768 - INFO -  - Followers count updated: 208967 -> 210696
+2024-12-01 23:24:12,768 - INFO -  - DisplayName updated for 'financialtimes.com'.
+2024-12-01 23:24:13,775 - INFO - Updating user 122/147: lewisgoodall.com
+2024-12-01 23:24:13,775 - INFO - Fetching profile for lewisgoodall.com...
+2024-12-01 23:24:14,143 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=lewisgoodall.com "HTTP/1.1 200 OK"
+2024-12-01 23:24:14,145 - INFO - Fetched profile for lewisgoodall.com.
+2024-12-01 23:24:14,145 - INFO -  - Followers count updated: 116146 -> 116699
+2024-12-01 23:24:14,145 - INFO -  - DisplayName updated for 'lewisgoodall.com'.
+2024-12-01 23:24:15,152 - INFO - Updating user 123/147: pippacrerar.bsky.social
+2024-12-01 23:24:15,153 - INFO - Fetching profile for pippacrerar.bsky.social...
+2024-12-01 23:24:15,470 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=pippacrerar.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:15,471 - INFO - Fetched profile for pippacrerar.bsky.social.
+2024-12-01 23:24:15,472 - INFO -  - Followers count updated: 92644 -> 92990
+2024-12-01 23:24:15,472 - INFO -  - DisplayName updated for 'pippacrerar.bsky.social'.
+2024-12-01 23:24:16,475 - INFO - Updating user 124/147: ioponomarenko.bsky.social
+2024-12-01 23:24:16,475 - INFO - Fetching profile for ioponomarenko.bsky.social...
+2024-12-01 23:24:16,794 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ioponomarenko.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:16,796 - INFO - Fetched profile for ioponomarenko.bsky.social.
+2024-12-01 23:24:16,796 - INFO -  - Followers count updated: 87671 -> 88472
+2024-12-01 23:24:16,796 - INFO -  - DisplayName updated for 'ioponomarenko.bsky.social'.
+2024-12-01 23:24:17,803 - INFO - Updating user 125/147: taylorlorenz.bsky.social
+2024-12-01 23:24:17,803 - INFO - Fetching profile for taylorlorenz.bsky.social...
+2024-12-01 23:24:18,121 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=taylorlorenz.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:18,123 - INFO - Fetched profile for taylorlorenz.bsky.social.
+2024-12-01 23:24:18,123 - INFO -  - Followers count updated: 179915 -> 180831
+2024-12-01 23:24:18,123 - INFO -  - DisplayName updated for 'taylorlorenz.bsky.social'.
+2024-12-01 23:24:19,126 - INFO - Updating user 126/147: jamellebouie.net
+2024-12-01 23:24:19,126 - INFO - Fetching profile for jamellebouie.net...
+2024-12-01 23:24:19,446 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=jamellebouie.net "HTTP/1.1 200 OK"
+2024-12-01 23:24:19,447 - INFO - Fetched profile for jamellebouie.net.
+2024-12-01 23:24:19,447 - INFO -  - Followers count updated: 413156 -> 415280
+2024-12-01 23:24:19,448 - INFO -  - DisplayName updated for 'jamellebouie.net'.
+2024-12-01 23:24:20,453 - INFO - Updating user 127/147: eldiario.es
+2024-12-01 23:24:20,454 - INFO - Fetching profile for eldiario.es...
+2024-12-01 23:24:20,794 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=eldiario.es "HTTP/1.1 200 OK"
+2024-12-01 23:24:20,797 - INFO - Fetched profile for eldiario.es.
+2024-12-01 23:24:20,797 - INFO -  - Followers count updated: 103822 -> 104737
+2024-12-01 23:24:20,797 - INFO -  - DisplayName updated for 'eldiario.es'.
+2024-12-01 23:24:21,802 - INFO - Updating user 128/147: bloomberg.com
+2024-12-01 23:24:21,802 - INFO - Fetching profile for bloomberg.com...
+2024-12-01 23:24:22,353 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=bloomberg.com "HTTP/1.1 200 OK"
+2024-12-01 23:24:22,355 - INFO - Fetched profile for bloomberg.com.
+2024-12-01 23:24:22,355 - INFO -  - Followers count updated: 267142 -> 269131
+2024-12-01 23:24:22,355 - INFO -  - DisplayName updated for 'bloomberg.com'.
+2024-12-01 23:24:23,357 - INFO - Updating user 129/147: archive.org
+2024-12-01 23:24:23,358 - INFO - Fetching profile for archive.org...
+2024-12-01 23:24:23,670 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=archive.org "HTTP/1.1 200 OK"
+2024-12-01 23:24:23,672 - INFO - Fetched profile for archive.org.
+2024-12-01 23:24:23,673 - INFO -  - Followers count updated: 236279 -> 237299
+2024-12-01 23:24:23,673 - INFO -  - DisplayName updated for 'archive.org'.
+2024-12-01 23:24:24,680 - INFO - Updating user 130/147: data.ft.com
+2024-12-01 23:24:24,681 - INFO - Fetching profile for data.ft.com...
+2024-12-01 23:24:25,014 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=data.ft.com "HTTP/1.1 200 OK"
+2024-12-01 23:24:25,016 - INFO - Fetched profile for data.ft.com.
+2024-12-01 23:24:25,016 - INFO -  - Followers count updated: 137688 -> 138065
+2024-12-01 23:24:25,016 - INFO -  - DisplayName updated for 'data.ft.com'.
+2024-12-01 23:24:26,023 - INFO - Updating user 131/147: sintxaurrondo.bsky.social
+2024-12-01 23:24:26,025 - INFO - Fetching profile for sintxaurrondo.bsky.social...
+2024-12-01 23:24:26,338 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=sintxaurrondo.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:26,340 - INFO - Fetched profile for sintxaurrondo.bsky.social.
+2024-12-01 23:24:26,340 - INFO -  - Followers count updated: 44770 -> 45081
+2024-12-01 23:24:26,340 - INFO -  - DisplayName updated for 'sintxaurrondo.bsky.social'.
+2024-12-01 23:24:27,344 - INFO - Updating user 132/147: iescolar.bsky.social
+2024-12-01 23:24:27,345 - INFO - Fetching profile for iescolar.bsky.social...
+2024-12-01 23:24:27,653 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=iescolar.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:27,655 - INFO - Fetched profile for iescolar.bsky.social.
+2024-12-01 23:24:27,655 - INFO -  - Followers count updated: 28742 -> 29713
+2024-12-01 23:24:27,655 - INFO -  - DisplayName updated for 'iescolar.bsky.social'.
+2024-12-01 23:24:28,662 - INFO - Updating user 133/147: treadres.bsky.social
+2024-12-01 23:24:28,662 - INFO - Fetching profile for treadres.bsky.social...
+2024-12-01 23:24:28,994 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=treadres.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:28,995 - INFO - Fetched profile for treadres.bsky.social.
+2024-12-01 23:24:28,995 - INFO -  - Followers count updated: 20291 -> 23178
+2024-12-01 23:24:28,995 - INFO -  - DisplayName updated for 'treadres.bsky.social'.
+2024-12-01 23:24:29,998 - INFO - Updating user 134/147: muellershewrote.bsky.social
+2024-12-01 23:24:29,999 - INFO - Fetching profile for muellershewrote.bsky.social...
+2024-12-01 23:24:30,324 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=muellershewrote.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:30,327 - INFO - Fetched profile for muellershewrote.bsky.social.
+2024-12-01 23:24:30,327 - INFO -  - Followers count updated: 465317 -> 469225
+2024-12-01 23:24:30,327 - INFO -  - DisplayName updated for 'muellershewrote.bsky.social'.
+2024-12-01 23:24:31,334 - INFO - Updating user 135/147: maryltrump.bsky.social
+2024-12-01 23:24:31,334 - INFO - Fetching profile for maryltrump.bsky.social...
+2024-12-01 23:24:31,650 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=maryltrump.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:31,653 - INFO - Fetched profile for maryltrump.bsky.social.
+2024-12-01 23:24:31,654 - INFO -  - Followers count updated: 226779 -> 228808
+2024-12-01 23:24:31,654 - INFO -  - DisplayName updated for 'maryltrump.bsky.social'.
+2024-12-01 23:24:32,660 - INFO - Updating user 136/147: scalzi.com
+2024-12-01 23:24:32,661 - INFO - Fetching profile for scalzi.com...
+2024-12-01 23:24:32,975 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=scalzi.com "HTTP/1.1 200 OK"
+2024-12-01 23:24:32,976 - INFO - Fetched profile for scalzi.com.
+2024-12-01 23:24:32,976 - INFO -  - Followers count updated: 205149 -> 206237
+2024-12-01 23:24:32,976 - INFO -  - DisplayName updated for 'scalzi.com'.
+2024-12-01 23:24:33,981 - INFO - Updating user 137/147: ap.brid.gy
+2024-12-01 23:24:33,982 - INFO - Fetching profile for ap.brid.gy...
+2024-12-01 23:24:34,278 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ap.brid.gy "HTTP/1.1 200 OK"
+2024-12-01 23:24:34,279 - INFO - Fetched profile for ap.brid.gy.
+2024-12-01 23:24:34,279 - INFO -  - Followers count updated: 36336 -> 36477
+2024-12-01 23:24:34,280 - INFO -  - DisplayName updated for 'ap.brid.gy'.
+2024-12-01 23:24:35,287 - INFO - Updating user 138/147: adamparkhomenko.bsky.social
+2024-12-01 23:24:35,287 - INFO - Fetching profile for adamparkhomenko.bsky.social...
+2024-12-01 23:24:35,606 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=adamparkhomenko.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:35,607 - INFO - Fetched profile for adamparkhomenko.bsky.social.
+2024-12-01 23:24:35,607 - INFO -  - Followers count updated: 271974 -> 272231
+2024-12-01 23:24:35,607 - INFO -  - DisplayName updated for 'adamparkhomenko.bsky.social'.
+2024-12-01 23:24:36,613 - INFO - Updating user 139/147: youranoncentral.bsky.social
+2024-12-01 23:24:36,613 - INFO - Fetching profile for youranoncentral.bsky.social...
+2024-12-01 23:24:36,926 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=youranoncentral.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:36,927 - INFO - Fetched profile for youranoncentral.bsky.social.
+2024-12-01 23:24:36,927 - INFO -  - Followers count updated: 247945 -> 248420
+2024-12-01 23:24:36,927 - INFO -  - DisplayName updated for 'youranoncentral.bsky.social'.
+2024-12-01 23:24:37,934 - INFO - Updating user 140/147: emptywheel.bsky.social
+2024-12-01 23:24:37,934 - INFO - Fetching profile for emptywheel.bsky.social...
+2024-12-01 23:24:38,242 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=emptywheel.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:38,244 - INFO - Fetched profile for emptywheel.bsky.social.
+2024-12-01 23:24:38,245 - INFO -  - Followers count updated: 204949 -> 205602
+2024-12-01 23:24:38,245 - INFO -  - DisplayName updated for 'emptywheel.bsky.social'.
+2024-12-01 23:24:39,250 - INFO - Updating user 141/147: nickknudsenus.bsky.social
+2024-12-01 23:24:39,251 - INFO - Fetching profile for nickknudsenus.bsky.social...
+2024-12-01 23:24:39,561 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=nickknudsenus.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:39,562 - INFO - Fetched profile for nickknudsenus.bsky.social.
+2024-12-01 23:24:39,563 - INFO -  - Followers count updated: 173184 -> 174497
+2024-12-01 23:24:39,563 - INFO -  - DisplayName updated for 'nickknudsenus.bsky.social'.
+2024-12-01 23:24:40,566 - INFO - Updating user 142/147: us.theguardian.com
+2024-12-01 23:24:40,567 - INFO - Fetching profile for us.theguardian.com...
+2024-12-01 23:24:40,866 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=us.theguardian.com "HTTP/1.1 200 OK"
+2024-12-01 23:24:40,868 - INFO - Fetched profile for us.theguardian.com.
+2024-12-01 23:24:40,868 - INFO -  - Followers count updated: 8507 -> 8510
+2024-12-01 23:24:40,868 - INFO -  - DisplayName updated for 'us.theguardian.com'.
+2024-12-01 23:24:41,874 - INFO - Updating user 143/147: hugolowell.bsky.social
+2024-12-01 23:24:41,874 - INFO - Fetching profile for hugolowell.bsky.social...
+2024-12-01 23:24:42,190 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=hugolowell.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:42,192 - INFO - Fetched profile for hugolowell.bsky.social.
+2024-12-01 23:24:42,192 - INFO -  - Followers count updated: 63238 -> 63244
+2024-12-01 23:24:42,192 - INFO -  - DisplayName updated for 'hugolowell.bsky.social'.
+2024-12-01 23:24:43,199 - INFO - Updating user 144/147: australia.theguardian.com
+2024-12-01 23:24:43,199 - INFO - Fetching profile for australia.theguardian.com...
+2024-12-01 23:24:43,510 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=australia.theguardian.com "HTTP/1.1 200 OK"
+2024-12-01 23:24:43,511 - INFO - Fetched profile for australia.theguardian.com.
+2024-12-01 23:24:43,511 - INFO -  - Followers count updated: 40962 -> 40971
+2024-12-01 23:24:43,511 - INFO -  - DisplayName updated for 'australia.theguardian.com'.
+2024-12-01 23:24:44,517 - INFO - Updating user 145/147: samtlevin.bsky.social
+2024-12-01 23:24:44,518 - INFO - Fetching profile for samtlevin.bsky.social...
+2024-12-01 23:24:44,835 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=samtlevin.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:44,837 - INFO - Fetched profile for samtlevin.bsky.social.
+2024-12-01 23:24:44,838 - INFO -  - Followers count remains unchanged.
+2024-12-01 23:24:44,838 - INFO -  - DisplayName updated for 'samtlevin.bsky.social'.
+2024-12-01 23:24:45,841 - INFO - Updating user 146/147: dharna.bsky.social
+2024-12-01 23:24:45,841 - INFO - Fetching profile for dharna.bsky.social...
+2024-12-01 23:24:46,146 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=dharna.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:46,147 - INFO - Fetched profile for dharna.bsky.social.
+2024-12-01 23:24:46,147 - INFO -  - Followers count remains unchanged.
+2024-12-01 23:24:46,147 - INFO -  - DisplayName updated for 'dharna.bsky.social'.
+2024-12-01 23:24:47,154 - INFO - Updating user 147/147: ninalakhani.bsky.social
+2024-12-01 23:24:47,154 - INFO - Fetching profile for ninalakhani.bsky.social...
+2024-12-01 23:24:47,480 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=ninalakhani.bsky.social "HTTP/1.1 200 OK"
+2024-12-01 23:24:47,492 - INFO - Fetched profile for ninalakhani.bsky.social.
+2024-12-01 23:24:47,492 - INFO -  - Followers count updated: 7762 -> 7764
+2024-12-01 23:24:47,493 - INFO -  - DisplayName updated for 'ninalakhani.bsky.social'.
+2024-12-01 23:24:48,508 - INFO - Update complete. Total users updated: 282/147
+2024-12-01 23:24:48,512 - INFO - Successfully saved updated graph to 'user_graph.pkl'.
