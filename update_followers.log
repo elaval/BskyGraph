@@ -11320,3 +11320,47 @@ Processing heribertus.bsky.social at depth 1...
 2024-12-02 13:52:50,124 - INFO - Fetched profile for polardoggo.bsky.social.
 2024-12-02 13:52:50,124 - INFO - User polardoggo.bsky.social has 98 followers, below threshold.
 2024-12-02 13:52:50,278 - INFO - Fetching profile for diariomural.bsky.social...
+2024-12-02 13:52:50,577 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=diariomural.bsky.social "HTTP/1.1 200 OK"
+2024-12-02 13:52:50,577 - INFO - Fetched profile for diariomural.bsky.social.
+2024-12-02 13:52:50,578 - INFO - User diariomural.bsky.social has 451 followers, below threshold.
+2024-12-02 13:52:50,732 - INFO - Fetching profile for gingfreecss17.bsky.social...
+2024-12-02 13:52:51,032 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=gingfreecss17.bsky.social "HTTP/1.1 200 OK"
+2024-12-02 13:52:51,033 - INFO - Fetched profile for gingfreecss17.bsky.social.
+2024-12-02 13:52:51,033 - INFO - User gingfreecss17.bsky.social has 82 followers, below threshold.
+2024-12-02 13:52:51,188 - INFO - Fetching profile for tanitalg.bsky.social...
+2024-12-02 13:52:51,493 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=tanitalg.bsky.social "HTTP/1.1 200 OK"
+2024-12-02 13:52:51,494 - INFO - Fetched profile for tanitalg.bsky.social.
+2024-12-02 13:52:51,494 - INFO - User tanitalg.bsky.social has 212 followers, below threshold.
+2024-12-02 13:52:51,649 - INFO - Fetching profile for hermestrimegistro.bsky.social...
+2024-12-02 13:52:52,005 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=hermestrimegistro.bsky.social "HTTP/1.1 200 OK"
+2024-12-02 13:52:52,007 - INFO - Fetched profile for hermestrimegistro.bsky.social.
+2024-12-02 13:52:52,007 - INFO - User hermestrimegistro.bsky.social has 339 followers, below threshold.
+2024-12-02 13:52:52,162 - INFO - Fetching profile for denierdinosaur.bsky.social...
+2024-12-02 13:52:52,463 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=denierdinosaur.bsky.social "HTTP/1.1 200 OK"
+2024-12-02 13:52:52,464 - INFO - Fetched profile for denierdinosaur.bsky.social.
+2024-12-02 13:52:52,464 - INFO - User denierdinosaur.bsky.social has 66 followers, below threshold.
+2024-12-02 13:52:52,619 - INFO - Fetching profile for kikiscl.bsky.social...
+2024-12-02 13:52:52,925 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=kikiscl.bsky.social "HTTP/1.1 200 OK"
+2024-12-02 13:52:52,928 - INFO - Fetched profile for kikiscl.bsky.social.
+2024-12-02 13:52:52,928 - INFO - User kikiscl.bsky.social has 56 followers, below threshold.
+2024-12-02 13:52:53,082 - INFO - Fetching profile for panchadragonfly.bsky.social...
+2024-12-02 13:52:53,389 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=panchadragonfly.bsky.social "HTTP/1.1 200 OK"
+2024-12-02 13:52:53,391 - INFO - Fetched profile for panchadragonfly.bsky.social.
+2024-12-02 13:52:53,391 - INFO - User panchadragonfly.bsky.social has 250 followers, below threshold.
+2024-12-02 13:52:53,546 - INFO - Processed 120 out of 187 follows for heribertus.bsky.social.
+2024-12-02 13:52:53,547 - INFO - Fetching profile for peterkhantropus.bsky.social...
+2024-12-02 13:52:53,860 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=peterkhantropus.bsky.social "HTTP/1.1 200 OK"
+2024-12-02 13:52:53,862 - INFO - Fetched profile for peterkhantropus.bsky.social.
+2024-12-02 13:52:53,863 - INFO - User peterkhantropus.bsky.social has 142 followers, below threshold.
+2024-12-02 13:52:54,015 - INFO - Fetching profile for macana144.bsky.social...
+2024-12-02 13:52:54,392 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=macana144.bsky.social "HTTP/1.1 200 OK"
+2024-12-02 13:52:54,393 - INFO - Fetched profile for macana144.bsky.social.
+2024-12-02 13:52:54,393 - INFO - User macana144.bsky.social has 197 followers, below threshold.
+2024-12-02 13:52:54,545 - INFO - Fetching profile for carlosnavarroc.github.io...
+2024-12-02 13:52:54,844 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=carlosnavarroc.github.io "HTTP/1.1 200 OK"
+2024-12-02 13:52:54,847 - INFO - Fetched profile for carlosnavarroc.github.io.
+2024-12-02 13:52:54,847 - INFO - User carlosnavarroc.github.io has 254 followers, below threshold.
+2024-12-02 13:52:55,000 - INFO - Fetching profile for darwinsalas.bsky.social...
+2024-12-02 13:52:55,312 - INFO - HTTP Request: GET https://gomphus.us-west.host.bsky.network/xrpc/app.bsky.actor.getProfile?actor=darwinsalas.bsky.social "HTTP/1.1 200 OK"
+2024-12-02 13:52:55,314 - INFO - Fetched profile for darwinsalas.bsky.social.
+2024-12-02 13:52:55,314 - INFO - User darwinsalas.bsky.social has 189 followers, below threshold.
