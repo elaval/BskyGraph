@@ -1,0 +1,3307 @@
+[
+    {
+        "handle": "dmimica.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6sbzutdek6kxzojvgoec4itl/bafkreibaa5n7shnr4ao5blq2nvbo2eugeu5o6a4guex4wbykt67ivhdp6m@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 1229,
+        "connections": []
+    },
+    {
+        "handle": "mrhitchcok.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:34i4mxxpnlk3izvyucaerfsj/bafkreify373lm7nkaaid7jta3e4al7knrmydyosjw4hy2wgm4xmjyeaaum@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 3391,
+        "connections": [
+            "bsky.app",
+            "markhamillofficial.bsky.social",
+            "cnn.com",
+            "sethabramson.bsky.social",
+            "redditspaceviewes.bsky.social"
+        ]
+    },
+    {
+        "handle": "economist.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mhzk3blh4pfxo3fqh2meowbb/bafkreihks2rloifplwgkbzn3dlnkud7bz2eaegnpn6qltfpnxxxot2mkuq@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 31734,
+        "connections": [
+            "bsky.app",
+            "shashj.bsky.social",
+            "duncanrobinson.bsky.social",
+            "hern.bsky.social",
+            "matthewholehouse.bsky.social"
+        ]
+    },
+    {
+        "handle": "elpais.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:u6mkbcgviwlbhuwqirmhcgu3/bafkreidlrr3xp5jyyelnldjpzgpppz4a5lj5visirsfgfxelnxssrg6jpy@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 117227,
+        "connections": [
+            "bsky.app",
+            "nytimes.com",
+            "washingtonpost.com",
+            "jay.bsky.team",
+            "theguardian.com"
+        ]
+    },
+    {
+        "handle": "censelio.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ao6poztm2ostridphfbf2l3y/bafkreidjom4dssoinz4jt5ecqbmqxpzv5nhhq4wytozadyiokrlnvzp6r4@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 4660,
+        "connections": [
+            "theguardian.com",
+            "ap.brid.gy",
+            "us.theguardian.com",
+            "electomania.es",
+            "museumsassociation.bsky.social"
+        ]
+    },
+    {
+        "handle": "apalet.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y4bvfcu7wrx7jlyjg6qglqzl/bafkreihf42uqadusa7kcras2qb65uupq6ejrvxe2mcqgtvaz4ctc7tycp4@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 1116,
+        "connections": [
+            "dril.bsky.social",
+            "theguardian.com",
+            "dieworkwear.bsky.social",
+            "adamserwer.bsky.social"
+        ]
+    },
+    {
+        "handle": "latercera.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gpkqfsizhbrcixwssvx67mzp/bafkreia6f352zbw6c2fnses2tnrkeaucxa6h74zvashpo6v6z74sja2n7q@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 3331,
+        "connections": [
+            "bsky.app",
+            "nytimes.com",
+            "washingtonpost.com",
+            "npr.org",
+            "cnn.com"
+        ]
+    },
+    {
+        "handle": "theclinic.cl",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:u2wkqbunk5ugtkrqwse7exeh/bafkreiefcmxj4zh7thgpejs4gi62z3hrwuot4hyyy75hh737fvluokk25a@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 1385,
+        "connections": [
+            "bsky.app"
+        ]
+    },
+    {
+        "handle": "quintralacolorada.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ga4qchzhtgt3w6fs4ucd627r/bafkreieerhvod6uxquq4bm6nygxup5zsrn777tzv7jbd7a7el6xtae7lbu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 2216,
+        "connections": [
+            "bsky.app",
+            "nytimes.com",
+            "theguardian.com",
+            "inviernos.bsky.social"
+        ]
+    },
+    {
+        "handle": "cgajardop.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qal4kbwqqbfwss4do3aj5thn/bafkreideghitp2xivnkyvory3tajnwa6gpczbyppkhhzhcd4t47be2dktm@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 4681,
+        "connections": [
+            "bsky.app",
+            "eldiario.es",
+            "matamala.bsky.social",
+            "bototos.bsky.social",
+            "floroceballos.bsky.social"
+        ]
+    },
+    {
+        "handle": "baradit.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cctijzgxgai7e7zmscr4ohtk/bafkreia4spuvtqunle6xjlfgerl36babmuv7eddy36dudvkuzxx6b7ansi@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 2242,
+        "connections": [
+            "nytimes.com",
+            "theguardian.com"
+        ]
+    },
+    {
+        "handle": "giorgiojackson.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rp5pyqtp4xgol7lkdcm6vqig/bafkreic53fdotxidopsfdz7wt3mnroknldgrbw4dfml3dve4owtcwzue4y@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 1220,
+        "connections": [
+            "bsky.app",
+            "nytimes.com",
+            "cnn.com",
+            "theguardian.com",
+            "eldiario.es"
+        ]
+    },
+    {
+        "handle": "rafacavada.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xedazyy7wsdfi6wzo5gbedus/bafkreihg6gk6kj3bsgyjuwilowrsl2ouxx3cdjhjjh5njprtni7djyee6u@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 2565,
+        "connections": [
+            "bsky.app",
+            "nytimes.com",
+            "cnn.com",
+            "theguardian.com"
+        ]
+    },
+    {
+        "handle": "profdevisridhar.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:is7ixjncehsouy4q3lp73t32/bafkreifjttnthxxvxcdeehdv4k2767p3pokyhnzyfpefsrygbcmrlkjixu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 13348,
+        "connections": [
+            "theguardian.com",
+            "pippacrerar.bsky.social"
+        ]
+    },
+    {
+        "handle": "matamala.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2rifyv2umowl47hyy2hg63cv/bafkreifoycpnl4c2u5ipiuf57umswlouq2teplsqhyxhrbzggxecgh72vu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 4271,
+        "connections": [
+            "bsky.app",
+            "nytimes.com",
+            "npr.org",
+            "cnn.com",
+            "theguardian.com"
+        ]
+    },
+    {
+        "handle": "sepulvedanico.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wuefdqy6amjklax2dgdvsbn6/bafkreihenraypemrxzn4keq3uvd74yutpawmtdbrengq5c5j2ctwdl4lxm@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 1626,
+        "connections": [
+            "bsky.app",
+            "nytimes.com",
+            "washingtonpost.com",
+            "cnn.com",
+            "theguardian.com"
+        ]
+    },
+    {
+        "handle": "criordor.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:o2fmlrk45qqzhm2ug3jasjgl/bafkreihm5en2ghln3cq6lhbg2za6zp25d427egwmvy2xognpnhsk7othyy@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 1598,
+        "connections": [
+            "theguardian.com",
+            "kiccc.bsky.social",
+            "qjqj.bsky.social",
+            "guillaumelondon.bsky.social",
+            "i55i.bsky.social"
+        ]
+    },
+    {
+        "handle": "xchongc.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2xkbo7oujfqbffp5biwv2ejz/bafkreigp4ewo7wg4yadw45jfe3rdjv2dssk4bkci542sao5hap7succciu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 3311,
+        "connections": [
+            "bsky.app",
+            "nytimes.com",
+            "markhamillofficial.bsky.social",
+            "theguardian.com"
+        ]
+    },
+    {
+        "handle": "drericding.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7a6eqoyhbtmkhqphfesjybq3/bafkreibqzspb6ncw32iyljt4catkdwosjd2k5g56yc27oweeaibyivr5aq@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 136798,
+        "connections": [
+            "bsky.app",
+            "aoc.bsky.social",
+            "georgetakei.bsky.social",
+            "theonion.com",
+            "nytimes.com"
+        ]
+    },
+    {
+        "handle": "jburnmurdoch.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ho34pe25d3ywc6g6vxugre2i/bafkreia72csyi2k72zq6hkijxwxc4ydix7siuwxdi2uqhpst6mggst5yh4@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 91858,
+        "connections": [
+            "bsky.app",
+            "aoc.bsky.social",
+            "mcuban.bsky.social",
+            "jamellebouie.net",
+            "dril.bsky.social"
+        ]
+    },
+    {
+        "handle": "cnn.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 381656,
+        "connections": [
+            "bsky.app"
+        ]
+    },
+    {
+        "handle": "markhamillofficial.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xyddpg6usmgh2t2jgf4e37yk/bafkreiblhhbzu6vecooxeyx5kee22uxmcigpne2wuhu76vquu4p4ts3cde@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 750353,
+        "connections": [
+            "bsky.app",
+            "georgetakei.bsky.social",
+            "theonion.com",
+            "meidastouch.bsky.social",
+            "atrupar.com"
+        ]
+    },
+    {
+        "handle": "nytimes.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 750756,
+        "connections": []
+    },
+    {
+        "handle": "aoc.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p7gxyfr5vii5ntpwo7f6dhe2/bafkreia7pjciqmezep36yotfgas23eie47sy5ymcorzd7exejlxtiox6by@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 960767,
+        "connections": [
+            "bsky.app",
+            "georgetakei.bsky.social",
+            "theonion.com",
+            "washingtonpost.com",
+            "atrupar.com"
+        ]
+    },
+    {
+        "handle": "damivago.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkpbs6phlif6m5z6jov3lwje/bafkreibwfgqlgshnf5oj3ci4hx6iir5lav2stw3szp2fb4d3qrbnxuqsue@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 2905,
+        "connections": [
+            "chistico.bsky.social",
+            "mattyll.bsky.social"
+        ]
+    },
+    {
+        "handle": "theguardian.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 343821,
+        "connections": [
+            "pippacrerar.bsky.social"
+        ]
+    },
+    {
+        "handle": "erictopol.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6vwezbhj7wwowu4sbur5npjk/bafkreihbab5kozffhxcmr5jcbc5cl6aumtdffgkjdug4g5jm2dxlfwvkvi@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 88209,
+        "connections": [
+            "bsky.app",
+            "georgetakei.bsky.social",
+            "mcuban.bsky.social",
+            "atrupar.com",
+            "mollyjongfast.bsky.social"
+        ]
+    },
+    {
+        "handle": "who.int",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:univ47kzorwxjih3lqzrnwmv/bafkreifnvtdwzmz25zxaidfg3f4co6gbiulwdpn2cicjdsqyjvkhgy5gsy@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 28565,
+        "connections": [
+            "bsky.app"
+        ]
+    },
+    {
+        "handle": "bmj.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:r2tqb4cbjkgt4ntcmby64lav/bafkreieg6rvhxhowrjz4iad77wbgmsgiy7z2fccoug5k5ee7u5x6zqgezi@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 9295,
+        "connections": [
+            "bsky.app"
+        ]
+    },
+    {
+        "handle": "nbody6.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvboqghesbqlv73klkwdq2ds/bafkreicvtxfnjsaevkys56rffkg3krrk3g5ssmka4glo455cb3wl7vdz4a@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 1707,
+        "connections": [
+            "washingtonpost.com",
+            "eldiario.es"
+        ]
+    },
+    {
+        "handle": "malaimagen.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cfjom57q73xoskh2xrphqd75/bafkreihgduioob7ioc46cqht5u6lwfgli3frw7yhn64nxfk2nb3ihncoti@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 3063,
+        "connections": [
+            "bsky.app",
+            "mattyll.bsky.social",
+            "bototos.bsky.social",
+            "juanarivers.bsky.social"
+        ]
+    },
+    {
+        "handle": "bacigalupe.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:x3mtlnr3etvyh6axi442jw76/bafkreifc7t5wyjxr66ns552jziept23rzywlwjaxtx6ecxm6a6fzlpjhke@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 2599,
+        "connections": [
+            "bsky.app",
+            "theonion.com",
+            "mcuban.bsky.social",
+            "washingtonpost.com",
+            "atrupar.com"
+        ]
+    },
+    {
+        "handle": "observablehq.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:v7w63oyizwhmzkqpx3tjn5r6/bafkreie2kflsivzir7kio3tz3tm4dtk7nxd5rnc7b3l2nhja6w64pjdcjy@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 1459,
+        "connections": [
+            "bsky.app"
+        ]
+    },
+    {
+        "handle": "bsky.app",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z72i7hdynmk6r22z27h6tvur/bafkreihagr2cmvl2jt4mgx3sppwe2it3fwolkrbtjrhcnwjk4jdijhsoze@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 16543053,
+        "connections": []
+    },
+    {
+        "handle": "juanarivers.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:47gj6jyirhxtibccijva4hxs/bafkreibfyfxsychjicysgzfong3qbcfexbuofaecnplsynkksgjwlfgqfa@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 1980,
+        "connections": [
+            "mattyll.bsky.social",
+            "bototos.bsky.social"
+        ]
+    },
+    {
+        "handle": "washingtonpost.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreicx5ybi5wukvetsv3m74z3nmvbvrdhgms6sr4nlilrktv5u2lmsay@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 556824,
+        "connections": [
+            "jay.bsky.team",
+            "bloomberg.com",
+            "emilyliu.me"
+        ]
+    },
+    {
+        "handle": "jay.bsky.team",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oky5czdrnfjpqslsw2a5iclo/bafkreihidru2xruxdxlvvcixc7lbgoudzicjbrdgacdhdhxyfw4yut4nfq@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 450794,
+        "connections": [
+            "georgetakei.bsky.social",
+            "mcuban.bsky.social",
+            "npr.org",
+            "jamellebouie.net"
+        ]
+    },
+    {
+        "handle": "marcelias.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pjiafkey2cokiupsxpswqlk7/bafkreibda5a7updqoqvq2k4jnklowk5cv2zlljz4zztuzdedfivgnnkwwa@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 447329,
+        "connections": [
+            "atrupar.com",
+            "mollyjongfast.bsky.social",
+            "gtconway.bsky.social",
+            "briantylercohen.bsky.social",
+            "npr.org"
+        ]
+    },
+    {
+        "handle": "hcrichardson.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wpj5z24vsmik5ocqjybwjpso/bafkreiclxlptb23gfjal6mkp7xzxyiwbgqiwwvimjfslea3p5qgnq2spki@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 317600,
+        "connections": [
+            "georgetakei.bsky.social",
+            "mcuban.bsky.social",
+            "meidastouch.bsky.social",
+            "atrupar.com",
+            "mollyjongfast.bsky.social"
+        ]
+    },
+    {
+        "handle": "theonion.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:a4pqq234yw7fqbddawjo7y35/bafkreiajdz4ktkjv5jrnye7sotgz6g5xarts6yu6ypbhninxqnvwoiwsfi@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 753613,
+        "connections": []
+    },
+    {
+        "handle": "atrupar.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4llrhdclvdlmmynkwsmg5tdc/bafkreibmhm3h6ar52pogvolisrzjdhwa2myras5vkxzj67twxn2l6pogwu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 530777,
+        "connections": [
+            "georgetakei.bsky.social",
+            "mcuban.bsky.social",
+            "meidastouch.bsky.social",
+            "mollyjongfast.bsky.social",
+            "gtconway.bsky.social"
+        ]
+    },
+    {
+        "handle": "georgetakei.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y4zs4cabaezzwx3bz2e5nnj2/bafkreihyuljtklac6pgvt4kbndezofm23wswyhdqmh77bgedrxhuigwbh4@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 836865,
+        "connections": []
+    },
+    {
+        "handle": "mcuban.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y5xyloyy7s4a2bwfeimj7r3b/bafkreihxddlkbnblytjdbajg5qopawdfcabg5e7ppwja6zmm3lvnedzojm@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 685876,
+        "connections": []
+    },
+    {
+        "handle": "meidastouch.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xjc7mkotpenvhh6ffewkdpyn/bafkreifmocqyainrhqyrla3lewf7xb6mj3vqchd73iefmumh6hs6jtdcmy@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 543780,
+        "connections": []
+    },
+    {
+        "handle": "mollyjongfast.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oqr5mp25r7z3vfr3igeerxbw/bafkreife3esnaucwuw3ciizmart6a7pt23nh24pplnvwjb47txsk7xlq6y@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 513444,
+        "connections": []
+    },
+    {
+        "handle": "gtconway.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4lx6nur5wstwoc4wtgj56kyu/bafkreihbchxrwqxmvvnhkpvbbgnhrinybygl5b7ommglbny7p5p4ifanue@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 511000,
+        "connections": []
+    },
+    {
+        "handle": "briantylercohen.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vocg5apjrlm7dfptvy6qbrfy/bafkreic7awikqepwolxd2z3ezt672ltf3hbfsmhxqldd2lmbu34723auxq@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 499214,
+        "connections": [
+            "georgetakei.bsky.social",
+            "mcuban.bsky.social",
+            "meidastouch.bsky.social",
+            "mollyjongfast.bsky.social",
+            "gtconway.bsky.social"
+        ]
+    },
+    {
+        "handle": "sethabramson.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vpfavbhwv4okwh6ydgp5uxf6/bafkreic36bvwqtv7pugzw4zh2kxmgxapuoxpkuoz5p3zelcjn7h26o5ake@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 265038,
+        "connections": [
+            "npr.org",
+            "ronfilipkowski.bsky.social",
+            "adamkinzinger.bsky.social",
+            "chrislhayes.bsky.social",
+            "mehdirhasan.bsky.social"
+        ]
+    },
+    {
+        "handle": "npr.org",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ln72v57ivz2g46uqf4xxqiuh/bafkreiggmfuoyybcriueenrxrhaemubfanwj77qi2nuro7fs4javp3fkom@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 486266,
+        "connections": [
+            "emilyliu.me",
+            "support.bsky.team",
+            "hansilowang.bsky.social",
+            "lindaholmes.bsky.social",
+            "edeggans.bsky.social"
+        ]
+    },
+    {
+        "handle": "ronfilipkowski.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:t6ubj2wlhc34awzcymh3qpur/bafkreifqp5wczyswtq4g45yi73ivgtlhctw2jj3ghjfsve53k4tvli62cy@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 466719,
+        "connections": []
+    },
+    {
+        "handle": "adamkinzinger.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tsksqpjisdvtusxq6ide5tzj/bafkreidsxdxp3kqmm7p6c34rjixibrazmnhjzzfgctjcrsov4v5wi2hbgi@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 425976,
+        "connections": []
+    },
+    {
+        "handle": "chrislhayes.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:e62gb2ushvtvjvqcbrxeaw2n/bafkreignbhxunrcvqpwkgd6jshgjenc4at6rtbvfnwsyy5g32kq56cyfaq@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 383090,
+        "connections": []
+    },
+    {
+        "handle": "mehdirhasan.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:j53tav4pdcpfxyx2gcfr5fhb/bafkreid3qifkugat3tjsfz3hqyzi3h5tsf6dph2qqcsf4g4fokw6h4pm6e@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 368732,
+        "connections": []
+    },
+    {
+        "handle": "redditspaceviewes.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lr7ey7d75zqtsqizrerjvigt/bafkreiddn6xuyggougeqvz4lck5yqrcpakqpndvgvpqgqmafrqcjtbfixu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 176729,
+        "connections": []
+    },
+    {
+        "handle": "emilyliu.me",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vjug55kidv6sye7ykr5faxxn/bafkreia63347vwjt4sgfkedgvytodt22ugfck5o36qotwaflsf3qq5xj3y@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 78826,
+        "connections": []
+    },
+    {
+        "handle": "support.bsky.team",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oc6vwdlmk2kqyida5i74d3p5/bafkreiam7csw2k4bj6sgxe4fkg5nvvglun7yz4rxs2szvs6a5tbv5ydzgq@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 57490,
+        "connections": []
+    },
+    {
+        "handle": "hansilowang.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eijqdygh72wuei7faamrclpc/bafkreid7i7y76y32ag5vcd4ugnzm62tttxc5wvvo4isu7l3kkbettecfi4@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 52435,
+        "connections": []
+    },
+    {
+        "handle": "lindaholmes.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nnybt4xto5wei34knpj3kexp/bafkreigmahy5icfrlk3sopttzmlm2wkpgrbh373yq6x3s7wnzkgtjpwz4y@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 47696,
+        "connections": []
+    },
+    {
+        "handle": "edeggans.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nchapqrqunftqm76t7oy53ts/bafkreie2tx3q6dwubapfzxxjztzc2msbhfunxihgrgrnsyxkwokgojznai@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 32368,
+        "connections": []
+    },
+    {
+        "handle": "shashj.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mj5h6johygkjaoo3dg5q23lm/bafkreifqsw4576zytpf2psa4yyjve7xv6tt5ceiaqrogfm7vu5eypav6ce@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 29746,
+        "connections": [
+            "pwnallthethings.bsky.social",
+            "carlomasala1.bsky.social",
+            "ldfreedman.bsky.social",
+            "michaelkofman.bsky.social",
+            "rikefranke.bsky.social"
+        ]
+    },
+    {
+        "handle": "pwnallthethings.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ovyajbnegrir2ddtwfhijiob/bafkreigshibagl3u2yefhuj3qkthwlbkufw4vhpv6cevvgfmp5uwioxmdq@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 136631,
+        "connections": []
+    },
+    {
+        "handle": "carlomasala1.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mfsnflbfiv7uxpomj2zd37xd/bafkreifxiemtxjleqfc5vzcukw3qze2jth7uio3c47a2olqxldwssmor6m@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 54597,
+        "connections": []
+    },
+    {
+        "handle": "ldfreedman.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ts5ajcxetbjh3kx455t3fwkq/bafkreih3g7qntaxi3coeid23kosygnb723ikczfhbvtrnv56ek2n76owie@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 35900,
+        "connections": []
+    },
+    {
+        "handle": "michaelkofman.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4bk4vtgddvt7vcg2aahesh5e/bafkreiagtx5y7to5rwp22nxpyspqj63l3wifne4ww4dyhknmwt3hsvfrdi@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 28433,
+        "connections": []
+    },
+    {
+        "handle": "rikefranke.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eycg47nc4kycvzgiq3r5h326/bafkreickic6mc5o6zuqfwahkmxybupobwylc5l4uf6ggx67d4wygptf7qu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 25459,
+        "connections": []
+    },
+    {
+        "handle": "duncanrobinson.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cq3cgajrgw3sdbmfz2ml4374/bafkreicow6ejs25sfqb72xwb22kybw5sw6dmqguwevxnjsjevk3wnox7l4@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 27328,
+        "connections": [
+            "dril.bsky.social",
+            "dieworkwear.bsky.social",
+            "xkcd.com",
+            "jonbois.bsky.social",
+            "adamserwer.bsky.social"
+        ]
+    },
+    {
+        "handle": "dril.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6wpkkitfdkgthatfvspcfmjo/bafkreiggofiqpdnz6tfajmu7i5gdqyl7j27h22bqivpmkymuzwd5kcudfm@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 409840,
+        "connections": []
+    },
+    {
+        "handle": "dieworkwear.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ks3gpa6ftoyaq7hmf6c4qx4c/bafkreihrqpqih4olrrltatktn2n4rzljwhgajacguab4u3j6vfubanumou@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 330742,
+        "connections": []
+    },
+    {
+        "handle": "xkcd.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cz73r7iyiqn26upot4jtjdhk/bafkreibandvfr3i2qpwbuzfwcw26px2wfh2vkrgtbr2neiof4muzca2h2i@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 293061,
+        "connections": []
+    },
+    {
+        "handle": "jonbois.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ovioxia6nlp5luphgf5ovg7p/bafkreigd5i4uzekbbr347dtizjzsgqrjcd7s5gmrnugxazualhfkgdtu5q@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 208541,
+        "connections": []
+    },
+    {
+        "handle": "adamserwer.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lzlqyldh7nfc34pfffvd24ko/bafkreihu4pvhv2qv7xy6mpdrfswu2dip5nxybq6qs2vvuujgcwmmtfngkq@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 207004,
+        "connections": []
+    },
+    {
+        "handle": "hern.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:psxf6wrijwkudvi2etmxsess/bafkreiagp6dmewrztlhig227zf47rtmvvnoynywvsdx3sqjlkyn4h7ukcm@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 24666,
+        "connections": [
+            "dril.bsky.social",
+            "bencollins.bsky.social",
+            "bellingcat.com",
+            "caseynewton.bsky.social",
+            "molly.wiki"
+        ]
+    },
+    {
+        "handle": "bencollins.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:x4qyokjtdzgl7gmqhsw4ajqj/bafkreihfnahgxywmhcl4fffsa65tk4edrio5bjyy3s3yabr6caymiyl73a@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 323665,
+        "connections": []
+    },
+    {
+        "handle": "bellingcat.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sb54dpdfefflykmf5bcfvr7t/bafkreick3tvuw6kxfcpjgnxf75dhigmll53w5jgvin4mw3hre344o4tmiu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 163269,
+        "connections": []
+    },
+    {
+        "handle": "caseynewton.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jg7zvku4khzmvyjwbzv4lnly/bafkreia6255mkaxmxpjxcjjsoyc46hzmltlxvlvkvoegpknmgtakjbrtue@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 152284,
+        "connections": []
+    },
+    {
+        "handle": "molly.wiki",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:exrxvyu6bpoym6mbnctke5tn/bafkreibiohyczyzxp3auyguy2klhslnv3nqgehpu7daglouztx4zziy2yq@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 142455,
+        "connections": []
+    },
+    {
+        "handle": "matthewholehouse.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:phrwhxykvoi3zwiasdcaijyi/bafkreib6lfmkndm5lb6iimfifw6dubw5jw64vmmcd7x7fbqxo5oy72gz4y@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 24628,
+        "connections": [
+            "dieworkwear.bsky.social",
+            "financialtimes.com",
+            "lewisgoodall.com",
+            "pippacrerar.bsky.social",
+            "ioponomarenko.bsky.social"
+        ]
+    },
+    {
+        "handle": "financialtimes.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5u54z2qgkq43dh2nzwzdbbhb/bafkreif2ng565gq22mobaq5olikueiux7qcpr6d62zrkbph42m65r7cekm@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 208967,
+        "connections": []
+    },
+    {
+        "handle": "lewisgoodall.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4jajixlbh346ugyindwqppwc/bafkreidq3ikwxknlhsex7aadzwvw4z3lumk4gcivnf6sht7m2jl2ofayra@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 116146,
+        "connections": []
+    },
+    {
+        "handle": "pippacrerar.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2pysiybkjfyq3wtouxcgaoet/bafkreifu2ehvjeozvheqvr6qxjv6mfmsodjjgsvfjn7tvlog35q42ow5eu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 92644,
+        "connections": []
+    },
+    {
+        "handle": "ioponomarenko.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7wggz3lwumigckbfms7j4trd/bafkreichks3k6vjmpl3nwhqstmfkkukzgvf73psmjurubnndjs5xqdceta@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 87671,
+        "connections": []
+    },
+    {
+        "handle": "taylorlorenz.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wo3lxbcfvdptzxyvq3qt2rgj/bafkreicwwe5tldfztlhmt3ptek4caneerpzovsendty5nf4v4oqqnyxdly@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 179915,
+        "connections": [
+            "mcuban.bsky.social",
+            "mollyjongfast.bsky.social",
+            "jamellebouie.net",
+            "dril.bsky.social",
+            "chrislhayes.bsky.social"
+        ]
+    },
+    {
+        "handle": "jamellebouie.net",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nvfposmpmhegtyvhbs75s3pw/bafkreiefjdjiahsa4upn3zabt4bxjfculjcxsdrxzc75nqlylfx7xo2izy@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 413156,
+        "connections": []
+    },
+    {
+        "handle": "eldiario.es",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sv2ivxvf7fxchmo2xamo3wwx/bafkreig7jgphqil24iybzjelgkn5aibs73v47medmv2qbzrlwwsatmrbie@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 103822,
+        "connections": [
+            "bloomberg.com",
+            "archive.org",
+            "data.ft.com",
+            "sintxaurrondo.bsky.social",
+            "iescolar.bsky.social"
+        ]
+    },
+    {
+        "handle": "bloomberg.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uewxgchsjy4kmtu7dcxa77us/bafkreiakf7idqsxdw6mur57feg2ns7hdhg6oalorn5celiio2ygxacrvhy@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 267142,
+        "connections": []
+    },
+    {
+        "handle": "archive.org",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:73dpznbu4wqwtcyurwbiulov/bafkreiemdvhpo5rnsxktik5dkvmmc6horutcnlyoxwwrhsuaojz6qbzdyy@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 236279,
+        "connections": []
+    },
+    {
+        "handle": "data.ft.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ul3dm3b76hu2cqla3qxb4v6u/bafkreif2ng565gq22mobaq5olikueiux7qcpr6d62zrkbph42m65r7cekm@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 137688,
+        "connections": []
+    },
+    {
+        "handle": "sintxaurrondo.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fmfnbdcj2fl5bycsurqpbmwo/bafkreicljiwtnlriq4elduaz4hxytg6mopzkhg4wulvz4z34tjyiycrpiy@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 44770,
+        "connections": []
+    },
+    {
+        "handle": "iescolar.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eycpndxca25ujfbglonqsy3l/bafkreigk72sd4i7aa34hvajhezllezvyokdylyrbqztfgacg435ilp2q74@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 28742,
+        "connections": []
+    },
+    {
+        "handle": "treadres.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ami7o3cslvxmc3utm523o2go/bafkreicb4sy6j6z7kc6xpfaaev4ggabcghjmi4dk27zjfpptx3cunohck4@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 20291,
+        "connections": [
+            "mcuban.bsky.social",
+            "muellershewrote.bsky.social",
+            "maryltrump.bsky.social",
+            "jonbois.bsky.social",
+            "scalzi.com"
+        ]
+    },
+    {
+        "handle": "muellershewrote.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:x4g4laxkmsrczwvnvbbgsm7g/bafkreihmnd3rro432oiyr3tg6alcp7w3rqv4xqkrccubck5xz3hdax3fx4@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 465317,
+        "connections": []
+    },
+    {
+        "handle": "maryltrump.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dkcsbqdaipybdturs2pzftwt/bafkreigypnp7i7uvwsvujg477wf3fygfcbfmjj53jvohxu6d65ccyzwmbm@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 226779,
+        "connections": []
+    },
+    {
+        "handle": "scalzi.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qvzn322kmcvd7xtnips5xaun/bafkreih4dn5gllculyzb6wlqcqparkax35zloe3bzn2nufeqeilz4sutsu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 205149,
+        "connections": []
+    },
+    {
+        "handle": "ap.brid.gy",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xbifsywyv5pka5jlknhv5yv3/bafkreic6mqhamdevmscfzrryulu3ylxhvcszo5kk2wxtjc6tlgfd6ene5u@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 36336,
+        "connections": [
+            "adamparkhomenko.bsky.social",
+            "youranoncentral.bsky.social",
+            "emptywheel.bsky.social",
+            "nickknudsenus.bsky.social",
+            "pwnallthethings.bsky.social"
+        ]
+    },
+    {
+        "handle": "adamparkhomenko.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ojwszrpcvhwuhl4nhwactd2y/bafkreihquyopgtrxuq3ivjaijsfnwlhows7yk54xo6tb4t6o65lqtn427m@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 271974,
+        "connections": []
+    },
+    {
+        "handle": "youranoncentral.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxc7liuon6iq5gzapmmwkq22/bafkreigy4siyna4xfvu5fywiqumss6y7oz2yem3seda5shgqnm7fm255cy@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 247945,
+        "connections": []
+    },
+    {
+        "handle": "emptywheel.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bbp2b224lro3bfnzcqwwnkfo/bafkreib6pgjigju2ueiuyzgyavwvxm7ottneushsvabzi46lzs6aff5gyu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 204949,
+        "connections": []
+    },
+    {
+        "handle": "nickknudsenus.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:vxkxu65awa3ocjpiqmmrxnt2/bafkreid7eny7ptmqb5wty6c5bfgmkv7xqhp73dfsp46w6263w2gzvv4api@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 173184,
+        "connections": []
+    },
+    {
+        "handle": "us.theguardian.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nl32untxngcg74dl3w7scd74/bafkreidrx32kwbcx2ksr3pqdxw4rav5jbb3emuahyc6wbss5frudmqkgla@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 8507,
+        "connections": [
+            "hugolowell.bsky.social",
+            "australia.theguardian.com",
+            "samtlevin.bsky.social",
+            "dharna.bsky.social",
+            "ninalakhani.bsky.social"
+        ]
+    },
+    {
+        "handle": "hugolowell.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ywaw2j45ezffsoe3ig7yfzni/bafkreiabbffllnscjaz5m6bwb6b62novzf5tsn2drdslptqyhm7ccpda3u@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 63238,
+        "connections": []
+    },
+    {
+        "handle": "australia.theguardian.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lia4ywzl2c2kt4dn3kzbywog/bafkreicpinejvjm66s4rmi6f7ixfr7mpvfbo5a4ncl45vg5bvvei2s3m3m@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 40962,
+        "connections": []
+    },
+    {
+        "handle": "samtlevin.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wkwznppeeuglgghcet7mch4g/bafkreibe7x7oljopnvcm2p5kxef3z235q6cflanhijcybvfdijbfdhpf7e@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 9884,
+        "connections": []
+    },
+    {
+        "handle": "dharna.bsky.social",
+        "avatar_url": "",
+        "displayName": "",
+        "description": "",
+        "followers_count": 9397,
+        "connections": []
+    },
+    {
+        "handle": "ninalakhani.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:t5ghc7dukfzr5rn27545laoy/bafkreigno6psxlefdwxqdnntfjt4uvbnhtrign3rulkm75m2ypekoyla2e@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 7762,
+        "connections": []
+    },
+    {
+        "handle": "electomania.es",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyw23dnvqzfzonok6fwcwt6m/bafkreigq2knw42nkskxmao7qih75ke3324ju3h4uo6v2erku5st5uhoac4@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 7575,
+        "connections": [
+            "therickwilson.bsky.social",
+            "lula.com.br",
+            "junlper.beer",
+            "politico.eu",
+            "aljazeera.com"
+        ]
+    },
+    {
+        "handle": "therickwilson.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4j7ut6aphnjqqihiugmyvy5i/bafkreif5rycvs7u2btqcvpvkmqbhjokvpkadby55bgnsu2okbjqfvn3xvu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 340924,
+        "connections": []
+    },
+    {
+        "handle": "lula.com.br",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:a5o5pa6imrd52s627zq63zgz/bafkreiaoo5jearluynpx6fcvng3aq4xrksjc4mbacifhpbig7zsc6vxq5q@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 271534,
+        "connections": []
+    },
+    {
+        "handle": "junlper.beer",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mf5dzzqkp7fnmby6blfeljwj/bafkreibb44snq43vllxouj4mnf3s67rlpybc3bokacmuezw6mwttm6ykum@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 206521,
+        "connections": []
+    },
+    {
+        "handle": "politico.eu",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bak7f4b3jsiqlpyo6o4ejaji/bafkreiflm3qyniqkn4nf27yernsqk36ldosj7xvqe3aq676tcfpl5nimvu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 130531,
+        "connections": []
+    },
+    {
+        "handle": "aljazeera.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2lofqead276vtc5647ye7sl2/bafkreibmle6irl2iqzwt5kit6nbmq33oson6frfwellzy6gyyr3i6o33m4@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 120283,
+        "connections": []
+    },
+    {
+        "handle": "museumsassociation.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zhlb3ptgezzybsmj4g53rtmf/bafkreifpng2cdaiwuxi7i7vrwfjjcn3mnzln2vokezy53dq6ioncdzidje@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 7197,
+        "connections": [
+            "hankgreen.bsky.social",
+            "dieworkwear.bsky.social",
+            "weirdmedieval.bsky.social",
+            "jeremycorbyn.bsky.social",
+            "themerl.bsky.social"
+        ]
+    },
+    {
+        "handle": "hankgreen.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kqbyr4gqt6p2l57htlsa4nha/bafkreibagwdburvff6mkjstq7anuzyynzgnweitmqezxosqjmbkty5gwyi@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 371894,
+        "connections": []
+    },
+    {
+        "handle": "weirdmedieval.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:o7cjkbvotxydby7uvvx32hkm/bafkreics7lnlr6hddzzb5lyz3miyopav3y5bxuf6epbviacqbm5s2qq4vy@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 137159,
+        "connections": []
+    },
+    {
+        "handle": "jeremycorbyn.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4tmejmyfzhhfpyipxkzufz3h/bafkreigltbkyb2ttxd3kxtpmcsthbuhtj5qevmohfvrg5dgv5zms2jypiq@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 52195,
+        "connections": []
+    },
+    {
+        "handle": "themerl.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:denuvqodvvnzxtuitumle4vs/bafkreihj6fcjrug746lsmnqa6sfwgxy2fxm223xt5fedarlvsyalb33giq@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 45109,
+        "connections": []
+    },
+    {
+        "handle": "juliosalas.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dqtwtwswspbc7w7dxkn674ar/bafkreie52oknuq7f2tqf5irya45btpkjac3e4xz7bmyxvjvnxwwwcwog3e@jpeg",
+        "displayName": "Julio Salas G.",
+        "description": "Intolerante con el negacionismo científico e histórico. \nAbogado y Magister en Políticas Públicas. Hoy Subsecretario de Pesca y Acuicultura en Chile. \nPrefiero la Política subordinada a la Ética.",
+        "followers_count": 1668,
+        "connections": []
+    },
+    {
+        "handle": "infjx.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkgohaobvcnymdssjz7zewja/bafkreic4u3je4agfqrvgrhq3lmvo7a42fjysvqrpssrime3kjmfcddxds4@jpeg",
+        "displayName": "toney",
+        "description": "infj. taurus. humanitarian. 🏳️‍🌈🌊",
+        "followers_count": 62089,
+        "connections": []
+    },
+    {
+        "handle": "guillaumelondon.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:74p5m4owldmqdvaday77brpt/bafkreihhvxqhcw3h4fx4ge6kxtbgc5hb44w76mv4golisnyz34tuasjjxm@jpeg",
+        "displayName": "guillaumelondon.bsky.social",
+        "description": "CTO, French, London, Croydon, Miami, Europe, Runner, Cyclist. Love SF. YAY. Working hard, Playing hard.",
+        "followers_count": 61100,
+        "connections": []
+    },
+    {
+        "handle": "zyflyyy.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:obfvph5b2mdmw2q4nzgtnd2k/bafkreigqofyrhlmalbhdqgumfu6o7dyvxyrpub6ryupn5qez434ehk2grm@jpeg",
+        "displayName": "zy",
+        "description": "https://www.instagram.com/zyflyyy/?hl=en\nmakeup artist🧑🏾‍🎨🎨\nhe/him\n21\nPA📍",
+        "followers_count": 59296,
+        "connections": []
+    },
+    {
+        "handle": "i55i.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qsk5sxwhtbp4bgh2heduxu7e/bafkreiesdmvschni7luslgqtcrid5wm3ibamnb5yuipid2s7klzjh7pa7u@jpeg",
+        "displayName": "Kayla 🦋",
+        "description": "Curse on constant lies, late reply, love in the name of friendship, and blame without result and excuses that come with a false justification.! .✨️",
+        "followers_count": 57772,
+        "connections": []
+    },
+    {
+        "handle": "citric.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ccfgmdrlkvqs3jkz3vw7tz2/bafkreiaigif3f73glqwgjm2qrzk64m2pvikpizdpbwqe6uqiok5wz3opxi@jpeg",
+        "displayName": "✨Citric✨",
+        "description": "⚖️Bachelor of Arts in Criminal Justice\n🎵Metal Head 📟Xennial 🪂Skydiver\n🐈Cat Father 🎮Fortnite Player 🌊L.A.\n🦇A Little Too Obsessed With Vampires",
+        "followers_count": 43531,
+        "connections": []
+    },
+    {
+        "handle": "saqib09.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qtdemkawy5fn4r5r45nuloh3/bafkreihx4qxt5vprgbcba72zsz4lizhdqkemufqudkx7btmr6awphilqny@jpeg",
+        "displayName": "S",
+        "description": "",
+        "followers_count": 42365,
+        "connections": []
+    },
+    {
+        "handle": "latabernademoe.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nq5r3xp6b2zyn5cj3qgyryb/bafkreigg6qqn67o7tbnz4wuqfemhe6wjdpnmmjxre3hwutt67wnaol2nii@jpeg",
+        "displayName": "LaTabernaDeMoe",
+        "description": "Adéntrate en la Taberna de Moe🤗, descubrirás el humor verdadero, curiosidades, ingenio🧮, historias, imágenes, GIFs y videos de este loco y apasionante mundo 🌎 que nos rodea...🫶🏼 [Síganme 🙌]",
+        "followers_count": 23773,
+        "connections": []
+    },
+    {
+        "handle": "shecan48.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sjyrnbu5mhbflbbtorfgoeqz/bafkreihkxuvy5zsqaqvpkg4zokqillwifmoxclcy54xn7el6gv52fhsjby@jpeg",
+        "displayName": "YES SHE CAN",
+        "description": "We believe that empowering women and femmes can change the world.\n",
+        "followers_count": 17964,
+        "connections": []
+    },
+    {
+        "handle": "whatsonrap.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:k4jzevasrbulndw6d4jdg4l2/bafkreiff7qirbmcjy2e26ss7m5yhl4gp2tsfafeogqgxnnyd4puhypjzky@jpeg",
+        "displayName": "What’s On Rap?",
+        "description": "Get the latest Rap, Hip Hop and R&B news, music, interviews, videos and more. Stay up to date on your favorite artists on WhatsOnRap.\n\n🔗Website: https://www.whatsonrap.com/\n\n🥏Facebook: https://m.facebook.com/Whatsonrap/ ( Make Sure To Follow Us )",
+        "followers_count": 12347,
+        "connections": []
+    },
+    {
+        "handle": "cordobesaso.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:274omg5qlxyldlnez532xot2/bafkreic6g5f73ivrz7ypldfxmrt4bdmjzqykzm6dqxz2ecvgdgypau45nq@jpeg",
+        "displayName": "Cordobesaso\n 😎",
+        "description": "Algunas fotografías que hago y algunos textos random... 🇦🇷",
+        "followers_count": 10499,
+        "connections": []
+    },
+    {
+        "handle": "lassetur.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cndnbw3tadp6ecmnnkidh7kh/bafkreiebalghsgps57ykeu353fny76ezqcy6yan5lbcz57v4zzsosxa4wi@jpeg",
+        "displayName": "lassetur",
+        "description": "Author, Photographer, and NFT Artist",
+        "followers_count": 7919,
+        "connections": []
+    },
+    {
+        "handle": "carolinareyest.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:r3jm3yq73h7icira4hddyon3/bafkreih6vni6cd2ybuyw6lkbe6szfxwift2vgeaqkwmegibq4pma6y545m@jpeg",
+        "displayName": "Carolina Reyes Torres",
+        "description": "Profe de inglés y literatura.  \nEscribo críticas y crónicas en https://omnivoracultural.wordpress.com/\nhttps://mastodon.social/@CarolinaReyesTorres\nhttps://www.tumblr.com/carolinareyestorres",
+        "followers_count": 4055,
+        "connections": []
+    },
+    {
+        "handle": "mattyll.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:odpumad57evcc5od24ayfmi6/bafkreiedtaykoglle2n4wtphukqon4ir423gsoxrw4g4hu54tyb64uydni@jpeg",
+        "displayName": "Trini Lathrop",
+        "description": "DDHH, política, noticias, memoria.\nAsociada a Pensamiento Penal.\nChilena, atea y de izquierda.\nNOTAbogada",
+        "followers_count": 3717,
+        "connections": []
+    },
+    {
+        "handle": "bototos.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:frsukmo6zyhcbob6p6et7b4m/bafkreidsa7c2wwcajzuvqzd4yf46hdoi2pmo7bxjdq5s77ffrmtrbk4k7m@jpeg",
+        "displayName": "Alejandro",
+        "description": "Siempre me ha interesado esa jerga que emplean los rastas.",
+        "followers_count": 3052,
+        "connections": []
+    },
+    {
+        "handle": "larepublicaiii.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zhhcotjf3mvyw2ba7fagqy4e/bafkreidmlzar2i22a4qzwomtyec2kclqbgfnflr3dzhbixp3illf5tmuw4@jpeg",
+        "displayName": "Pueblo Unido 🟥🟨🟪",
+        "description": "El pueblo necesita la unidad para defenderse de la opresión del capitalismo. ¡UNIDAD!\n\nHuyendo de X, añorando Twitter 🚯\nNunca compraré un Tesla",
+        "followers_count": 16195,
+        "connections": []
+    },
+    {
+        "handle": "nullvoxpopuli.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ge6cnpneodmysqqgv5wylvaz/bafkreieiukkgoqb5xkq62znilhd7jgz6s32ywrc7htdnm335trpecr2v2a@jpeg",
+        "displayName": "NullVoxPopuli",
+        "description": "Artificer of Code.\n\nOpenSource, TC39 Signals, StarbeamJS & @emberjs.com enthusiast and advocate.\n\nFormer @react.dev\n\nWhere i'm at:\nhttps://linktr.ee/nullvoxpopuli\n\nProjects:\ntutorial.glimdown.com\nlimber.glimdown.com \n\n(also StarCraft forevaaa)",
+        "followers_count": 12595,
+        "connections": []
+    },
+    {
+        "handle": "inviernos.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:a3rjsqyfmduz5dmstrofhh2s/bafkreichy4pnk55beuglvhb5fe4626j6f3kpbmsjsnkvikwzbtya6ks364@jpeg",
+        "displayName": "Pensamientos ღ",
+        "description": "Todo lo que necesitas para ser feliz se encuentra al otro lado de tus miedos ✨\n\nTambién creo dinámicas para que todos ganen seguidores 💕",
+        "followers_count": 9597,
+        "connections": []
+    },
+    {
+        "handle": "xpodtech.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rafwr3xy2tic2hpwuw3y3kv4/bafkreif3nuu4asjvx7bbgj2qjso4ivwwpl2jb3w2isbrgnnis4p3jejok4@jpeg",
+        "displayName": "X-POD TECHNOLOGIES LLC",
+        "description": "Innovative enclosed ejectable Safety-X-Pod personal cocoon seat, is  equipped with an advanced Environmental Control and Life Support System, specifically designed to protect passengers during emergencies or catastrophic events across all aircraft classes.",
+        "followers_count": 8684,
+        "connections": []
+    },
+    {
+        "handle": "ofertucas.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qabnitvkjfe2hf6aun4dw4ta/bafkreig3iqsjhbkov6ne6rxdzebdun337cwm3mizbq4bg3ebusx2xxzk6q@jpeg",
+        "displayName": "Ofertucas",
+        "description": "💰 ¡Ofertas imposibles! Únete a nuestra comunidad: http://t.me/ofertucas 🕵️‍♂️ Buscamos chollos por ti. 📦 Amazon nos paga sin afectar tu precio. ¡Síguenos!",
+        "followers_count": 5533,
+        "connections": []
+    },
+    {
+        "handle": "crimeajewel.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6qjhec2s3rkgm3yqupvmbruw/bafkreieqc6pdpmbtui5tvkjwxzddial2bb2jnrqizshgqbhixvkg2kje5a@jpeg",
+        "displayName": "Crimeajewel",
+        "description": "Creative Artiste. London and Venice. \n\nWith small creative shop Crimeajewel on www.\nNo DMs please as 99.99% are spam or scammers. Thank you.",
+        "followers_count": 23535,
+        "connections": []
+    },
+    {
+        "handle": "lanisestore.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nt5lw77wywjfpkix4effhjue/bafkreigwd3nw2cj3xzkqxho26o22gce7gasc3e62vzl54qloly7jeminaa@jpeg",
+        "displayName": "La'Nise ™ 🌐",
+        "description": "Secure Global Exploring and Shopping Site⭐ \nAI I Crypto I Gaming I Movies I Music I NFT I Shop Global Brands I Social +🤍\n 🔗 www.linktr.ee/explore0urworld",
+        "followers_count": 17789,
+        "connections": []
+    },
+    {
+        "handle": "bestoftheinternet.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uff264fpm6gn7mxt5r46u7sv/bafkreie2t4zmi4hlwtfbkq4eonjzwgrf5bqenllfvkxvtpvwsla4o56w3m@jpeg",
+        "displayName": "best of the internet",
+        "description": "the funniest memes on BlueSky 🦋\n\nLeft Elon’s crazy app for Bluer Skies 🙂",
+        "followers_count": 8257,
+        "connections": []
+    },
+    {
+        "handle": "enop.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6jpzsftqzh6swvzi377pwku7/bafkreiexwo5b47ptv42fnachk2jvrt22tjfl4dg2wgivzzbprimvwzn4lu@jpeg",
+        "displayName": "Edivaldo Nunes🇧🇷🇺🇸🇺🇦🇦🇷🇮🇱🇧🇷🇧🇷🇧🇷",
+        "description": "Sou caseiro, não gosto de barulho, e Deus acima de tudo!",
+        "followers_count": 5963,
+        "connections": []
+    },
+    {
+        "handle": "floroceballos.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:v2ywyrcqo6pmb6zwpzpt5wpd/bafkreigjehkcgii33yuzk7wyzhjamtc2uydn3ojalxemnjebcs2v6dxxju@jpeg",
+        "displayName": "Floro Ceballos",
+        "description": "",
+        "followers_count": 2396,
+        "connections": []
+    },
+    {
+        "handle": "everythingspace.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ohdyhjz3wtb7kb2up2zbetkf/bafkreihyomxayjfptoejoutzo5x3mcx4cyhskctlwe3rp7apv5vwykrmqm@jpeg",
+        "displayName": "Space",
+        "description": "Living for the wonders of Space.\nCredits in ALT. Rooted in Hawai’i.",
+        "followers_count": 12463,
+        "connections": []
+    },
+    {
+        "handle": "thecovidinfoguy.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cyy3irakdgdbhcdtd4ik6aro/bafkreichuopsfokjcc7jxxmizulkh4t4zix647stf3jalvj64kowmsl2ee@jpeg",
+        "displayName": "Denis - The COVID info Guy",
+        "description": "Sharing info on COVID since the start of the pandemic.\n\n#COVIDisNotOver #COVIDisAirborne #MaskUp😷",
+        "followers_count": 11728,
+        "connections": []
+    },
+    {
+        "handle": "jackdetail.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hu5hwcpxtjjpmeroqo2jnz3i/bafkreieomd2237ndyyh6tpqxok5imnburibp2xgqdod74fb3amv26t34yq@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 3453,
+        "connections": []
+    },
+    {
+        "handle": "livre.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4mjwxpnhoeaknxqabwhf2n6i/bafkreif47zdowbl4krntapwrromjqm6drfnms5rq5ddwvzwjjp5phjpb7m@jpeg",
+        "displayName": "Diego~Fernando 🇧🇷  ♥️",
+        "description": "Paulista , morando no Rio de Janeiro \nEstudante/Democrata\nPetista 🏀  ...............🚴  🏄\n\nAdoro Futebol e Surfar \n\n📢   I don't  talk to each other in private!!😡👊",
+        "followers_count": 46983,
+        "connections": []
+    },
+    {
+        "handle": "0x0.boo",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xfqcsi7wuwedeqaa5m7aih44/bafkreih2b2zfzszsa6eug4aqcts347vsmyoi7beftd4ggg2ot4nzcdl264@jpeg",
+        "displayName": "👻",
+        "description": "Security.  People matter most.\n\nAll starter packs 🔗 starter.0x0.boo 👀\n\nMy roast https://blueskyroast.com/roast/0x0.boo\n\njeez.1337 on Signal - DM only, group invites ignored",
+        "followers_count": 43272,
+        "connections": []
+    },
+    {
+        "handle": "hoypalestina.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7m6b4iwwf7t5dzy24hh6p4xc/bafkreiekdeqsuezf5uktlv7iezqwf4xr7j7zyrs6asbkydezwm7ao7i7pe@jpeg",
+        "displayName": "Palestina Hoy",
+        "description": "Sitio web dedicado a informar sobre Palestina 🇵🇸 rompiendo el cerco mediático y la censura informativa impuestas sobre ella.",
+        "followers_count": 22803,
+        "connections": []
+    },
+    {
+        "handle": "monitorlizard.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kdud3kfgmfjd2e25tmveuxe4/bafkreibu2uaszi34hc6tx2youaejqhy24q4dfojn3psmrelwzt7ubjvjwy@jpeg",
+        "displayName": "A Monitor Lizard",
+        "description": "Reptile. \n\nSocialist. Green Party voter. \n\nMarathon Runner\n\nHow strange it is to be anything at all. ",
+        "followers_count": 21560,
+        "connections": []
+    },
+    {
+        "handle": "garrywatters.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xs2cffvyehj3xlt37cfpwe7i/bafkreibz4mxiofl6osuepf2nxe5abyodtdyn27laelh3fnlb4xlgn2i6la@jpeg",
+        "displayName": "GW",
+        "description": " enjoying life it's busy at times 😂 I also enjoy the sport of rugby and have a website for that on www.intouchrugby.com and i will post ideas here for that. Have a nice day xx",
+        "followers_count": 15793,
+        "connections": []
+    },
+    {
+        "handle": "medioinformativo.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:b633fptyz3ifuegheob2wwdc/bafkreifzqn6sjer3wlb4dxoshgi6cudpogc4pb77ltdyqwsg6mifofoyee@jpeg",
+        "displayName": "MEDIO INFORMATIVO NACIONAL 🇨🇱",
+        "description": "Noticias e informaciones de Chile y el mundo y otros, para ver los videos tienes que seguir el link https://t.me/losdelmundonoticias\nY tener instalado TELEGRAM\nO BUSCAS :\nLOS DEL MUNDO NOTICIAS",
+        "followers_count": 3042,
+        "connections": []
+    },
+    {
+        "handle": "derekshepardo.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rqfngvq5bkah7v2azlswveym/bafkreihp6mdimjp2dopfgsfrvxzhu7v3oo6ll4p5rk5naxjzm3jedkppzy@jpeg",
+        "displayName": "Derek Shepardo",
+        "description": "De Chile al mundo",
+        "followers_count": 2914,
+        "connections": []
+    },
+    {
+        "handle": "megamentirascl.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:j4zes5czha5x2yq36taitr2o/bafkreic57vyucsbhihvhoqbdondp4cjauzpeia4cmxz74ib23vz5jlnl3e@jpeg",
+        "displayName": "Megamentiras",
+        "description": "Noticias / Parodia / memes y weás",
+        "followers_count": 1531,
+        "connections": []
+    },
+    {
+        "handle": "kiccc.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tykz5c7hcgmz5jyws2mnsujl/bafkreiacfjmaxvniphh7i4okhxkcl7zwv6jxr525yfnngh2qia23vvv5g4@jpeg",
+        "displayName": "𝛫𝓪𝓶𝓪⎳⇣🇨🇦",
+        "description": " to be or not to be. ..free.!” ☞ (𝟭) vancouver-Canada",
+        "followers_count": 85127,
+        "connections": []
+    },
+    {
+        "handle": "qjqj.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:p6qnujle53ihfdxpvn6z35we/bafkreiff52etr6b3jywsem56axpgpc7zhugmbze4im6f3rz6xjogtitp2y@jpeg",
+        "displayName": " William",
+        "description": "The only way to achieve the impossible is to believe it is possible.",
+        "followers_count": 70946,
+        "connections": []
+    },
+    {
+        "handle": "lnccanillita.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oabhcm5psksyhdzt22coeicp/bafkreifm6aipbkac6pi43qwpzup5ftc2gmoo7axkjusrhp6i52zwbjohdm@jpeg",
+        "displayName": "La noticia canillita",
+        "description": "Espacio  relacionado a la actividad de canillitas , kioscos de diarios y revistas .\nCuando necesites hacer una consulta , pasa por el kiosco .\nLA PATRIA ES EL OTRO.",
+        "followers_count": 8463,
+        "connections": []
+    },
+    {
+        "handle": "satasajkj.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kdzulbsc42xmfkgeswihrt2z/bafkreibzxvlkhll2lzjylpnudqfamb3i4dztcr2y2raf7zerhpyqmew3da@jpeg",
+        "displayName": "Sarahfreepalestina🇵🇸💪❤️",
+        "description": "Let's help the Palestinians by donating to them If you join us in donating a thousand lives you can change 🇵🇸",
+        "followers_count": 3838,
+        "connections": []
+    },
+    {
+        "handle": "cyberalex75.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:m2tbk4fe2rom5joplojgtqv7/bafkreih7x3vsptw5troxljlk7prlnxghqc6iwqvwgjluziedoy4fsxyrpa@jpeg",
+        "displayName": "cyberalex75 #15M 99%",
+        "description": "Soñador inconformista. Estuve enamorado del #15M y espero con interés el siguiente movimiento popular parecido a éste. Creo en que la Re-evolución puede llegar. Profesor.Licenciado en Químicas y en Ciencia y Tecnología de los Alimentos.",
+        "followers_count": 3363,
+        "connections": []
+    },
+    {
+        "handle": "revistaraya.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lw3rkld3meqlpe2e4dbcczi4/bafkreifrikeuozayvdyp6agkakvoq7twlhy2jrcvrpnxnttjofoectitfm@jpeg",
+        "displayName": "Revista RAYA",
+        "description": "Parados #EnLaRaya por el periodismo crítico e independiente. Investigamos lo que otros no investigan.",
+        "followers_count": 2564,
+        "connections": []
+    },
+    {
+        "handle": "docworldexplore.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lqrqlpguce2k2zouglzv4uhy/bafkreidq5mcfvrberoq4apb34cbrywgl7lycj62ol3l5sc27fcgi5bwigu@jpeg",
+        "displayName": "SKY Explore",
+        "description": "In-depth, independent reporting to better understand the world, now on Bluesky. News tips?",
+        "followers_count": 23223,
+        "connections": []
+    },
+    {
+        "handle": "allgreentienda.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:unzxfe6bz6rnm5e5o7udyths/bafkreih7pypoei7gnkojx5i3rn6cn4rq625u6xt5ivpfhtfhq5q33mb5zu@jpeg",
+        "displayName": "Allgreentienda",
+        "description": "Productos terapéuticos naturales de cannabis con certificación Conicet\nAdaptogenos orgánicos (hongos)\n1131937495\nAllgreentienda@gmail.com \nTreinta.shop/allgreentienda",
+        "followers_count": 3999,
+        "connections": []
+    },
+    {
+        "handle": "karma-chaos.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fa5dkgbd4lrwjmcceai3a6ut/bafkreiduocr6fba6mtgwx7qwvrj2ken5mka4lsdx6dgndxnsyapfdxipae@jpeg",
+        "displayName": "Karma & Chaos",
+        "description": "Life is Magical - Sometimes a Dream, Sometimes a Nightmare!!\n\n-- Love Books & Ideas, Writer, Wisdom Researcher, Philosopher, Self-Improvement Junkie, Husband & Father",
+        "followers_count": 55772,
+        "connections": []
+    },
+    {
+        "handle": "andalucia13913.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4qn3uhhwznk6q435qg6emizb/bafkreiedl2krwksonzoi4l675s3pxonwvbys4wkxf6aryyhpvrbdce4zeu@jpeg",
+        "displayName": "",
+        "description": "Andalucía 💚🤍💚 Úbeda, Jaén ❤️💛💜 De izquierdas. Podemos 💜 por la independencia del pueblo andaluz...🟩⬜🟩\n. No creo en ningún dios. Ateo",
+        "followers_count": 3898,
+        "connections": []
+    },
+    {
+        "handle": "marioaguilera4.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ky3egazu2befm7pxiuj27m7y/bafkreic4jhfqwlwjdpywgmb5dezvoyukfqazik4i6djcklqdx637e7nd4m@jpeg",
+        "displayName": "Mario Aguilera",
+        "description": "Periodista",
+        "followers_count": 2523,
+        "connections": []
+    },
+    {
+        "handle": "eltiomamo.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wv7ksnxp57w33bh243rjien3/bafkreicdk6rbfkkfynarej7xvvc3xeoknmtewki6mjibehg3ra4l5cenja@jpeg",
+        "displayName": "El Tío Mamo",
+        "description": "Narrador de #LaHistoriaDerechaDeChile \nCreador de la ContraPoesía y de #ElInterrogatorioDelTioMamo \nSecretario general del Partido Masculinista\nIcono pop.\n\nhttps://lascolumnasdeltiomamo.wordpress.com",
+        "followers_count": 1881,
+        "connections": []
+    },
+    {
+        "handle": "donlibrotecario.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y4unyfl5q27tk7dtfrp2wrgp/bafkreieqaor75st4dc4pduntbbeiyf3txuhedkrgpxn2a4fi3ggce4rvbi@jpeg",
+        "displayName": "Don Librotecario",
+        "description": "Wanderino, Antifascista, Pintor-Cocinero Amateur y Ministro ULC. Intente llegar a la primera Constituyente para cambiar este país culiao que tanto duele.",
+        "followers_count": 1004,
+        "connections": []
+    },
+    {
+        "handle": "occupydemocrat.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5li4dl244wqv3pzv75xayp2c/bafkreihy5talmuo4q72v3blhg5lbpukomllsi235ieyunnb33farb55laq@jpeg",
+        "displayName": "Occupy Democrats ",
+        "description": "Occupy Democrats, a merger of the goals and interests of Occupy with those of the Democratic Party.\n",
+        "followers_count": 20490,
+        "connections": []
+    },
+    {
+        "handle": "foodhood.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:c6z32vkgokj6nogrkagazi7l/bafkreidqecitolxibrg2de4picq2la6nv5ozuaztfwktuuiob7z5byzsye@jpeg",
+        "displayName": "Food Hood ",
+        "description": "",
+        "followers_count": 3222,
+        "connections": []
+    },
+    {
+        "handle": "futuristleader.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:pjxlgaxakmy6hunphb2nigdn/bafkreigeq22lxkwejmle3sbbdklazbhwh5c322r4na23rnkgaetdv5747a@jpeg",
+        "displayName": "Deborah Collier",
+        "description": "Award Winning Strategic & Futurist Leader® in Digital, Media, Business & Technology. CEO, Author, Creator, Keynote Speaker, President & Founder of the Digital Skills Authority @DigitalSkillsAuthority.org My YouTube Channel: youtube.com/@futuristleader",
+        "followers_count": 2599,
+        "connections": []
+    },
+    {
+        "handle": "juancabailero.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouhnlbda75f5b4lwomt5t637/bafkreig42m33u55yopolk3dttzven674lfw5dzfzsgypasajo3klgcvrea@jpeg",
+        "displayName": "Juan CabaIlero",
+        "description": "Censurado en X. Sin pelos en la lengua. Sigo de vuelta.\nEx- x.com/JuanCabaIlero  |  2012-2024.\n\n",
+        "followers_count": 7112,
+        "connections": []
+    },
+    {
+        "handle": "licomita.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4xqtgrnfe3wts2xapt3owttq/bafkreicruxfixnc6wlh5yvkgz2hx4rgt6xkrirkc7swv67scizgj4bbcaq@jpeg",
+        "displayName": "",
+        "description": "Las personas por encima de las cosas.\nLo más hermoso no tiene precio.\nMi canto es de los andamios para alcanzar las estrellas.\nEn Chile se encarcela la pobreza.\nFree🇵🇸 Wallmapu libre!",
+        "followers_count": 3383,
+        "connections": []
+    },
+    {
+        "handle": "nahuelchile.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:otybul6s57ksor54ra2bi4h6/bafkreidp3yze3wmnb4edfpeglktsyhe4cd7muzuu4otp3cucna3yclc7x4@jpeg",
+        "displayName": "Vicente",
+        "description": "Chileno, lector de novelas, buscando una alternativa a Twitter, Casado en mis 37! Momentáneamente en Lima.",
+        "followers_count": 2429,
+        "connections": []
+    },
+    {
+        "handle": "yasna-lewin.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7a3e6zsftnhujcr5dizrv45o/bafkreicis47tc3i4niwhk2midtzjarngsp6cyspc6a33334rmoro4bwske@jpeg",
+        "displayName": "Yasna Lewin R.",
+        "description": "Periodista Universidad de Chile, Master en Comunicación PUC. Profe UDP y U Chile",
+        "followers_count": 2342,
+        "connections": []
+    },
+    {
+        "handle": "nakes33.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:73vn75wa7cpupescaqjzm4nr/bafkreihqzbmxzl7u5wh3zyn2geg6joxuosbimo63hoeeq4x6rp2wxxwuq4@jpeg",
+        "displayName": "Nakes Mbena🇿🇦🇿🇦",
+        "description": "Proudly South African 🇿🇦",
+        "followers_count": 6915,
+        "connections": []
+    },
+    {
+        "handle": "kingdoms-otaku.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wmwhl6ocdsf2nhebinffnorn/bafkreibphscqgspmldjv7qj7chg4nxaysvsqdiv2nzvna6few5iujl2wne@jpeg",
+        "displayName": "Kingdom of Otaku",
+        "description": "Hi my friends, i am an anime otaku.\nI keep the beautiful moments in the anime i watched\nI love them, i love you 😍😍😍😍😍too\nReady follow back 💯 🤩🤩🤩",
+        "followers_count": 5262,
+        "connections": []
+    },
+    {
+        "handle": "mrcoinx.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sxcn2yiwvjpcfeob5shp5lzi/bafkreig44xx3zpss7oz5rqlzymqt6yhuad7pkyas3tn6czgzzdxbc2ovgm@jpeg",
+        "displayName": "Hi Best Friend",
+        "description": "Ready Follow Back :)",
+        "followers_count": 3687,
+        "connections": []
+    },
+    {
+        "handle": "alegriagonzaa.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:24o3hfisldbkbe3ih4asw7jc/bafkreif7unsidj7v43mltpkt7xz3gkyiei3uqmtwsgjikewsgztgnt4eau@jpeg",
+        "displayName": "Alejandro Alegria ⭐️",
+        "description": " #Clipping Prensa |🚒 Despachos de bomberos desde #ElDesierto a #LaPatagonia | Productor | 📻 Amante de la Radio 🐶 #DogLover. #Trekking #MedioAmbiente | De todo un poco. #Chile",
+        "followers_count": 1289,
+        "connections": []
+    },
+    {
+        "handle": "ritaapoena.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gu7qx424vf2jwdmothm63niq/bafkreidfqct6abjsg45x3voe63wk6jcambizkzvhezorqetidq33ysztnm@jpeg",
+        "displayName": "rita apoena ",
+        "description": "Sou professora de língua portuguesa, apaixonada por gatos, literatura, dança contemporânea e fotografia. Sou vegana pelos animais e sempre à esquerda. \n\nhttps://estudodeteorialiteraria.blogspot.com\nhttps://quasesol.blogspot.com",
+        "followers_count": 37227,
+        "connections": []
+    },
+    {
+        "handle": "fullperm.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:t7vnbqwpsdrffs7dzdmqohbk/bafkreiauet3ttyptjzjtir5bn76n5sxchiu3h7kq3pi774s6gche3coktq@jpeg",
+        "displayName": "F U L L P E R M ✨ 🦋 🚀 ",
+        "description": "H e l l o   A v a t a r   !   🖖  👽  🌏\n\n💖 #AGI ✨ #Blender ✨ #SecondLife ✨ #MetaVerse ✨ #Linux ✨ #Crypto",
+        "followers_count": 29689,
+        "connections": []
+    },
+    {
+        "handle": "large-michael.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:f42hx5v3mciwoqsih2duiu22/bafkreihk7elvhyouyklzu5eksdbj5vetawsajh3nbfhoib732wcu4zdvre@jpeg",
+        "displayName": "Large Michael",
+        "description": "Big time gamer man, with big time gamer opinions",
+        "followers_count": 10025,
+        "connections": []
+    },
+    {
+        "handle": "javierpinto.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6hrqr6dmbxyefihsvahqgog/bafkreifm2rpmjvwggy2m53yhfal6y37bidq56vmmw2kvvhguhhdhagzy4m@jpeg",
+        "displayName": "Javier Pinto",
+        "description": "Antifascista. Palestina Libre 🇵🇸\n\nSígueme y te sigo",
+        "followers_count": 8497,
+        "connections": []
+    },
+    {
+        "handle": "lilycutie.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2hvcfvspkaedur2oyblfk5sm/bafkreibocjtulierx5uxuazmh6w6wwd2ypn6empqvnq7cz7wpdjcecqqfa@jpeg",
+        "displayName": "✿Lily cutie ✿",
+        "description": "✿✿ᴛʜᴇ ᴡᴏʀʟᴅ ᴡᴇ ʟɪᴠᴇ ɪɴ ɪs ᴄɪʀᴄᴜʟᴀʀ....\nᴛʜᴇ ᴡʀʟᴅ ɪs ʙɪɢ ᴀɴᴅ ᴘɪɴᴋ .....\nᴊᴜsᴛ ʙᴇ ʏᴏᴜ ғᴏʀ ᴛʜᴇ ʙᴇsᴛ......✿✿\n\n\n✲✲ᴀᴍ ᴀᴛ ʏᴏᴜᴛᴜʙᴇ sᴜʙsᴄʀɪʙᴇ ᴛᴏ ɢᴇᴛ ᴛʀᴇɴᴅɪɴɢ sʜᴏʀᴛs sᴘᴏɴɢᴇʙᴏʙ  ʀᴇᴄᴀᴘs✲✲\nhttps://youtube.com/@spongecorner5?si=JED2MWoSoe8q9Dzs",
+        "followers_count": 26076,
+        "connections": []
+    },
+    {
+        "handle": "nbaupdate.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yxur6mawioytrjnqwrg7fm6x/bafkreicechjbv6aqmp3aqzjsgq57ehvyizbjzhvgvneusmnblzsoelmgli@jpeg",
+        "displayName": "NBA Updates",
+        "description": "Your number one source for the fastest basketball news, scores, and transactions.\n",
+        "followers_count": 10379,
+        "connections": []
+    },
+    {
+        "handle": "slasherfilm2024.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zi2vfacnadfc6fptfvusxdjx/bafkreif4lvwyykrsah444lgjnazv5gz4lppflufmo54pkvviurrli3w5w4@jpeg",
+        "displayName": "Slasher Film",
+        "description": "Ottawa, ON, Canada 🇨🇦\nHey Horror fans,we’re making a slasher film..called SLASHER FILM from the producers of Butchers, http://nullandvoidmedia.com\n\nFollow on Instagram: https://tinyurl.com/yf2e6vr8\n\n Like our FB page: https://tinyurl.com/mwwrf68e\n\n#HORROR",
+        "followers_count": 26370,
+        "connections": []
+    },
+    {
+        "handle": "bblgumglitch.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:clubv23gz75qqny2j74dccus/bafkreicqtme3xx2ksgaqyijmgeo2kho5yak4w3b5yrbjn6pri74exibdua@jpeg",
+        "displayName": "Glitch 🔞 $6.66 OnlyFans | Top 6% | Free Trial Available! ",
+        "description": "I'm that nerdy Canadian girl next door who comes over to play video games, smoke some 🌿, and raid your fridge for snacks because the ones at my house suck.\n\nLess spammy bsky @sstmythos.bsky.social \n\nhttps://linktr.ee/bubblegumglitch",
+        "followers_count": 19826,
+        "connections": []
+    },
+    {
+        "handle": "lisaschipper.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4bfdpsfqpuiynqvlf5zsn2o3/bafkreiggtbwotyhjl36nujbsq4v4ntwf3ctmikyitpomw3ttzvund4zyf4@jpeg",
+        "displayName": "Prof Lisa Schipper",
+        "description": "Climate adaptation & development•Prof Development Geography @giubresearch.bsky.social•Co-EiC @climdevjournal.bsky.social •Feminist•associate SEI & @ecioxford.bsky.social •🇸🇪•she/her/Du•Servant to 4 rescue cats from 3 continents\n\n#ShowYourStripes Köln",
+        "followers_count": 18505,
+        "connections": []
+    },
+    {
+        "handle": "racheldeering.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:n337ktyjowhlm3ciiuvn3wzr/bafkreifrcy4f3x3bd7xhosb3x55h6uuqupt3uouyie5xuz7pdhsshptviu@jpeg",
+        "displayName": "Rachel Deering",
+        "description": "Onemorething on ABC Tales, Twitter @deeringrachel Bath Poet. First collection Crown of Eggshell pub. 2020. @BookWormSat w/ Signe Maene. 🖤 literature, art, myth, folklore, the gothic. Left wing. 🇪🇺 She/her 🌈🏳️‍⚧️ Ally https://linktr.ee/rachel_deering",
+        "followers_count": 15086,
+        "connections": []
+    },
+    {
+        "handle": "picanumeros.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:n4mqe7fx75rfm24mpbzh6e3n/bafkreiebzlqv2ftkgvmmvoh5fh5xv3bb5g5uzoefb7z4xvv5ujrko6cqj4@jpeg",
+        "displayName": "📊⛏️ Picanúmeros",
+        "description": "Estadística, datos, gráficos, cuentas, cuentas y más cuentas.\n\nhttps://linktr.ee/picanumeros",
+        "followers_count": 2164,
+        "connections": []
+    },
+    {
+        "handle": "juandperonista.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rcb3oquq45mjsbwckzzi4fuf/bafkreihbilou6glhgzsrqwekptzds3tohb3xplqdchi4pjzv76rjgmd6pa@jpeg",
+        "displayName": "Un Domingo Peronista",
+        "description": "Nada más lindo que un Domingo Peronista.",
+        "followers_count": 9355,
+        "connections": []
+    },
+    {
+        "handle": "lechuzapsi.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wvrykzhoeq3yyyt756l5rtms/bafkreiftd4ejkq7zvnjerkgdcuywbajascniazut4rrdsq3vmpbuzszwyq@jpeg",
+        "displayName": "",
+        "description": "Psicóloga. PBE. \nSiempre del lado opuesto a la vereda de la crueldad.",
+        "followers_count": 5375,
+        "connections": []
+    },
+    {
+        "handle": "marianocabano.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ra2dvgnj77rl6d3y4knuyge/bafkreieypg4bza3oca2a6uslnbuo2svmbn4ojztcxcoo7xflmnfhgzxdq4@jpeg",
+        "displayName": "Mariano Cabano",
+        "description": "Músico. Artista. Agitador Cultural. Soy Egresado del ISER. También de la UNLP como Lic. Comunicación Social.",
+        "followers_count": 3139,
+        "connections": []
+    },
+    {
+        "handle": "darleysilva19.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nxchgyzmrminpfhfuzyw4jd5/bafkreiglwhg4iaerf54ve7npsdlgiy73r3vbzfx2mhtcdn5xymsane5iym@jpeg",
+        "displayName": "Darley Silva Oliveira",
+        "description": "🎓Bacharel em Administração\n 🇧🇷 Paraná\n\nhttps://linktr.ee/darleysilvaoliveira\n",
+        "followers_count": 3100,
+        "connections": []
+    },
+    {
+        "handle": "brynperrettphoto.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ipvq3e3ltfmq46eiylumf5a/bafkreibu4ski6iphngnlpmcy5eyrzmmy2oplrto5cfumughxexaqijib6i@jpeg",
+        "displayName": "Bryn Perrett",
+        "description": "Avid enthusiast of landscape and astro landscape photography but lover of all forms of picture taking! From Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 living in Norway.  \nLandscape photography is my connection to Mother Nature and the freedom of the outdoors, my therapy!",
+        "followers_count": 12757,
+        "connections": []
+    },
+    {
+        "handle": "ahmednaserr1997.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qcvoojuusp7f2tmphbdgbjpi/bafkreihdtmswfw6zbpfjchk2nsux2hyurzjtyvmokpdbydonddhk6akmha@jpeg",
+        "displayName": "Ahmed in gaza🍉🇵🇸",
+        "description": "From the river to the sea, Palestine will be liberated.🙏🏻❤️\nhttps://gofund.me/f548c5a5\n",
+        "followers_count": 10020,
+        "connections": []
+    },
+    {
+        "handle": "wimkoenraad.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ox6o332eiqxwayo3hpdrse4/bafkreie3xrgymoa7aoerf5whigysmog4lnodpdg3a2zya7fim764pcdeeu@jpeg",
+        "displayName": "Wim Koenraad",
+        "description": "Award Winning Artist, Musician and Composer, SciFantaPunk RPG Creator, Performer, Linguist, Technologist, Space Enthusiast, Sit-Down Comedian. www.cosmality.com",
+        "followers_count": 5565,
+        "connections": []
+    },
+    {
+        "handle": "mohammedb20.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rdbwupezaynwpptjfndtm4qi/bafkreif3siahafc6ewi6mtqdjnsobywigbpav6gcmsmgnsim7esvsmrtuy@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 1648,
+        "connections": []
+    },
+    {
+        "handle": "gregloucks.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ukout36mt2aclkrrib3eonl/bafkreicsrv5temqxliqrvu5ccz6vwysldvm5ua2mqbq363ljmxlvbxmvay@jpeg",
+        "displayName": "Greg Loucks",
+        "description": "Computer Scientist, Coder, Cyber Security Professional, Filmmaker, Geographer, Historian, Traveler, Chef, Linguist, Polyglot, Student, Artist, Juggler, Unicyclist, Yo-Yoist, etc.\n\nArizona native\n\nEngaged to a Ukrainian.",
+        "followers_count": 25156,
+        "connections": []
+    },
+    {
+        "handle": "meviss.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qaeehzn5jwy6653jjjm4txsg/bafkreihbpuqqnmmarvdqugymeswd3cdde4jwgmlytj2h3fbrdmicqkbunq@jpeg",
+        "displayName": "mevi",
+        "description": "🏳️‍🌈/ \nbitácora",
+        "followers_count": 13495,
+        "connections": []
+    },
+    {
+        "handle": "yubbie007.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nyp2ltjnj2fshv2r3mgz3k4g/bafkreigjjrelw5fng2ftvomdpssllh753sm55adfu6iddgofhxqiqtzlte@jpeg",
+        "displayName": "Yübbie Umoh",
+        "description": "#Earth",
+        "followers_count": 39653,
+        "connections": []
+    },
+    {
+        "handle": "sillymickel.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7nguzszlvpdpdmtc47zp22ur/bafkreihe2qyehgpzay4ucuw5baore3qvzc2jpgiwis2n2maxcjygrhoxmy@jpeg",
+        "displayName": "Michael Adzema",
+        "description": "#FBR #TruthWarriors ifb Pre/Perinatal Psychologist, Ecoactivist, Author: *Culture War, Class War 2022*; *Apocalypse Emergency*; *Planetmates*; *Funny God*; *Who to Be*; *The Secret Life of Stones*; *Prodigal Human*; 8 more at http://amzn.to/2kg2n2",
+        "followers_count": 25936,
+        "connections": []
+    },
+    {
+        "handle": "worldofart.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:l3ukiniq3apqjxpjhnsx55pk/bafkreiaik6wu73ii55qfyckldpkl3lfs4sqdzftytaqh6pvut7x7ubxsp4@jpeg",
+        "displayName": "Weyekin Heart",
+        "description": "To roam with Weyekin spirit or be held down by decree. Like a wild horse, my heart dances free.",
+        "followers_count": 19054,
+        "connections": []
+    },
+    {
+        "handle": "mustansarzaver.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:r4k6lpowjkfdbran5kv33dl6/bafkreigudix45pbzebgvzb2hhummrsiagvlz6ck2l7bgwfomdeg6o5ks3u@jpeg",
+        "displayName": "Mustansar Zaver",
+        "description": "\nإِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ\n\nYoung Lawyer ⚖ 🇵🇰 🇬🇧 l Ex Information Secretary @ISFPunjab l Imranist l Student of Law @UniversityofLaw Manchester l #BehindYouSkipper ❤✌\nLahore - Manchester",
+        "followers_count": 8333,
+        "connections": [
+            "kiccc.bsky.social",
+            "qjqj.bsky.social",
+            "infjx.bsky.social",
+            "guillaumelondon.bsky.social",
+            "bladeofthes.bsky.social"
+        ]
+    },
+    {
+        "handle": "bladeofthes.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:keg3c3lhpxiihjho4e7auzaq/bafkreif7kbabywwlaqhxl3665po3rdixgseh7x2qhwptwugvrvmumyukse@jpeg",
+        "displayName": "BladeoftheSun",
+        "description": "Author, book http://Amazon.co.uk/dp/B09KR275TN?\nPreview here https://archiveofourown.org/works/47902108/chapters/120770212\nI #followback\n",
+        "followers_count": 61374,
+        "connections": []
+    },
+    {
+        "handle": "planetatierra.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:x4wg6hkqlt34thqjfamfmnws/bafkreig5d3eethnlxbtbqayn7ijvnubjwjoce6v6e2wpqgtpqz33xwecnm@jpeg",
+        "displayName": "Maravillas Naturales 🌏",
+        "description": "Cuenta creada para publicar todo lo relacionado con la naturaleza, ¿nos seguimos?",
+        "followers_count": 5333,
+        "connections": []
+    },
+    {
+        "handle": "bordercolliedogs.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jpzir6gxur5f3tlcrwftj5kr/bafkreifleger4zdbmathhfrctusgujylsqcbuiaiqf4lf7jsv57itmdbea@jpeg",
+        "displayName": "Border Collie",
+        "description": "The Border Collie is a highly intelligent, energetic, and agile breed known for its herding skills. With a keen work ethic and affectionate nature, it excels in various dog sports.",
+        "followers_count": 6619,
+        "connections": []
+    },
+    {
+        "handle": "vanz0926.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:iimr7g3jov3nldyl7hmnse42/bafkreial5vvcunmn3tpuupjjmzzqmniggox3vwfl4y45rcr64ekpez6z7q@jpeg",
+        "displayName": "deNiceee",
+        "description": "\"VIDA É UM PRESENTE\"\n\n\n Dobetbr.com  ",
+        "followers_count": 5871,
+        "connections": []
+    },
+    {
+        "handle": "donronaldo.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hmkrtmi5wxtmzfu4b6oyszhp/bafkreidmr65sm3vdjckcn2agjpvuke6hp2iwvs67c22sjflylsrhpiac7e@jpeg",
+        "displayName": "Sr. Ronado",
+        "description": "Fútbol, Fútbol y mas Fútbol",
+        "followers_count": 4433,
+        "connections": []
+    },
+    {
+        "handle": "malassangre.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rt6uoxcatjncfvtxtowobcrs/bafkreicrgzo4cynuu3vecc42h722ex4eglucaxvyiltdmm7w37pejbxc3i@jpeg",
+        "displayName": "Malassangre",
+        "description": "Feminista antifascista. La empatía es la clave.",
+        "followers_count": 1358,
+        "connections": []
+    },
+    {
+        "handle": "javierbardon.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qubea5rrca2e4dgknf65jto5/bafkreifjwiv27zz7vfw27uetoawmio73njvnwq34v5ifc54hvnp7nn742y@jpeg",
+        "displayName": "Javier Bardón 🤸",
+        "description": "Profesor, psicólogo y peatón. A ratos escribo.\nUso 🦋 para informarme y opinar sin apestar la tierra.\n📍 Alcalá de Henares",
+        "followers_count": 10630,
+        "connections": []
+    },
+    {
+        "handle": "robertoig7.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zl56xxdkjybnso5ps66n66fb/bafkreic6wehyzanyhds3lcbdfvnnf4nyshssxbxlhiv7dqlt2ymnssovpm@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 27321,
+        "connections": []
+    },
+    {
+        "handle": "samihellis.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gghurt53dh3hzsbwz2iiwdhk/bafkreiaadd6ayt2mp5uieyd6ol3ohhwz755dx3qp2ktq4z2i6tm4v2qcdq@jpeg",
+        "displayName": "Doaa Baker family 🍉🇵🇸",
+        "description": "Hello I am Duaa Baker a Palestinian mother to 6 children. We live under the war and destruction in Gaza a Terrible life.\nhelp us 😔❤️‍🩹\nhttps://gofund.me/a527a4d8",
+        "followers_count": 10970,
+        "connections": []
+    },
+    {
+        "handle": "profolus.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwlmvbkb4slemo4doi4cwvet/bafkreihg64xb6qxxaxgwcin6ufjofq3gin2glixibq3awxhsro4xkk6ffe@jpeg",
+        "displayName": "Profolus",
+        "description": "We are an independent publication operating as an imprint of Esploro Research. Support our writers, researchers, and analysts at www.profolus.com",
+        "followers_count": 9711,
+        "connections": []
+    },
+    {
+        "handle": "hzcrypto.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bq5lrpqnav23yskbbkeuxev7/bafkreia3b25eei6bkcv7r2pwbbc2h76hsakg4vi6l76ab6gt5qs5pjpigm@jpeg",
+        "displayName": "Hazreti Kripto",
+        "description": "#BTC\nFull time BTC trading 💯",
+        "followers_count": 6578,
+        "connections": []
+    },
+    {
+        "handle": "somosaguacero.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ltjdmevyuw67g6mk4lx72zwk/bafkreidrdamykdqsl5hh3u5e2ahfenjxhgoz4opizcwb32qp3k7p5suxfy@jpeg",
+        "displayName": "🌏 Somos Aguacero🔄",
+        "description": "Solos somos una gota, \njuntos SOMOS AGUACERO.\nComunidad, medio ambiente, educación, arte.\nComunicación por la vida. #SomosAguacero. TikTok-IG-Threads:\n@SomosAguacero\nSitio web: https://somosaguacero.com/",
+        "followers_count": 2262,
+        "connections": []
+    },
+    {
+        "handle": "ofernan.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogiatwvlzdyqtosw26fsytpi/bafkreia2fluc2cz5txsj2f767boa77zwofqj67lm3qdrksl6xhlhc6vtjy@jpeg",
+        "displayName": "Ó. Fernández",
+        "description": "... 🇵🇸",
+        "followers_count": 2046,
+        "connections": []
+    },
+    {
+        "handle": "libreriamorelliana.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2erfxugwl4rt7yzp55sy5anb/bafkreicsgq7irjwrvqn46n6wmefcsmnw5duegtmpd4q6qk63pokubx7cfe@jpeg",
+        "displayName": "Librería Morelliana",
+        "description": "Tenemos el libro que estás buscando \nQuilmes, Buenos Aires, Argentina\nWhatsApp: 1151449194\n#generacionesdelibros",
+        "followers_count": 6907,
+        "connections": []
+    },
+    {
+        "handle": "biobiochile.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:27n7f6gdvv3gudnm3ommzhln/bafkreiaozu72r3evvcsiir7tjso3u7aokermiryddiu76gfxnfzangpsna@jpeg",
+        "displayName": "Piopiochile",
+        "description": "Somos la red parodia más grande del país 🇨🇱\nLista 📃 🤫 Fachos https://bsky.app/profile/did:plc:27n7f6gdvv3gudnm3ommzhln/lists/3lbow5zs2ve2z",
+        "followers_count": 2999,
+        "connections": []
+    },
+    {
+        "handle": "truebuddhism.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2xmyvvah336otkoum3awqxgp/bafkreidcr5qg4hjzmc6aepimbk3mbwxzbb5h6t4sok2vqfx2g4d6whh4ny@jpeg",
+        "displayName": "John Charles Harman",
+        "description": "Buddhist w/ Nichiren Shoshu. Orlando, Fl. Kinesiology UCLA Author/Musician. I teach our practice in Orlando area. Music & Books at FemalesLive.com Buddha Buddhism Spiritual Spirtualism Nichiren Meditation Tantra Healing Love Happiness MyohoRengeKyo",
+        "followers_count": 19556,
+        "connections": []
+    },
+    {
+        "handle": "konurbano.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qhl2of3lrhm76xwxqitvei5l/bafkreicfcr4s4zeam4spvviasroaan3gvbf4cwyypxghy5nr76t4o6cacq@jpeg",
+        "displayName": "Konurbano",
+        "description": "Cultura millennial del conurbano bonaerense con justicia social✌🏼\n\nIG: https://www.instagram.com/konurbano",
+        "followers_count": 9179,
+        "connections": []
+    },
+    {
+        "handle": "boa.com.ar",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:arplmoycj2z7jz3wljgyq3lh/bafkreigzzdsumjdf2fq7w3njjff5fslkfuys7g6lts2ccd5pr2dbzcc64a@jpeg",
+        "displayName": "BOA | Resumen del Boletín Oficial de Argentina ",
+        "description": "Hago resúmenes del Boletín Oficial de Argentina en mi web https://boa.com.ar",
+        "followers_count": 6807,
+        "connections": []
+    },
+    {
+        "handle": "piratensaarland.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yoio47g7o5mc2xearoygkgbf/bafkreidnpm6iiisidwkqmlbluxihpytt3fjimdfe72vtcul3lz7xz4pj5m@jpeg",
+        "displayName": "Piratenpartei Saarland",
+        "description": "Für eine liberalere, sozialere, humanistischere, modernere, gerechtere und smartere Gesellschaft.\n\r\nImpressum: https://piraten.saarland/Impressum/",
+        "followers_count": 14342,
+        "connections": []
+    },
+    {
+        "handle": "unai-goikoetxea.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ziwutw2adj2ix2zetn35jua/bafkreifisoqa3nlqne63pawofzdpk576nz4z33aqln77tm5zcgxjwwou7i@jpeg",
+        "displayName": "Unai Goikoetxea",
+        "description": "Escritor en Suma de Letras, acabo de publicar mi primera novela: Solsticio de invierno.",
+        "followers_count": 3671,
+        "connections": []
+    },
+    {
+        "handle": "beatrizqueirooz.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:42benzd2u5sgxxdanweszno3/bafkreiayz72k5f552ruebyvqiz5uslbjhmsrji4n2anzlmzwbx2bqcda5i@jpeg",
+        "displayName": "Beatriz Queiroz",
+        "description": "✨🌸🐆🪬💫\nInstagram.com/euqueiroozbeatriz",
+        "followers_count": 8701,
+        "connections": []
+    },
+    {
+        "handle": "memezar-official.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ooj64xalpsm6r4gorhb657e/bafkreihkgfmpeqipp4aihg7z4xzxdswygiqbwyfvkbhhyybblz63yxwu6i@jpeg",
+        "displayName": "memezar ",
+        "description": "",
+        "followers_count": 5077,
+        "connections": []
+    },
+    {
+        "handle": "nt-nt.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qypy4v3d6mzsd34zgee5m7qg/bafkreihshhz2ajtrpdzjmt5lqffdq5jv2lhaul4wl2okuoihiuhwyfwkku@jpeg",
+        "displayName": "NT",
+        "description": "i wanna be the very best\nlike everyone ever was\nto follow them is my real test\nto waste time is my cause\ni will travel across the sky\ncatching brain damage\nteach followers to understand\nthe brainrot that's inside",
+        "followers_count": 26745,
+        "connections": []
+    },
+    {
+        "handle": "hirenthakore.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:sl2rxwxuu3yacybxte4qz33b/bafkreidaqtrzsjbahs4h53bbgoxngy2ww7kyz7mfrid2jajrax7hqrirtq@jpeg",
+        "displayName": "Hiren Thakore",
+        "description": "Bringing software engineering humor, gaming vibes, and dev tips to your feed. 💻+🎮\n\n\"Code never lies… but comments sometimes do.\"\n\nEnjoying the content? Fuel my code with coffee ☕️: https://buymeacoffee.com/hirenthakoa",
+        "followers_count": 30943,
+        "connections": []
+    },
+    {
+        "handle": "kenkers10.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5546i7clgg2abnddio5bo7pl/bafkreihaei7fiyaado2dlp54uxiwrkktethaklungp2qxuuu7tyzr44o4m@jpeg",
+        "displayName": "Kenny Boy",
+        "description": "If at all possible, please subscribe to my cooking YouTube channel https://youtube.com/@kenkers10?si=_OwLZ0YRFxuC-zMZ Ken…married 2 children, and I love cooking, gardening, dogs, strong IPA beer, and bourbon. Go NY Giants, NJ Devils!!!",
+        "followers_count": 14219,
+        "connections": []
+    },
+    {
+        "handle": "cemalicyer.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3onmfi42kyxdlucqhwp5nlcy/bafkreigq5gmhjaabs5rorpltsvdsaym5udiopdwre67m4tqv6km37xwc64@jpeg",
+        "displayName": "Cemal İÇYER",
+        "description": "Lawyer / Cyber Security / Germany",
+        "followers_count": 10376,
+        "connections": []
+    },
+    {
+        "handle": "snurb.info",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:svy2kdc6ju4bycwrbw55styz/bafkreicorflriivekmhvn5zjdkyu7j6kyvkf4f3spvhyfcwqpvn4h2x5ki@jpeg",
+        "displayName": "Axel Bruns",
+        "description": "Australian Laureate Fellow and Professor at @qutdmrc, researching news, politics, partisanship, polarisation in digital and social media.\n\nHe/his | Progressive Rock | Hannover 96 🖤🤍💚 | 🇦🇺🇩🇪🇪🇺\n\n🕸️ snurb.info\n🐘 @snurb@aoir.social\n⛔ @snurb_dot_info",
+        "followers_count": 9512,
+        "connections": []
+    },
+    {
+        "handle": "davidcarroll.org",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:zehd7si3ipmvfvmyuvq53gti/bafkreiebrt2he3ratsesmygh3bzfzmxvirhy3ztjuqdqokgdixnyyhhiuy@jpeg",
+        "displayName": "David Carroll",
+        "description": "admin of federate.social\nmy own social media server\nfaculty of parsons.edu\nviews my own\nsubject of https://netflix.com/title/80117542\ngetting my own data",
+        "followers_count": 8818,
+        "connections": []
+    },
+    {
+        "handle": "astrologyoptions.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lejxmkasu2fszqquhupnl3gv/bafkreift6hdrhcjg7re72o6suk3wfh5iehw2pmmicrh2xewxhc3kpgolwa@jpeg",
+        "displayName": "Astrology Answers",
+        "description": "Astrology Answers is a dedicated to bringing the mysteries of the cosmos to your fingertips. We specialize in insightful astrological content, personalized horoscopes, and tools to help you align with your celestial path. ",
+        "followers_count": 11940,
+        "connections": []
+    },
+    {
+        "handle": "nooraihsas.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7zxlkvqop2m3hlwts4jdz6gd/bafkreiac6rksudnuidalzy4qrujwx3lol6yjwmtaoo7aeqjcj66jpc77li@jpeg",
+        "displayName": "𝐍𝐨𝐨𝐫𝐚 𝐢𝐡𝐚𝐬𝐚𝐬 ☆",
+        "description": "Follow back otherwise unfollow you\n🇺🇸🇵🇰🇮🇳🇮🇩🇨🇳🇸🇦🇦🇪",
+        "followers_count": 38541,
+        "connections": []
+    },
+    {
+        "handle": "liafinx.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5vs6pcjscqj63e6khghmskxj/bafkreidxy3xaqwve3si7heddyu2p2tgxzfkgitydysl4rcjcwlsrmgw6za@jpeg",
+        "displayName": "Lia Finx",
+        "description": "I'm looking for a sex partner to film adult films\n\nLooking for someone to fit a step daddy role in POV style (from 20- 70yr).\n\nI cant reply to everyone in DMs so click the link below to connect with me❤️\n👇🏽\nhttps://getallmylinks.com/liafinxxx",
+        "followers_count": 9742,
+        "connections": []
+    },
+    {
+        "handle": "autumnmaples.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:32v3ibu65mz5uoxotrldf7gg/bafkreiduqjhoixhubhch5g6lafopxmeyv2rj746cl6j6i2zcqp4s2lc2lm@jpeg",
+        "displayName": "Autumnmaples",
+        "description": "https://onlyfans.com/autumnmaples",
+        "followers_count": 5945,
+        "connections": []
+    },
+    {
+        "handle": "gangas.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ghrzfswlpzdhmxhwxr75ruf/bafkreiajl4zeqkd3n3wbb2ezmr2swfgkner76q6evdckkgecm7rl3yivum@jpeg",
+        "displayName": "Chollos Ofertatis 🇪🇸",
+        "description": "Buscamos bajadas de precio historicas, no dudes demasiado que se acaban",
+        "followers_count": 5364,
+        "connections": []
+    },
+    {
+        "handle": "blogdelaunion.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:22d5k3ndauybbpzzziqt7qwh/bafkreicgfl4s5l3mbprm4geaxiikz7na53hbcsww27xryhllyzcnoeq32i@jpeg",
+        "displayName": "blogdelaunion",
+        "description": "http://www.blogdelaunion.com\n\nhttps://bsky.app/profile/did:plc:22d5k3ndauybbpzzziqt7qwh/feed/cuentos",
+        "followers_count": 3562,
+        "connections": []
+    },
+    {
+        "handle": "seamorphus.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:eozec2wuooclxt2hnv3xjfts/bafkreib3kujonbnavx5td7tne7wlli5dic7zxufvae3tojcvbnodtfnof4@jpeg",
+        "displayName": "Seamorphus",
+        "description": "#nft collector and generative artist\nbuy my art: https://opensea.io/collection/seamorphus-lt-suns\n#bitcoin #ethereum",
+        "followers_count": 2262,
+        "connections": []
+    },
+    {
+        "handle": "wiresharks.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5z3jsxbvy6k3arqa2csj66li/bafkreie7kbwl6wixfrptltipxewt2h5vxc675zxc53k2r4vqjhkslvujtu@jpeg",
+        "displayName": "Robert M",
+        "description": "Tech, sports, art, books and comedy 👊\nBe Kind 🫶\nNot an influencer. If you follow me I'll follow you back!",
+        "followers_count": 21031,
+        "connections": []
+    },
+    {
+        "handle": "albertvilella.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oxh2lmowuusxjqn4f4usyjk5/bafkreifetl4r3iphnsmhthuqhfkytyja5ohon2nacv4k5ztmzjh3se4nga@jpeg",
+        "displayName": "Albert Vilella, PhD.",
+        "description": "Bioinformatics Scientist / Next Generation Sequencing, Single Cell and Spatial Biology, Next Generation Proteomics, Liquid Biopsy, SynBio, Compute Acceleration in biotech // http://albertvilella.substack.com",
+        "followers_count": 16047,
+        "connections": []
+    },
+    {
+        "handle": "thetastytrail.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hkmgawkznqud7clzuu5unnly/bafkreidtpaeb6vl2shz4ysjgul6jmwk2paubaorj2ntlmlq2zgxq23lcre@jpeg",
+        "displayName": "The Tasty Trail",
+        "description": "Food enthusiast and creator of The Tasty Trail, a vibrant journey exploring flavors, recipes, and the joy of eating. Passionate about connecting people through delicious experiences and celebrating the art of food.",
+        "followers_count": 12815,
+        "connections": []
+    },
+    {
+        "handle": "andyperfors.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:op7eevqcejmhguigdma42vdp/bafkreigsstdbmafek2a75rv4napv5q2unvy2vxzparjyb7b74mlbfdhb3u@jpeg",
+        "displayName": "Andrew Perfors",
+        "description": "Prof at UniMelb. I'm a computational cognitive scientist studying human inference, learning, information systems, culture, and (mis/dis)info. Nerd & opinionated loudmouth in Oz, originally from America, citizen of both. Parent of two. 🏳️‍⚧️ perfors.net",
+        "followers_count": 9008,
+        "connections": []
+    },
+    {
+        "handle": "merve.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3r5x3rucvnyue4gy4hy57cv7/bafkreic3mzec6tq6uaxnqja7i5f5h7bpvz7inx3hta23sjkitpuxrpomiy@jpeg",
+        "displayName": "merve",
+        "description": "proud mediterrenean 🧿 open-sourceress at hugging face 🤗 multimodality, zero-shot vision, vision language models, transformers",
+        "followers_count": 6151,
+        "connections": []
+    },
+    {
+        "handle": "grandiloquentwords.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uzkqphsznycugmyz7hqvna3f/bafkreiewjc36xoglskb2mpbvcgsq7u5fzp4dtqydglku2my2onpk4biklu@jpeg",
+        "displayName": "Grandiloquent Word of the Day",
+        "description": "Fancy words, witty descriptions, and vintage illustrations to educate and entertain.\n\nKickstarter!\nhttps://www.kickstarter.com/projects/grandiloquentwords/grandiloquent-word-of-the-day-2025-calendars?ref=etdr6o",
+        "followers_count": 32573,
+        "connections": []
+    },
+    {
+        "handle": "johnsonpham.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:acrgnazmjjt5lgsfbbjbwebc/bafkreigfy677emzhuzbbljzlpq6scynsm7ytg5inoouqvizlvguxjszjau@jpeg",
+        "displayName": "Airedale Terrier:  🇺🇸🇨🇦",
+        "description": "The Airedale Terrier, or 'King of Terriers,' hails from Yorkshire’s River Aire valley. Known for its intelligence, loyalty, and charm, this iconic breed is a favorite among dog lovers. Follow for more about these majestic companions! 🐾👑 #AiredaleTerrier",
+        "followers_count": 30675,
+        "connections": []
+    },
+    {
+        "handle": "elisabethbik.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lalznr2yvov2sammblk73wx4/bafkreic2gm46t5zote5iv35ljh2lvvbkwojgfqvfnv7l5ghcrp3i7y24iy@jpeg",
+        "displayName": "Elisabeth Bik",
+        "description": "Science integrity consultant and crowdfunded volunteer, PhD. Previously at Stanford University and (gasp!) uBiome. NL. USA. SFO.\n#ImageForensics.\n@MicrobiomDigest on X.\nBlog: ScienceIntegrityDigest.com\nSupport me: https://www.patreon.com/elisabethbik",
+        "followers_count": 27980,
+        "connections": []
+    },
+    {
+        "handle": "baebaeyy.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2gnreppumf64w2aoihgeccpo/bafkreifhd6fv75xcpi6gu4ozaji2d3ivfaxclwnm6rblz4ssn75gbcgqju@jpeg",
+        "displayName": "",
+        "description": "Sk8boarder, cosplayer, animal lover, spicy\n😇⬇️⬇️⬇️\n\ngetallmylinks.com/basedbae - (18+)",
+        "followers_count": 1116,
+        "connections": []
+    },
+    {
+        "handle": "factpoint.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:u6g5p6q6lzgjfmulwoq4tb4j/bafkreidl6vcttewv3b443b4ekb3rrkbk36zkb4dacvzkt325xrv2yicyty@jpeg",
+        "displayName": "Facts & Wisdom",
+        "description": "Best Facts sharing Page.",
+        "followers_count": 7926,
+        "connections": []
+    },
+    {
+        "handle": "antheabutler.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y5jt5fbkuojlxabj2hzdfh5b/bafkreig2iuu6klae7gr2gxog426bwg4umccv5pqadkzj7jiu4mxm37o2ee@jpeg",
+        "displayName": "Anthea Butler",
+        "description": "Penn Prof, researches right wing religion and conspiracy, Eagles  fan, traveler and gin drinker. ",
+        "followers_count": 50102,
+        "connections": []
+    },
+    {
+        "handle": "intelwire.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dhslp7awbcjvy5qowpfjfqyp/bafkreiestwrb4frjeofdvvkold2jv2nj5vwoqgz5dumt4b5ekusfgx4tda@jpeg",
+        "displayName": "J.M. Berger",
+        "description": "I wrote the book on extremism. It's called \"Extremism.\" \n\n► EXTREMISM @mitpress http://amzn.to/2BKXLgU \n► OPTIMAL: A dystopian novel http://amzn.to/3aKYZ99 \n► https://www.jmberger.com/\n\nCommission on AMZ links\n\nPhD @ Swansea University School of Law",
+        "followers_count": 18222,
+        "connections": []
+    },
+    {
+        "handle": "hammoudeh.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3xwqzyxogshwsjtd3p2sg3c3/bafkreidz7nt32shftci2ueiyx7qgijrveqputzi2q3nkzt4zyrux7byone@jpeg",
+        "displayName": "Lara In Gaza 🍉🇵🇸🕊️",
+        "description": "From Palestine living in Gaza God help us 🍉🕊️🇵🇸\n\nPalestinians are people just like you and I, with feelings just like ours. They feel lonely and forgotten, so it means a lot if you take a little time to remind them it's not so.",
+        "followers_count": 14212,
+        "connections": []
+    },
+    {
+        "handle": "miverr.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:s6gk6bbx4pxv7vxahxgvnrzu/bafkreif2qzjjqaro2fymllzwsfh6jmcutcfzbm4fxzjjun2huwq25au6jq@jpeg",
+        "displayName": "Author M. I. Verras",
+        "description": "Renowned author, singer, pianist, music composer.\n\nIf you are someone who is handling book adaptations, DON'T DM, BUT COMMENT under the book. The author's lawyer will review the deal. NO BOOK PROMO OR DATING.\n\nTHE HIDDEN FACE\nhttps://linktr.ee/miverras",
+        "followers_count": 13663,
+        "connections": []
+    },
+    {
+        "handle": "freddystock.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:otb5dn3vinqqr6whehhjddcj/bafkreiekrv2zopzo2qwpnojtgv2sspydctf4s55eyypy2g64qkkjcopvfq@jpeg",
+        "displayName": "Freddy Stock",
+        "description": "ChiLennon. Institutano.Carrerino. Periodista. Conductor de @Stockdisponible  en @canalviaxoficial.  \"Pensar es comparar\" (W.R.)",
+        "followers_count": 2563,
+        "connections": []
+    },
+    {
+        "handle": "crypto-ai.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7cgn5esntn7uxumhlghgpvqf/bafkreifaiwlz2en3nuklz2v4mhenmzefz5f3dkhzuhgyzzh52rgcy7osk4@jpeg",
+        "displayName": "Crypto.AI",
+        "description": "Best #crypto #ai #signals and #news! \nFree on the #IOS #AppStore!\n\nDownload below 👇\n\nhttps://apps.apple.com/pt/app/crypto-ai/id6737802182",
+        "followers_count": 2689,
+        "connections": []
+    },
+    {
+        "handle": "richieprince.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:e4j5gqk5i6sj3q6w7s3j35xv/bafkreie7eqgdtdnwww2ee3w7bh2tf6nrczxpsha25e5jr5dofu3p63capa@jpeg",
+        "displayName": "Richieprince",
+        "description": "🫶🏽Inspiration and motivation.\n🎥Watch unseen videos \nGetting you through the day‼️🥰\nMillions of views on threads🧵\nI’ll follow you, sharing kindness \n\nThreads🧵\nhttps://ishortn.ink/Www.Threads.netRichieprince",
+        "followers_count": 13947,
+        "connections": []
+    },
+    {
+        "handle": "bsw5020.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2txuor4kwch2ot2jdu73ksgi/bafkreif22qfllqmwwuh3mi3f4jltfpqyalc7yclwfrqteurhfuosrhi4gm@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 5539,
+        "connections": []
+    },
+    {
+        "handle": "tareqibrahim.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oc4ph66g3tq6m63w3thb5m2y/bafkreibt4ayldb6d3mbkg73rfadriijjoowalarhlmhnipkyjhb2woopmi@jpeg",
+        "displayName": "Tarek_Ibraheem (from gaza)🍉🇵🇸",
+        "description": "A Software Engineering student, I lost my father, my dreams, and my home because of this war. I hope you can support me so I can continue learning, pursue my dreams, and provide some food and clothes for my family.\n\nhttps://gofund.me/5dff2479",
+        "followers_count": 4970,
+        "connections": []
+    },
+    {
+        "handle": "respectfulmemes.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3awqkacz33aitph7ojbzv24l/bafkreifrgmc42adjolgeovevbfa6satc74iz65udkljtl5cmj5hsz57dce@jpeg",
+        "displayName": "Respectful Memes",
+        "description": "",
+        "followers_count": 12668,
+        "connections": []
+    },
+    {
+        "handle": "fumad.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4pf2y2irxv2ezyzoyp5jtixv/bafkreibjswuzpjb3fp6ozyajtekd2lmascscth3kfzc3qli7k6dqhvgupq@jpeg",
+        "displayName": "fumad",
+        "description": "que fumen los colegas",
+        "followers_count": 4280,
+        "connections": []
+    },
+    {
+        "handle": "piramidal.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hweci53uziq2enr546r2ft7f/bafkreie2p6h5sg3yh453bduu4ejtts6edww6rrmxfcebhecaewoeq2gbjy@jpeg",
+        "displayName": "Ricardo Moraga",
+        "description": "\"Siempre llevo conmigo lo invisible,\nlas cosas que sé pero no conozco\ny pretendo averiguar a tientas\nen ese país de ciegos\nque es la mente y cada pensamiento\"",
+        "followers_count": 1998,
+        "connections": []
+    },
+    {
+        "handle": "tmzofficial.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:um6fe2idxozgfm7gtmxsrmkk/bafkreihj5bd7sm3rhtj3agxcoetvshggcdtolbh6j7bobx7q43ua5vo3pq@jpeg",
+        "displayName": "TMZ ",
+        "description": "Breaking entertainment news as it happens.\n",
+        "followers_count": 25020,
+        "connections": []
+    },
+    {
+        "handle": "davidleavitt.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:a6g23vezflvebvmaqngfwcmn/bafkreidbafhdsn3jbcs62olsncyav53xsqyfgghtfh6p7rq6uxbq3lhrqu@jpeg",
+        "displayName": "David Leavitt",
+        "description": "Award-Winning Multimedia Journalist. Bylines: CBS, AXS, Yahoo, Examiner, etc. I love #Games. Casual #MTG & #Boardgames player. Work w/me: DavidLeavitt@gmail.com\n\nhttps://linktr.ee/david_leavitt",
+        "followers_count": 56319,
+        "connections": []
+    },
+    {
+        "handle": "joyquote.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:z5s2grhwl6tp5n3i67zozebw/bafkreic2f3bkgrlsdwu4sl5bc4uimz6olscsr7zdpbgxg376n2enoblzk4@jpeg",
+        "displayName": "",
+        "description": "Give this world good energy. ☀️💙",
+        "followers_count": 51317,
+        "connections": []
+    },
+    {
+        "handle": "imlunahey.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:k6acu4chiwkixvdedcmdgmal/bafkreihwjqusqk5wyahldrx4spchtozxce6vpd47p2wyfccg2pvhrc3hya@jpeg",
+        "displayName": "luna",
+        "description": "28 years old - she/her/they/them - 🏳️‍⚧️🏳️‍🌈\n\nbluesky's #1 professional yapper\n\nif i don’t reply im probably rate limited. \n\non my way to make 1M friends. 💖",
+        "followers_count": 36915,
+        "connections": []
+    },
+    {
+        "handle": "colin0reilly.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:x4m6k4whl576rnkibg5jm4tm/bafkreib4ajx6t3m57hhqn4yh7skqp7q5svislzk5fq2stnptta335rxmku@jpeg",
+        "displayName": "Colin Oreilly",
+        "description": "Musician , producer , writer, comic , podcast host, mysterious drifter, Liberal, Progressive, Pro Science , Pro Wrestling, UFOs , he/him, ❤️🇺🇦",
+        "followers_count": 36309,
+        "connections": []
+    },
+    {
+        "handle": "bookshelfie.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:kthwu6mpwb56qwdm2ipaxciw/bafkreig2bmcwwomzgogtbrncjwidgtt5wzd7ojpvnypgxesgog47hmkvim@jpeg",
+        "displayName": "Bookshelfie",
+        "description": "The self-pub hub of the internet!\n\nSubmit your book to our bookshelf for free! www.book-shelfie.com",
+        "followers_count": 35838,
+        "connections": []
+    },
+    {
+        "handle": "listigeplaylists.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:w524f2zdqikl6g7gw2n46hea/bafkreic525yp27jhc4c427gr6iy6nfjf4bscty3ujfxpv2fg7kbbjs4dgq@jpeg",
+        "displayName": "Post Me Your Spotify Links! 🎸",
+        "description": "🕺 Share your favorite songs on BlueSky with @listigeplaylists.bsky.social, and watch them join the community playlist every hour. Listen to the mix here:\nhttps://open.spotify.com/playlist/1PkWMirBslXWUtwW3ImA1F 📻\n\nYes, I follow back. \n\n(beep/boop)",
+        "followers_count": 9736,
+        "connections": []
+    },
+    {
+        "handle": "marielaal.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:th5whztzvffrpohg4onzkmmg/bafkreifmtowzgp3ttk4atkoxpyzallxhwbof7dj4h5ls3m3nhmkhchapte@jpeg",
+        "displayName": "Mariela",
+        "description": "Mama. Periodista.  Docente y actriz",
+        "followers_count": 1887,
+        "connections": []
+    },
+    {
+        "handle": "mikeeldemonio.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:arwgxryisf7ru6kqei4xkc3r/bafkreie4d5niyeixgrs5ht56j4rhi2bvc6gi7xc4nlptqbtobiqt6rnxbu@jpeg",
+        "displayName": "Mike El Demonio",
+        "description": "CHILE, A la izquierda siempre! \nSigueme y te sigo. \nLos fachos pasen de largo.\nPalestina Libre!!",
+        "followers_count": 1625,
+        "connections": []
+    },
+    {
+        "handle": "bigbluewaveusa.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bpqaqye6fpknwhsdspxtmtj2/bafkreiemy3bu4lb6kq65li5ncrhankgr6haepzx764d2aplfvmr4iilp3q@jpeg",
+        "displayName": " BigBlueWaveUSA2026®            🇺🇸🌊🇺🇦",
+        "description": "Just escaped Elonia’s Twitter. #Resist Tяump and all Republicans. Boycott Tesla forever. #BlueCrew #IFB #Swiftie #NoDemUnder1K #FBR",
+        "followers_count": 23390,
+        "connections": []
+    },
+    {
+        "handle": "badanalysis.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4wvhaffogd5fr76nuu3bvroz/bafkreiftvgmpdboxgulbju5dojzogbighn37nhuyfxeutzpghryrtwc6oy@jpeg",
+        "displayName": "badanalysis",
+        "description": "www.youtube.com/@badanalysis",
+        "followers_count": 23139,
+        "connections": []
+    },
+    {
+        "handle": "jackrusselldog.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7mv5tzh7npbwvmahtgmgpym4/bafkreiclkkd7v5qu7c66f2efktvlfhoxbrbmxpqwzrve6fwillxuvy6tte@jpeg",
+        "displayName": "Jack Russell Terrier",
+        "description": "The Jack Russell Terrier is a small, energetic dog with a lively personality. Known for intelligence and agility, they are affectionate, loyal, and require daily exercise to match their spirited nature.",
+        "followers_count": 16640,
+        "connections": []
+    },
+    {
+        "handle": "mikegalsworthy.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ckia47p4xlas3xpmisgrllck/bafkreiamoivrvhh67rb6q4pvvdirnjlx5z6kmu5dnzggxs4lie43ftyhpa@jpeg",
+        "displayName": "Mike Galsworthy",
+        "description": "Chair of European Movement UK. 🇬🇧 🇪🇺\nFounder of the Bylines Network. \nFounder of Scientists for EU. \n\nLover of science, Europe, inclusion and whisky. 🥃",
+        "followers_count": 91149,
+        "connections": []
+    },
+    {
+        "handle": "con-elon-no-pasaba.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:slmv2ubogmrotxfda4eb2q4o/bafkreihl2wyb7oqnrhfaxstpi24d34ngynhyfo67pdjqhnhdbywi6xap2e@jpeg",
+        "displayName": "Esto con Elon no pasaba",
+        "description": "La tradición de todas las generaciones muertas oprime como una pesadilla el cerebro de los vivos.",
+        "followers_count": 4314,
+        "connections": []
+    },
+    {
+        "handle": "easterncoyote.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2tdgzwjdfgomblcjywnis6ab/bafkreih62gk5mpm66s2ihqjfgebgqhn7jz7qzhb2fl5venwu34tq25qf7u@jpeg",
+        "displayName": "J. Stryker | Memento Vivere 🌿",
+        "description": "Wildlife/ecology/conservation, plants, trees, canids, corvids, coffee, cats. They/them. 🇨🇦\n\nAlter-ego: @horrorculturist.bsky.social 🦇🌱\n",
+        "followers_count": 30013,
+        "connections": []
+    },
+    {
+        "handle": "horrorculturist.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:iu36bhgttc7u4p5gz7oqxjtu/bafkreierhqypkku6pmefwqikdvnustp5cls7oyuxilzb2xvteuhjgffg5i@jpeg",
+        "displayName": "𝕳𝖔𝖗𝖗𝖔𝖗𝖈𝖚𝖑𝖙𝖚𝖗𝖎𝖘𝖙 🦇🥀🕸",
+        "description": "Gothic gardener. 🇨🇦. Goth, goblincore, dark art, horror, Halloween, poisonous plants. Nyctophile. Autistic murder hornet. Genderqueer. Pan. They/them. 🌿🍁🍂🎃",
+        "followers_count": 28190,
+        "connections": []
+    },
+    {
+        "handle": "geektyrant.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wwc7iab3iwyzlttzzrxpg7i3/bafkreieaore36jdqzkqr7sajs2exqgguhsjawfgd35tsnkyaygf3nt425u@jpeg",
+        "displayName": "GeekTyrant",
+        "description": "🚨GEEK ENTERTAINMENT NEWS 🍿🕹️📺 \n🤘🏽Indie-Pub-Since 2008 \n🔗 https://GeekTyrant.com \n📩 geek@geektyrant.com\n\nCo-Founders @freereyes.com & @joeypaur.bsky.social / Staff @milydunbar.bsky.social @tyguitaxe.bsky.social @billfishgt.bsky.social",
+        "followers_count": 7065,
+        "connections": []
+    },
+    {
+        "handle": "feder4t4s.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wiwrivqunypqcl5ln5pr2c2g/bafkreianlixfnwi52rtovjv46nkhwguv3mbqv6xwrmzb4irh4xffkpr2ca@jpeg",
+        "displayName": "Fe de Ratas Inteligencia Artificial  argentina y peronista",
+        "description": "Acá están, estas son, las neuronas \nde Perón\n\nPrograma realizado por IA Jueves 22Hs Mosh Radio\n\nProgramas anteriores en : https://youtube.com/playlist?list=PLiMGeUigDC8NtbfuM-DkPHd79srcFvfSZ&si=CWCccJoj5iTO-nH3\n\nEn vivo por http://twitch.tv/moshradio",
+        "followers_count": 6638,
+        "connections": []
+    },
+    {
+        "handle": "kicillof2027ok.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mx5aj4gj73hurhz3ph4dei4z/bafkreiaewup5bjy2qvdj5ikck5bfndlqkbhl5g52cpt47euyumuxfzz6ty@jpeg",
+        "displayName": "Kicillof 2027 Oficial",
+        "description": "El presidente que necesitamos 🇦🇷\nCuenta en X:\nhttps://x.com/kicillof2027ok?t=ym5Fy5lDU3x7R7DMb2u2gQ&s=09",
+        "followers_count": 5194,
+        "connections": []
+    },
+    {
+        "handle": "gianlussl.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:e5y4ls6fwcp3pyrr2t3qtlea/bafkreiaoocofsez3uju2d2b7ebilrfzz3xzwjcr7hrdofnrzk4hq53quay@jpeg",
+        "displayName": "PIPO 🦅",
+        "description": "ItaloArgento en 🇪🇸 / 26 años. / Comunicador Social y Forista.",
+        "followers_count": 5139,
+        "connections": []
+    },
+    {
+        "handle": "othingstodo.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:i6r2cszqypv2qkp5wvppkndo/bafkreia6amuooyaq4uk5smuyhks6wqdipso4yjsv46fszxq6zuvkzkjhqy@jpeg",
+        "displayName": "OThingstodo",
+        "description": "Checkout latest travel photos and Videos.",
+        "followers_count": 13093,
+        "connections": []
+    },
+    {
+        "handle": "programmerhumor.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fxvqc7l5rh4m5gowg7nqjghy/bafkreien3457bbhfdupotwfdqeus4hqmqico7l5lboih227ernxwznec5y@jpeg",
+        "displayName": "Fulltime HTML Programmer",
+        "description": "For anything funny related to programming and software development.",
+        "followers_count": 11100,
+        "connections": []
+    },
+    {
+        "handle": "planetjericho.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2ch2kdzrgnatjumvrrxp2sgz/bafkreid77efthao27kt43wmckwztu5prwflseajg6nrq7u2dtkdcmes4te@jpeg",
+        "displayName": "JERiCHO",
+        "description": "Songwriter & Pop Artist\nBrit living in LA🏳️‍🌈⚤ 👽 they/them\nAnimal | Rep-Room CHI N1 Swiftie “I want u to pick my surprise song” | still in my TRXYE era | Doctor Who fangirl | extroverted introvert\nALL links & Tix: https://blinq.me/Yx9mzu0qAHbTlhDGK3HZ",
+        "followers_count": 34861,
+        "connections": []
+    },
+    {
+        "handle": "godhatesgoth.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:a7llpxeqx3aekfair3vuflig/bafkreia2rsozhkkzlhaffcpzddvlc4zl7syihx5n4kur5qvfm474feu7we@jpeg",
+        "displayName": "disturbedByVoices",
+        "description": "Chronic distributor of dark art, music, and humor to the benefit (and detriment) of those that follow. Abandon all hope ye who enter within. 💀 https://godhatesgoth.com #gothic #postpunk #synthwave #darkwave #horror #horrorfam #darkart #darkhumor",
+        "followers_count": 13059,
+        "connections": []
+    },
+    {
+        "handle": "indiattic.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:2qtz7vt7uc64iuj5er7rcl52/bafkreidviion4ufv3bnpqkkytwtmdtjma2mar54yqjw5nd77qpk4ec33ji@jpeg",
+        "displayName": "IndiAttic",
+        "description": "IndieRock/SpleenPop band FR\n\nFollow us !\n\nInsta \n\nhttps://www.instagram.com/in_di_attic/profilecard/?igsh=dmZlYjh6Nmpremw5\n\nSpotify\n\nhttps://open.spotify.com/artist/6jDiXL6ntUF8oMqBDc2I2g?si=mHng68z0SLK8Uv_dmC8xLQ\n\nLinktree\n\nhttps://linktr.ee/indiattic",
+        "followers_count": 7991,
+        "connections": []
+    },
+    {
+        "handle": "tovarichdelsur.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3hcw5bfnhf3rrlk22gjb2o7y/bafkreia5456qnx555xebdnwvjjjyastmzuzxpwyfgzvuqwntl2tjp6irpm@jpeg",
+        "displayName": "Tadeo Casteglione",
+        "description": "Periodista - Experto en relaciones internacionales - ZoV 🇷🇺💪🏼\nhttps://www.instagram.com/tovarichsur",
+        "followers_count": 4435,
+        "connections": []
+    },
+    {
+        "handle": "rehmansiddiq.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lm6spozpy7oervpdramvcli7/bafkreihpdlmdk5gwpsy66ljdat3giy76my6l3p5f7pwsvje5azs5vsnmgy@jpeg",
+        "displayName": "Rehman Siddiq",
+        "description": "Human First | Proud Liberal From New York | Tech Entrepreneur | CEO at @MacroHype.com | Youth Ambassador for various @UN campaigns\n\nwww.RehmanSiddiq.com\n\nOld Twitter Profile:\nwww.X.com/RehmanSid\n\nInstagram:\nwww.instagram.com/RehmanSiddiq",
+        "followers_count": 33878,
+        "connections": []
+    },
+    {
+        "handle": "equators.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nv6xgrpj5upa4r3r2rkbzhvi/bafkreih5y4z5jtcpdjj36omskd74ilatlz3pvgebcz35cdvl4bmcjbrn5a@jpeg",
+        "displayName": "nature 🗻",
+        "description": "A living catalog of Earth. Nature. Vibes. Travel.",
+        "followers_count": 8704,
+        "connections": []
+    },
+    {
+        "handle": "lon3music.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lytfebkry3yx4zdvvpyxjmzp/bafkreibqnicfj3zsu6f265ubr6pj6avfnt5bcozmm4duhr7onqeddsqc3u@jpeg",
+        "displayName": "Lon3!",
+        "description": "linktr.ee/Lon3Music",
+        "followers_count": 6868,
+        "connections": []
+    },
+    {
+        "handle": "adriipiecelover.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cqpthsfgd6yni7uj555oaqyx/bafkreic5eholhmchoyevfyaipiuz2tf32z55otb7ywu2fahaa2u6wyhpda@jpeg",
+        "displayName": "Adrii",
+        "description": "Fan del manga, series y Pokemon❤, lvl25 , enjoyer de One piece y Naruto^^\nBarcelona, Catalunya ",
+        "followers_count": 6115,
+        "connections": []
+    },
+    {
+        "handle": "sanatintarihi.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4rsec7snwsap5hzp3prgkhkn/bafkreid6dmij4hzf4frr4bbidzfikqlbdugpdfqxd5r37abtzvczaygldy@jpeg",
+        "displayName": "Sanat Tarihi",
+        "description": "Güzelin & estetiğin arayışı",
+        "followers_count": 5107,
+        "connections": []
+    },
+    {
+        "handle": "memewrld.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ztiitznhw7iscyhanfzg3obe/bafkreihz3wc4ov7c5m7eed6nfwl27u6co6zys7zitkqkbesqctfka5qcce@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 10277,
+        "connections": []
+    },
+    {
+        "handle": "marginalyconscient.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6njqhwoqroox2rn7ztrjtfjv/bafkreicp4g4wpnamdfqldpn53hvmc7tqlf6rzzs3qiw5rxex7b6gf4ff5i@jpeg",
+        "displayName": "Marginal y consciente",
+        "description": "Relato de crítica social 🌍",
+        "followers_count": 6739,
+        "connections": []
+    },
+    {
+        "handle": "agroecologymap.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2gmlbuycqjf4ua3fqzaj3ee/bafkreif7k5ssyyk23ftj4qpl4cnsvu3ueb2yqdlnyo4vdirikyziuwwrmu@jpeg",
+        "displayName": "Agroecology Map",
+        "description": "#Agroecology Map aims to assist in the #mapping of experiences with the goal of bringing people together to strengthen or create #collaborative networks that enhance the sharing of experiences in agroecology. https://agroecologymap.org/ 🌱 🌎 💚",
+        "followers_count": 4647,
+        "connections": []
+    },
+    {
+        "handle": "taylorgreensky.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:opzlk7qw7tzjgloic4bgfnb7/bafkreigjvszz7fybgou65ovwlo4vk74djul2hlrdicfa2wednh7rtb5qle@jpeg",
+        "displayName": "Taylor Green",
+        "description": "Curator, Published Author of 6 Books. Dark Planet: \"This gave me the Chills. This is how I've seen and felt about Trump since 2013.\"  getbook.at/DarkPlanet  #TrumpIsACriminal",
+        "followers_count": 29994,
+        "connections": []
+    },
+    {
+        "handle": "1kzz.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:v4maxlmza5pfdbvuxokq7vrl/bafkreierf4sq62eslkwgw3xpgsbz3n6fkwj73cbyy4wvarsnf2egreejzi@jpeg",
+        "displayName": "𝙠 ̶𝙯 ̶.•🍁",
+        "description": "𝐭𝐨 𝐛𝐞 𝐨𝐫 𝐧𝐨𝐭 𝐭𝐨 𝐛𝐞. ..𝐟𝐫𝐞𝐞.!”  ✘- I may look bad to you, but I don't have two faces, and that's important.!” ⬬☞ (𝟭)⠀Canada🇨🇦",
+        "followers_count": 11047,
+        "connections": []
+    },
+    {
+        "handle": "nirmaldevkota.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6d7f332xr33veewidqjlrrab/bafkreifkw5jll5aeeuahdajqa3lnwktm53yph57yk5fojncoh45cqhtg3u@jpeg",
+        "displayName": "Nirmal🦋",
+        "description": "This is where I shoot skeet: https://bsky.app/profile/nirmaldevkota.bsky.social/feed/aaafe4w6tnmso",
+        "followers_count": 42458,
+        "connections": []
+    },
+    {
+        "handle": "sistosterone.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ss4p3tcd7uj3xo3fbiceur3o/bafkreib4p4t52og3ap4xqxij46wvrwzqb5senlnxv4vvkhno3cdwjbsyxu@jpeg",
+        "displayName": "Michael sisto",
+        "description": "Comedy person 👨🏻‍🦱\nIf anything here offends you blame your parents for raising such a dooshnozzle \nMalibu, Ca",
+        "followers_count": 31899,
+        "connections": []
+    },
+    {
+        "handle": "sralonsomrhyde.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fnounvxxoe2hmbouyo7dwzy2/bafkreigq5wkbpnb3mrztbh7vfn3wf4zg66kvabqu6tkgbtpckn7czvutkq@jpeg",
+        "displayName": "Sr Alonso & Mr Hyde",
+        "description": "De haber sido objeto sería objetivo, pero es que soy sujeto. ♂️🔥🧠♥️💣",
+        "followers_count": 8526,
+        "connections": []
+    },
+    {
+        "handle": "shiningscience.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ahxsmskhszwhdmr64rrlc67s/bafkreib62brbwiqm4ccqmijw6rzbz4pe3g3wcogc2c2zm4bcidxad77wuu@jpeg",
+        "displayName": "Shining Science",
+        "description": "Shining Science is your portal for the latest science news.",
+        "followers_count": 24858,
+        "connections": []
+    },
+    {
+        "handle": "moserministries.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uranhsvvhuqpdrsjppbs5mi7/bafkreidspjfk3wtmkgr4c2sq5ww2qhihruoywzi5u7u22y6mrra2qpf4ym@jpeg",
+        "displayName": "Robb Moser",
+        "description": "moserministries.org\n\nMoser Ministries Genesis to Revelation Bible Blogs: non-profit organization mission is the Word of God and the Gospel of Jesus.",
+        "followers_count": 11906,
+        "connections": []
+    },
+    {
+        "handle": "enas305.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ygagueh2kjfyrbmowekyrzdb/bafkreiaagi5lz5xmh63eka7avpquomofx5u5xtw27ux4b2ivxlxcahvhme@jpeg",
+        "displayName": "A hand of rescue🫒🍉gaza",
+        "description": "https://gofund.me/e0dcfc05\n\n✅️Vetted by @gazavetters, my number verified on the list is ( #124 )✅️\n\nI am Inas from Gaza, a mother of five children and the wife of an injured man. Your donation is hope for us amidst the darkness🥹😓🇵🇸\n\n#Palestine  #Gaza",
+        "followers_count": 7669,
+        "connections": []
+    },
+    {
+        "handle": "chistico.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rvmemzwbxqvxzwg2whu7sinx/bafkreigogrvp2ru6r4kgbnld5vxw4m7werqdehsxpxmvj6q5pkg7r2o6te@jpeg",
+        "displayName": "Chistico",
+        "description": "Venezolano.",
+        "followers_count": 6096,
+        "connections": []
+    },
+    {
+        "handle": "avenuestarofficial.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rxkleblzggayqxvvhktoejff/bafkreig6xx65um7mmc64oaiwlspqxvniaom5qc7ricnovvwqux7mdlmmby@jpeg",
+        "displayName": "BINANCE",
+        "description": "Bitcoin | Crypto Trader And Trainer | BTC | Binance | Kucoin | Olymp Trade | Crypto | Forex | Join Me If You Want Learning Crypto \n\n✨ Financial^ Market 〰️\n✨ Technical Analyst 〰️\n✨ Supply & Demand 〰️\n✨ Crypto Market News And Other",
+        "followers_count": 15068,
+        "connections": []
+    },
+    {
+        "handle": "angelabrittany.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nqsjbxqhf3nzz2ghroidxniu/bafkreihxtj77of4nghdqlvtnywsy5sndn6dg2p5exmrtiazd2zuo7yhpxm@jpeg",
+        "displayName": "💖Angela💕💫",
+        "description": "@AngelaBrittany on X \nI am from 🌾Saskatchewan 🇨🇦 #YXE\nFollow = Follow Back! ❤️\n\nMy interests:\n🇨🇦Canada 🎵Music 🎨Art 🎮Gaming\n⛅️Outdoors ✈️Travelling 🌴Beach \n🦝Animals 🩺Health 🥩Carnivore\n🔭Space 🔬Science 🏰History\n🌳Genealogy 🗣Politics 🏒Hockey #LetsGoOilers 🙌",
+        "followers_count": 14327,
+        "connections": []
+    },
+    {
+        "handle": "real2024life.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hlgbl7yyzoo2ayeudachyshf/bafkreihd5tu3rirs2prbajmxfriomeaqhkxdin2hzf6is3jnzooshb6qw4@jpeg",
+        "displayName": "普通の生活が一番",
+        "description": "普通の何気ない生活 が一番大事だという事に気付きこの名前にしました。宜しくお願いします。 \n無言フォローお許し下さい。フォロバ1000%\n岩手県　𝕏 → https://x.com/Real2013Life?t=7g-BEBU2s3lOokqtvZb0DQ&s=09\n\n Normal life is the best  I will follow the account around the world. 1000% follow-back\nIwate Japan",
+        "followers_count": 37988,
+        "connections": []
+    },
+    {
+        "handle": "24horastvm.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lkawfc3ni7da4mv4s3pge3ul/bafkreiba2hlcuxfwysflu5ffhupozgpncawa64witpwyrjttkdngnlzl7u@jpeg",
+        "displayName": "24Horas",
+        "description": "SOMOS PARODIA DE LA PARODIA",
+        "followers_count": 1934,
+        "connections": []
+    },
+    {
+        "handle": "alerta24news.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7bafwpujmwf2hnsmxgdpbknt/bafkreidiirrpl7nfitbe5xe4pn6gev6qwkz5uwy6xae2kb6tfehhtjdqqi@jpeg",
+        "displayName": "Alerta news 24",
+        "description": "Noticias importantes y urgentes del mundo al minuto",
+        "followers_count": 1564,
+        "connections": []
+    },
+    {
+        "handle": "nflbluesky.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6mxyfo5cuayd2orais2fcqqf/bafkreihq7craq33htqk7odve4p2zhgkbsv4ikoenzlkgxwqdywcdk7mija@jpeg",
+        "displayName": "NFL",
+        "description": "NFL STATS, NEWS, + UPDATES\n\nNOT the official NFL. Video content owned by NFL, no impersonation intended. Just want to build up NFL community on here.",
+        "followers_count": 46073,
+        "connections": []
+    },
+    {
+        "handle": "amoryhoops.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hcjkdvbfxmy6f4yuu6eytwdw/bafkreihmmlazqfetsxlxubxydt4mswsx5vvdp363lpcq3ngboysm3a7odu@jpeg",
+        "displayName": "Amory 💫",
+        "description": "🙋‍♂️God first ✝️ I follow back everyone 💯\nWarriors💙💛|chiefs❤️🤍|lions💙🩶🤍 \nFollow me on tiktok amory_hoops 16k followers",
+        "followers_count": 7476,
+        "connections": []
+    },
+    {
+        "handle": "n3vvvv.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:oh3xqmhz7pytfrtvd2roghfr/bafkreihpvgxir77sxv22xj7soqx3ffpflcmykodobg3guehpkz7mchmhqm@jpeg",
+        "displayName": "nev",
+        "description": "- chief of the best community on the app\n- Dubs💙💛 | RMA🤍 | Seahawks💙🩶\n- #notonnevswatch",
+        "followers_count": 6043,
+        "connections": []
+    },
+    {
+        "handle": "ddarlan.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mztkerkjrdgtobqbovwksalh/bafkreicslszt7cgjkfdh4nvtqmrwyqosyivmpfyews7khwx476ur4re3ti@jpeg",
+        "displayName": "Darlan 💋😍🫦",
+        "description": "Procurando amigos cronicamente online assim como yo 🫦 \nPosto tudo que me dá na telha 💋\n😍 Multifandom",
+        "followers_count": 26665,
+        "connections": []
+    },
+    {
+        "handle": "yaucolion.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:u4kvkd2ispylw75ocs7ebjvo/bafkreifdgsl2347pebdnyjmpueafrjfrvgsjdjvzncatfk4e6icpjvsfna@jpeg",
+        "displayName": "🫘💖𝖄𝖆𝖚𝖈𝖔𝕷𝖎𝖔𝖓71💖🇵🇷",
+        "description": "♌️🌞♍️🌙♍️⬆️Coffee, books and music. In that order! #VoteBlue \nPS I’m doing just fine. Thanks for asking. Est Sep 2023",
+        "followers_count": 7249,
+        "connections": []
+    },
+    {
+        "handle": "kutandalkim.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ps2t6wtpejszl7gye576szm4/bafkreigg65sazvfvl5gcnuv6xkyinhs6kepqa3is646rnjzfiiambupvxm@jpeg",
+        "displayName": "Kutand Alkım Bayer",
+        "description": "IZTECH-Chemistry, I like to be Polymath(learning different subjects), Polygot(interested in the learning different languages) comments and opinions are my own RT≠ is not endorsement (he/him)",
+        "followers_count": 5085,
+        "connections": []
+    },
+    {
+        "handle": "darelvegat.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:b6s7p23d35ujriyeh7kotfgg/bafkreibhhehg6dmcj5sb54ph3mwg2ilt7xtvdtgy44tajhj7x23mvvbe7u@jpeg",
+        "displayName": "Darel Vega",
+        "description": "✍️ Writer and Autor\n🌟 CEO & Fundador de FollowWiki & Glam\n🌐 Programador y Diseñador📱\n🚀 Nuevas ideas, nuevas conexiones",
+        "followers_count": 1228,
+        "connections": []
+    },
+    {
+        "handle": "periodistafigueroa.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:prpsyqjgujtn4zry6um76rj4/bafkreieyfopjztqtepkj54djttept2vc35vxnuuty3ljekvubxemsbjypa@jpeg",
+        "displayName": "Periodista Andrés Figueroa Cornejo",
+        "description": "Soy un luchador social y periodista chileno. No espero milagros ni que las injusticias caigan por su propio peso: sólo confío en la voluntad humana para cambiar la vida colectivamente.",
+        "followers_count": 2268,
+        "connections": []
+    },
+    {
+        "handle": "raissaqueiroz.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6gxfoikrmjvfmzcrkmx36nqf/bafkreie3hi4byu6ww3ddevmurklelsfno6e7jcgbwsklrqj2q2zpb3h34m@jpeg",
+        "displayName": "Raissa",
+        "description": "",
+        "followers_count": 34198,
+        "connections": []
+    },
+    {
+        "handle": "bellaqueen.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:x4spdniqk734plobpp2co35r/bafkreiadxe5pwcixhb7nyfe7jtfhns7zxr6j6wzloubzjamwaakboypmby@jpeg",
+        "displayName": "Bella ✨",
+        "description": "I'm Just a Girl 💖. Lost in the beauty of mountains and seas, capturing moments, just nature and me 🌸✨",
+        "followers_count": 10570,
+        "connections": []
+    },
+    {
+        "handle": "jlvelasco.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mkfv3hl4q3b4pmaz6snhuoyr/bafkreibkzywmqw5je5mzdhvmfk65asfh5qsvqenk2zfiiazhvjlzfr4bcm@jpeg",
+        "displayName": "Jose Velasco",
+        "description": "                            🔻\nEca. y empleo en el PSOE-M Centro                          \n⚖️ Abogado. \n🩼 Con Esclerosis Múltiple. \nUlpianista. Luchador incansable.",
+        "followers_count": 7748,
+        "connections": []
+    },
+    {
+        "handle": "globalpimarket.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wplibpzbv5xvyngf3cmju7er/bafkreiacnz75ijg5pwt7f6dwxr6lnv6c3f4mcxapod575d2iptvvvfwdh4@jpeg",
+        "displayName": "GPM Team",
+        "description": "We will shake up the Pi crypto ecosystem 👍👍👍",
+        "followers_count": 5566,
+        "connections": []
+    },
+    {
+        "handle": "luismeds.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:gn4ghcamlicccqavu5jvhhff/bafkreihos62o4byf644kvxbrpaks66vgbt2dggi52izuamx5assebzbqsi@jpeg",
+        "displayName": "Luis Meds... Rencarnación de Máximo Décimo Meridio",
+        "description": "Devuelvo el Sígueme !!!\nSarcasmo, humor, humanista, defensor de justicia e igualdad social... Nomás házte un poquito a la izquierda, y seremos eternamente amigos. No discutas, debate\nNo DM 📵 No Criptomonedas. No Investement, No herencias",
+        "followers_count": 8195,
+        "connections": []
+    },
+    {
+        "handle": "hightimesmagazine.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:stn3z5cjcecffwhdnhqgxbqw/bafkreifemel57bv62frbuqa67ap6qtxg34hkjr4kksi6vyx7u264xnucji@jpeg",
+        "displayName": "HIGH TIMES",
+        "description": "Media/news company\nThe Magazine Of High Society | 21+\n| HighTimes🍁 https://t.me/xoticgenetixOfficial\n\nhttps://www.facebook.com/p/Exoticgenetix-Official-61568710764663/?mibextid=LQQJ4d",
+        "followers_count": 1231,
+        "connections": []
+    },
+    {
+        "handle": "mcspocky.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:w3xevyycvef7y4tqsojptrf5/bafkreifqydfawwneq3blldrvimfykfw3tmizeod5vatdndd6y2bt6x7c2u@jpeg",
+        "displayName": "McSpocky™",
+        "description": "Lastly from Twitter. Politically blue!\nMarried to a breast cancer survivor.\nhttp://McSpocky.blue\n\nMcSpocky™ 1 Feed: https://bsky.app/profile/did:plc:w3xevyycvef7y4tqsojptrf5/feed/aaadtn5vuj66q",
+        "followers_count": 100281,
+        "connections": []
+    },
+    {
+        "handle": "kamalladreams.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:g4kx4imrw24s6tjf2p2x7o25/bafkreicv576fhf3ccgwvyxi5qx5hhb7yjiwtfc7oacx4ikeszdj4rkkw2i@jpeg",
+        "displayName": "KamallaDreams",
+        "description": "Twitter refugee joining BlueSky, searching for friends. I was KamallaDreams on X. Starting the anti fascism movement here. \nSubscribe to my youtube channel: https://www.youtube.com/@KamalaHarrisforPresident2024",
+        "followers_count": 88622,
+        "connections": []
+    },
+    {
+        "handle": "faineg.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qiknc4t5rq7yngvz7g4aezq7/bafkreiebllsdsfrgkiilwi2q6bavjhwsiaj3vhozxfq3reakkbpgxeoutu@jpeg",
+        "displayName": "Faine Greenwood",
+        "description": "civilian drone mapping technology and GIS/spatial data consultant, sometimes journalist and writer, monitors small drones in the Ukraine war, humanitarian-aid adjacent, always annoying online. they/them pronouns. minors DNI",
+        "followers_count": 63170,
+        "connections": []
+    },
+    {
+        "handle": "fightingpride93.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:yg4mn3sdoqmjeinutbwnxlij/bafkreiekys4rp5jal2meqyz6oq3ftx7iutcjwgtcblb2oksq25euxx6bwm@jpeg",
+        "displayName": "Jane",
+        "description": "Trans woman of colour. Artist. Poet. She/Her.\n\nhttp://paypal.me/fightingpride\nhttp://patreon.com/fightingpride93\nhttp://ko-fi.com/fightingpride",
+        "followers_count": 16982,
+        "connections": []
+    },
+    {
+        "handle": "ignacioiriarte.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:wpf62iq3vzcrpwgslxxoyytb/bafkreibv2rhihdiwnnufc467jpnyvyhfzl2tqjm2ozmwk5wxofejbvwb4i@jpeg",
+        "displayName": "Ignacio Iriarte",
+        "description": "Porfiado",
+        "followers_count": 1319,
+        "connections": [
+            "johnsonpham.bsky.social",
+            "samihellis.bsky.social",
+            "inviernos.bsky.social",
+            "beatrizqueirooz.bsky.social",
+            "sralonsomrhyde.bsky.social"
+        ]
+    },
+    {
+        "handle": "petsfunhouse.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:3biae4rpkbh7mnzsgkgtdwzh/bafkreienuwfvuohykoa2std2zx3bavjvt6tmhtqryixt42slixyfqzrcua@jpeg",
+        "displayName": "Pets Fun House",
+        "description": "Thank you to everyone for following me here on Bluesky! If you're on Facebook, please follow me there as well! \nhttps://www.facebook.com/PetsFunHouseOfficial",
+        "followers_count": 29560,
+        "connections": []
+    },
+    {
+        "handle": "jpcastillo.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:c4czfs3yndnu4cwlzxa7wfij/bafkreig5xtx7mwuf3frdhqa5zpdsu3543i3bhgdeh3o25e7ekasvnujcqy@jpeg",
+        "displayName": "J Pedro Castillo ",
+        "description": "En mi cuenta solo temas personales. \nHablo sobre economía, cultura, sociedad y tercer sector.  \n▪︎𝙿𝚎𝚛𝚒𝚘𝚍𝚒𝚜𝚝𝚊  \n▪︎𝚁𝚎𝚍𝚊𝚌𝚝𝚘𝚛",
+        "followers_count": 1802,
+        "connections": []
+    },
+    {
+        "handle": "enriqueaurelli.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5iymgtpxckpsafjnijjtivyc/bafkreibwxlvhw2uhis4zkqiit6lgbdj6ea7eygye7liodh43lgaktdtp6y@jpeg",
+        "displayName": "Enrique Aurelli",
+        "description": "Militante, Peronista Nac y Pop, Investigador recursos estratégicos, Diseñador, Escritor.\n\nhttps://heylink.me/EnriqueAurelli/",
+        "followers_count": 1298,
+        "connections": []
+    },
+    {
+        "handle": "solomemes.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:lpeoxkuwqy4lwh7sciddu24r/bafkreig7sezofo6asg4lqzil5v5m6y2sdtuurqbowevnlclbnjyianlhqe@jpeg",
+        "displayName": "Solo memes",
+        "description": "\"Ríe, comparte y repite. ¡La vida es mejor con memes!\"",
+        "followers_count": 1002,
+        "connections": []
+    },
+    {
+        "handle": "bowmanaman.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fm3qiusbezpagrk5c2l2tuyb/bafkreibvjunt64zugb5uibhjwirlem7y7564k5sv7nzrazcomumnrq5ppe@jpeg",
+        "displayName": "Bowmanaman #NAFO Fella",
+        "description": "#NAFO #Fella #NAFO/OFAN #Ukraine #MUGA Slava Ukraini 💛💙\n#Democracy #EU #US #Canada #NZ #Australia #UK\nRecovering Voter\n#BradleysNow",
+        "followers_count": 48034,
+        "connections": []
+    },
+    {
+        "handle": "cnoticiaschinenas.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:f2xefztdg3halgxs3czgh422/bafkreig6j3rzljbwftqpj75geanlp5a3y7pffufqjuhss6i7apc7aoeuea@jpeg",
+        "displayName": "CANAL NOTICIAS CHILENAS 🇨🇱",
+        "description": "Noticias de Chile y el mundo",
+        "followers_count": 2186,
+        "connections": []
+    },
+    {
+        "handle": "pacolobo.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4sgx4pyxcyreor5wxhk5mwnb/bafkreiav5q3psoqig7p2yynkbz6wwmbhkdu5jgh7lrbrcxmvur66rfdvk4@jpeg",
+        "displayName": "Paco Lobo",
+        "description": "Marinero libertario.",
+        "followers_count": 14027,
+        "connections": []
+    },
+    {
+        "handle": "giovankaluengo.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:y43c5kzcavqotcknjro46dwm/bafkreiehuqqu5kddkqoxsaoqm2fbco6dpd3jub34mmkksdipdftdt7eniq@jpeg",
+        "displayName": "Giovanka Luengo",
+        "description": "Actualmente mi autor favorito de comedia negra es el guionista de Chile.\nFeminista, ecologista, trabajadora social y aspirante a política Chilena.",
+        "followers_count": 1125,
+        "connections": [
+            "qjqj.bsky.social",
+            "guillaumelondon.bsky.social",
+            "zyflyyy.bsky.social",
+            "i55i.bsky.social",
+            "karma-chaos.bsky.social"
+        ]
+    },
+    {
+        "handle": "nachomontesdeoca.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nuu2n42zfvdtcj6oq6bjyktj/bafkreigo3powlpbzenxbibkvdnixo37ygh2q4bocwwwdhz2vtl2m5s4aoe@jpeg",
+        "displayName": "Nacho Montes de Oca",
+        "description": "Periodista y escritor ",
+        "followers_count": 2748,
+        "connections": []
+    },
+    {
+        "handle": "russelfx21.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:frcxr7xceqwpuezprct2t3kg/bafkreicfzg2mk7dmrkjvwchsfg647ualpekxeyzhqel5jiu22dhx22bvua@jpeg",
+        "displayName": "Russel Rosales",
+        "description": "Fitness | Trader de Forex 🇵🇪 | Tauro\n≛ | Financial Markets\n≛ | Technical Analyst \n≛ | Supply & Demand",
+        "followers_count": 4612,
+        "connections": []
+    },
+    {
+        "handle": "dsegoviaatienza.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:76c2uj33zbaay54tmq5oak2n/bafkreidrjdbhnummcpxc54nlti3eqylhqfu4ztsktheckkctf7vsvvhrsm@jpeg",
+        "displayName": "DAVID SEGOVIA",
+        "description": "VOTANTE de @PODEMOS.\nPablo Iglesias cambió la política española quieran o no reconocerlo.\nAzote de Florentino Ferreras 😂.\nNecesito Mithril para el ❤️.\nhttp://www.youtube.com/@dsegoviaatienza1",
+        "followers_count": 4007,
+        "connections": []
+    },
+    {
+        "handle": "a-ramis.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ngsqhdkfhy752uklpha2anm2/bafkreibvykdwczvdxcjvp2plon7o4ubc4mteiuxwaqdapleoj6i6f2nc6e@jpeg",
+        "displayName": "Álvaro Ramis",
+        "description": "",
+        "followers_count": 1592,
+        "connections": []
+    },
+    {
+        "handle": "marcianobrito.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:dk644jtqur3mvxphdwuawi25/bafkreihuq47vuhxego5rladypruflerdljmjbbsavnjalq7zwqdr7y63fq@jpeg",
+        "displayName": "Marciano Brito",
+        "description": "Assuntos de política, de esquerda e eventualmente de outros assuntos ... depois eu conto mais.\nSigam o Presidente Lula 🦋 @lula.com.br e Leiam o LinkTree oficial do Partido dos Trabalhadores https://linktr.ee/ptbrasil ",
+        "followers_count": 24932,
+        "connections": []
+    },
+    {
+        "handle": "plasticwars.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ferulfgyoufjauw577iad54v/bafkreiheooz47ls4emecb33zxraafm5uu54cbzaqoj7h7kxc44ala6yx5u@jpeg",
+        "displayName": "🦋Plastic Free Frontline🌎🚯🌊",
+        "description": "🌊Your trusted source for cutting-edge science, breaking news, and strategies against plastic pollution. 🌎Together, we can eliminate plastic waste and protect our planet. Join the mission!",
+        "followers_count": 19061,
+        "connections": []
+    },
+    {
+        "handle": "mateuszowe.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:iahm677jpyaxkljedoah3tkc/bafkreif7xo7vel526zkey37rcxikyij5ylxpsreygkcbfms7wq7zldhmnq@jpeg",
+        "displayName": "Mateusz",
+        "description": "jestem! Który Jestem?\npo owocach ich poznacie 🍊🤪",
+        "followers_count": 18751,
+        "connections": []
+    },
+    {
+        "handle": "lyndagood.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:swtxmqmmr6zf23wz2mf7jqrp/bafkreif2dmi4b4adopytxtgqyo7biun4pe4owsoaaci7jjjzox6ijhi6na@jpeg",
+        "displayName": "LyndaGood",
+        "description": "\nNein,No,Non,Não,Nej,Hayır,Nie,Tidak,Nee,Nei \n🚫DM’s🚫",
+        "followers_count": 14121,
+        "connections": []
+    },
+    {
+        "handle": "thebeatphilosopher.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:jj5rmugtmhcj2cfeqwa2bhva/bafkreie6qraaxqeog7fq5pvbdo7ghvzomwtwgl42sm3m2a5dsediqukicy@jpeg",
+        "displayName": "Melissa Nadia Viviana",
+        "description": "Author. Activist. Existentialist. Humanist. Beat Philosopher. Philosophy Of Mind. Childless Dog Lady.\n\nUsed to host philosophy discussions on Twitter - now hosting them here on Bluesky every Sunday! Join us!",
+        "followers_count": 9731,
+        "connections": []
+    },
+    {
+        "handle": "xannita.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogiung2qlz43pfh2mzj5kp7n/bafkreia45fs5wtrnj2nwp44swzdsijxhj4jo5vrfzwunahdv7hqfrd5kae@jpeg",
+        "displayName": "Xana Xávarri",
+        "description": "Atea. Feminista. Inmigrante. Despistada. Miope. Sorda. Zurda. Sin WhatsApp.\nDueña de un triciclo y un termo. Abya Yala. ✊\n\"La cultura es hija del boludeo\" - Mújica",
+        "followers_count": 6817,
+        "connections": []
+    },
+    {
+        "handle": "unseenhistories.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nvt2tv6omc2o3cuvk7pzpir3/bafkreiao22w6dt5aus4bbiunjhcgsw6a4orbmcon4xaeef4ngnxj3nwjxm@jpeg",
+        "displayName": "Unseen Histories",
+        "description": "The Past, Fully Present. Find out about the very best new history books, read author interviews and long-form pieces by the world’s leading historians.\n\nhttps://www.unseenhistories.com/",
+        "followers_count": 5491,
+        "connections": []
+    },
+    {
+        "handle": "goodlookingflaite.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:llyhnn4noeyi7pdtnhr7ho47/bafkreibmefviuaqyqag4nzjsxos3eauxydhcoxgr5k6iy2xvpchztleyeu@jpeg",
+        "displayName": "GoodLookingFlaite",
+        "description": "Ingeniero, IA, optimización, complejidad, en general soy el chato borroso que está al fondo de la foto.... ciencia, porque no te puedes rezar un viaje espacial",
+        "followers_count": 1325,
+        "connections": [
+            "guillaumelondon.bsky.social",
+            "i55i.bsky.social",
+            "fullperm.com",
+            "latabernademoe.bsky.social",
+            "avenuestarofficial.bsky.social"
+        ]
+    },
+    {
+        "handle": "rainwater14.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:cob424rjgo2prhb5xqchlojt/bafkreiex67r4vdx6f7gwwcdkpn7c6uxp6zozsrqhnquqyofgcvpqtdwmpa@jpeg",
+        "displayName": "Rainwater",
+        "description": "Don’t fool me no more\nIf that’s what you’re looking for \n\nHey!! BECOME OBSESSED \n#RESIST PROJECT 2025\n\nRESISTANCE PLAYBOOK\nhttps://www.theguardian.com/commentisfree/2024/nov/17/how-to-survive-the-broligarchy-20-lessons-for-the-post-truth-world-donald-trump",
+        "followers_count": 23192,
+        "connections": []
+    },
+    {
+        "handle": "adambouska.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:i24iidrrj2hc6dwz2luiiqa5/bafkreiesr4r2d27krohoudcmwibdi2ovwdw35hmm7pbtiajsalzpdawbp4@jpeg",
+        "displayName": "Adam Bouska",
+        "description": "Fashion Photographer  & NOH8 Campaign Co-Founder ★★★★★ AdamBouska.com",
+        "followers_count": 19118,
+        "connections": []
+    },
+    {
+        "handle": "everythread.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:fg5po6gyp4cer3wfuydzyyig/bafkreidb5ngmduitdgvzioc7yk7ayllhxh2lkcihngxe5rpsdsyue743am@jpeg",
+        "displayName": "Melonie M. 🦋",
+        "description": "Enthusiastic adventure seeker of nature, art, space, photography, cooking, yoga, travel, exploration, and my “attempt” at humor.  Like-minded DM’s, not asking for money, welcome.\n\n┊         ┊       ┊   \n┊         ┊       ★⋆\n┊ ◦\n★⋆      ┊ .  ˚\n           ˚★",
+        "followers_count": 7233,
+        "connections": []
+    },
+    {
+        "handle": "fedaamasn.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:62r5jurr6mtizdxkqemgxtdz/bafkreid4qlqmmsb5gh74i5numpmmjilcw6b6o3iyqfz66jgjzi3tj3oxlq@jpeg",
+        "displayName": "Dr.fedaa nadi",
+        "description": "A pediatrician from gaza seeking for safety and survival 💔🍉🇵🇸\n\nhttps://www.gofundme.com/f/help-poor-injyred-in-gaza",
+        "followers_count": 10733,
+        "connections": []
+    },
+    {
+        "handle": "emilycatewrites.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:khxkxx5ct3oyzx4wzlpyx2xp/bafkreiccxdlxdduc3aw5mnb63njt5hfoy64a2rndcyla7pywx7biwgyhmi@jpeg",
+        "displayName": "em (taylor’s version) ✿",
+        "description": "27 • writer • swiftie • simmer • collector of disabilities • coffee junkie",
+        "followers_count": 7688,
+        "connections": []
+    },
+    {
+        "handle": "noticiasantifas.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:tfjf2prc34f5nrxrkhwgujqw/bafkreif4ihhn3gw56ufciflkt7bnblv6xouhakut6wfnurk6bkx6lj6wwa@jpeg",
+        "displayName": "Noticias para Zurdos",
+        "description": "Noticias y contenidos dirigidos a gente De izquierdas y antifascistas",
+        "followers_count": 1136,
+        "connections": [
+            "guillaumelondon.bsky.social",
+            "fullperm.com",
+            "madeindex.bsky.social",
+            "truebuddhism.bsky.social",
+            "fhdfays.bsky.social"
+        ]
+    },
+    {
+        "handle": "madeindex.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uwwgrkvjnchuagflu3qzjp5d/bafkreigcvjwmaddje6ijzaitxvukb6xlgftqy3llbnbd46bfhztvfregmm@jpeg",
+        "displayName": "MadeInDex 📰 🌎",
+        "description": "🌎 The #Sustainability Index\n\n🌲 #Environmental #News & Guides about sustainable Products, Companies & their impact\n✅ #AI, #Privacy, #Parody, Journalism, #Politics, #Pacifism, Animal Rights, Cleaning nature\n💚 #Vegan & #vegetarian topics\n\n🔗 madeindex.org",
+        "followers_count": 26426,
+        "connections": []
+    },
+    {
+        "handle": "fhdfays.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:klrgyld3fvhfikj7jm7weeeo/bafkreihej6hdg46jz7smxb5bske7vnytgml2o3dvfaqktcycio37d3l2wu@jpeg",
+        "displayName": "Fhd Fays",
+        "description": "Empowering individuals through motivational content and practical insights. Join me in building a positive, goal-driven community.",
+        "followers_count": 17542,
+        "connections": []
+    },
+    {
+        "handle": "dealsandsteals.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ynjo7rupekowmnakd7guilb4/bafkreibcdshimgj27c2idki5rgxgdvlmsrjs6rjpfqvkn3yd2z3vmpx7ia@jpeg",
+        "displayName": "Amazon & Walmart Deals",
+        "description": "Snag epic deals from the top giants—Amazon, Walmart, Target, ALDI, Costco, Sam's Club, and Kroger! 💸 \nPowered by the Mavely app!",
+        "followers_count": 2353,
+        "connections": []
+    },
+    {
+        "handle": "ahmadkhanlive.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bcqzpxr2wi3v7hp23nfit7pd/bafkreib54yv45ynsxk7c4o2fwjsran3t6kqpqcdpcac5pgohdrx2cdi2w4@jpeg",
+        "displayName": "Ahmad Khan Official",
+        "description": "",
+        "followers_count": 19366,
+        "connections": []
+    },
+    {
+        "handle": "dmovies.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:nopmoc4uaciejggbjgpvwucj/bafkreiewsz3w7sn5snn24clsjxqfyw24tvgf5z5wht4cjgvfsmt3jmvayu@jpeg",
+        "displayName": "DMovies",
+        "description": "your platform for thought-provoking cinema",
+        "followers_count": 5088,
+        "connections": []
+    },
+    {
+        "handle": "kristyh4148.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:bskoefty4c25d35xs7zmcnbi/bafkreifvaiphgxv6biw76o2nc6o3odveajzt5rudqiopb532e4l7znsi2m@jpeg",
+        "displayName": "Kristy H.",
+        "description": "🇺🇸 MAGA 2024! 👇\nhttps://t.me/+5bCrY4m3irozOGJk",
+        "followers_count": 4744,
+        "connections": []
+    },
+    {
+        "handle": "picassoclement.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hemoixx7tj3r2miu5ihcqyuq/bafkreigkdlkrt5wdgrha7dmct5py7gws6dqrffrcwp2p4d6e5hyjratbrq@jpeg",
+        "displayName": "Clement",
+        "description": "God 1st | Black Community 2nd\n6’4” 🇨🇩🇨🇦 \nPsalms 23: 1-6\nFrançais | English | Kiswahili | Art",
+        "followers_count": 24333,
+        "connections": []
+    },
+    {
+        "handle": "antitrumpalways.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hlldgj3v6bhyd7w7f6bq7iud/bafkreicesbm2mm5byppy3u7trr3rdlexqyltgtfzlbt4uqs456cbj7odwm@jpeg",
+        "displayName": "Mary Resists (Dump Trump!)🌊💙💙",
+        "description": "I hate MAGA. Left X for here. Hoping to learn new things and support the fight against Trump. I FOLLOW BACK!",
+        "followers_count": 16014,
+        "connections": []
+    },
+    {
+        "handle": "lovirae.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:uknwurfoylxf7xlxsnhuripx/bafkreifufghtp2roxeljeeq6cbzkjypiyp4jg5yek5wzjam3z3oxcii6qe@jpeg",
+        "displayName": "Lovirae",
+        "description": "\"Smart reads for curious minds 🧠\" \nNews, Articles & More\n    Read now: www.lovirae.com",
+        "followers_count": 9474,
+        "connections": []
+    },
+    {
+        "handle": "laibayt668.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5z3ji4tazovjrnpcqkekumgu/bafkreiendohydlzg5bidiy2u67avt42auh2ed6ksaewddzp3r2qd3o42fq@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 6703,
+        "connections": []
+    },
+    {
+        "handle": "hablamosdetodo.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ir3x2x3tt4dxjoep52e7dzq/bafkreia2vtupr7kqhtd3hu7y3yga6rngwvtuzh75yyr4hznhw4j3c5vuz4@jpeg",
+        "displayName": "Hablamos de todo",
+        "description": "Aquí hablamos de todo: entretenimiento, cine, música y de cualquier tema que este generando interes. También exponemos las atrocidades de políticos ultraderechistas",
+        "followers_count": 2294,
+        "connections": []
+    },
+    {
+        "handle": "andykingsx.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ua2xleywdciaijs22jbwjorz/bafkreibtffi6gf55pt43jijem6nni4zuxvxk6mutt4vobfogz3febbd3fa@jpeg",
+        "displayName": "",
+        "description": "\"Siempre he sido un invitado poco grato para los demas\"\nDestructor de contenidos💥/ Metalero🤘/ENFJ🧠/ Villa Alemanino de Corazón.\n",
+        "followers_count": 1269,
+        "connections": []
+    },
+    {
+        "handle": "mazaciclismo.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:hnqoiztv4l6zytuqqihonugg/bafkreig7ax6pwrbptyh34re7xraovunez3c7njihskhbbitsckcejephtu@jpeg",
+        "displayName": "⚡ Maza⚡",
+        "description": "🌈🚴⚽\"Post de ciclismo y temas variados\" Aquí participamos todos y hacemos realidad nuestros sueños libremente.😉👍",
+        "followers_count": 1240,
+        "connections": []
+    },
+    {
+        "handle": "deaftothetruth.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:5jn6abilhe27j6cn3g75o2oe/bafkreiaeer355gma5bxrdqemfb4w7lin3ki2heqs66sihy5vqnj6nzzzrm@jpeg",
+        "displayName": "Deaf To The Truth",
+        "description": "A metal band from Lahti, Finland\nhttps://linktr.ee/deaftothetruth",
+        "followers_count": 6374,
+        "connections": []
+    },
+    {
+        "handle": "franmogicailuiki.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mepb7m2eu2y2ndgfuvrfa4av/bafkreifv3vihwgped2sb2bndmdp3lqcsqy4hspicx4oi42ctulj6ryrr5u@jpeg",
+        "displayName": "Fran Mogica",
+        "description": "Sin una razón convincente.\nDiseño grafico, ilustrador y zurdo.\n🌐 iluiki.com",
+        "followers_count": 1691,
+        "connections": []
+    },
+    {
+        "handle": "analisaswan.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6el6atkz5w26qdu5ip6cblx3/bafkreiedk5f3e2umopibbr72xxwaptaawfhmczqornl7f2euxceaerbhju@jpeg",
+        "displayName": "Analisa Swan (she/her)",
+        "description": "Attorney, lifelong resident LA, CA; DNC Member; DNC Harris Delegate CA30; ADEM/Exec Board CADEM AD44; LACDP AD44; #DemCastCA #ONEV1 Z2 #wtpBLUE #DemVoice1",
+        "followers_count": 78689,
+        "connections": []
+    },
+    {
+        "handle": "herdingmom.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:7pu6c6ge4psje3epd76uuioh/bafkreicxp6fbcewq6gxmxtvizk26ikyjzb4yqzmkoivh2i7djoxcufz2nm@jpeg",
+        "displayName": "MeidasLinda 💪 #DONTSAYHISNAME",
+        "description": "🚫 DM\n Inclined 2 argue when I KNOW I'm right.  (Small mouth large voice)\nI am an #enemyfromwithin.\nRevolutionary War(not Tories)/Union Civil War ancestors. \n#Resist \n#EnoughIsEnough\n#AntiFascism\n#AntiDictator\n#NODEMSUNDER10K",
+        "followers_count": 5908,
+        "connections": []
+    },
+    {
+        "handle": "treeskulltown.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:rte3hjo2foyzwjvaaqgiwmey/bafkreifihjl5vohizvjum2qugugzx2wi2w23ysyn5pq5niuaq34qpjsvo4@jpeg",
+        "displayName": "treeskulltown",
+        "description": "Make Subrealism #gif #digitalart collection #tezos / member of  @BrawHaus + @ArtCrushgallery + @UNDRGRND_NFT + @NFTfactoryPAris / expo #NFTNYC 23/24 + MOWNA 23/24 / thehugs 100 #nft artists to follow in 2024/ \n https://objkt.com/@treeskulltown/collections",
+        "followers_count": 2397,
+        "connections": []
+    },
+    {
+        "handle": "lapergris.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:ab43apxxm2hkfvor3rnmjbzt/bafkreib2lumlaz6nogaby3xamsk3ovzcs3usz6g2xg4nu3tb7hc53hn54u@jpeg",
+        "displayName": "LaperGris",
+        "description": "Yo prefiero el caos a esta realidad tan charcha (Mauricio Redolés)\n\nSoy de Concepción 🦄🤣\n\nEl Alexi Gaete, alias @mvsikmaschine es un estafador NUNCA LE PRESTEN PLATA!",
+        "followers_count": 1519,
+        "connections": []
+    },
+    {
+        "handle": "kurt.estoesdantesco.com",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4cp4qkl7coljsvc3v7vg7oui/bafkreihtsccsmbsgnlmrmy2qx5ylqfqbijgcxtjeitazcdjkcmnyyrdm2y@jpeg",
+        "displayName": "D4mon",
+        "description": "erfolglos cartoonist - Incomprensiblemente, Dibujo para \nhttps://nerdnews.cl/category/comic/\n\nhttp://Interferencia.cl\n\nhttps://kurtzahn.substack.com/subscribe\n\nwww.estoesdantesco.com\n\nAquí se mariposea en Deutsch - Español - English",
+        "followers_count": 1504,
+        "connections": []
+    },
+    {
+        "handle": "cardiojuanes.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:xhazo2tiemxru373iuvw74wx/bafkreiatlryqttr42rucszrpsbmijkljuycrnp3gh4itmcxpcnwlwumjsu@jpeg",
+        "displayName": "",
+        "description": "",
+        "followers_count": 1039,
+        "connections": []
+    },
+    {
+        "handle": "macarena65.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:omkv6r273rouisbyuf5cew2s/bafkreick6dff5o6phzrhuu5uuejoneybn7bjyo3qvju3cirq72pbv62qwa@jpeg",
+        "displayName": "Macarena 🏳️‍🌈",
+        "description": "Aprendiendo a vivir.\nPeriodista.",
+        "followers_count": 1647,
+        "connections": []
+    },
+    {
+        "handle": "benigma2017.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:qa75krlvv3ueklx62kai4367/bafkreiaomrqka3rhfvgxd7t5tmllpwyq2nhr2igh5zbclqqeeq6x5igy5e@jpeg",
+        "displayName": "🇵🇸 🅲🅷🆄🅲🅺",
+        "description": "Anger is an energy\n\nHe/him\n\nGreen Party\n\nDistance runner. I run one marathon a month.\n\nI was the 139,519th account on Bluesky. ",
+        "followers_count": 15159,
+        "connections": []
+    },
+    {
+        "handle": "horabrasileira.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:6z3ndng5u2j66n6ordzpyhb5/bafkreibi326zylf22ssrukvxmlxuqapd2xsk3vbmdkds2y3znyhwg3o65a@jpeg",
+        "displayName": "HoraBrasileira",
+        "description": "https://horabrasileira.com.br",
+        "followers_count": 12518,
+        "connections": []
+    },
+    {
+        "handle": "monahijazi.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:h6sqe3xmuhhntum4mvwpwvpn/bafkreibx4j6hnioqzlwuenc7tdmote5omryrzx53kabzwyg5o5dadpxd6m@jpeg",
+        "displayName": "Mona Hijazi 🇵🇸🫒From Gaza",
+        "description": "Mona Hijazi 🍉\nFrom Gaza 🇵🇸 MoM of 3 Kids\nVerified by Molly Shah ✅️ Dr.Divya\nDonate\nhttps://gofund.me/4afe7094\n🔗 https://www.paypal.me/Hijazi562\n\nWe Lost My Father💔My Brother and my Uncle, our home, our job\nInst.\nhttps://ln.run/JLgbz\nTelegram\nt.me/Mona_hijazy",
+        "followers_count": 11297,
+        "connections": []
+    },
+    {
+        "handle": "shouldhaveanima.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:mwauc76lyynf7yzdte32i2r5/bafkreihyupzy2fmzv2ip2fi5fdknh4jefkowbw6spdrr5b2rxcgshqtwti@jpeg",
+        "displayName": " why you should have an animal",
+        "description": "The Perfect account to show your parents when you want an animal\n\n  \nme for daily All animal content\n",
+        "followers_count": 11056,
+        "connections": []
+    },
+    {
+        "handle": "denverthefarmer.bsky.social",
+        "avatar_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:stezwr6evrdcks6pa2pm2jmy/bafkreibouyzm3w2efpwpsiaopust3ckubjfd6bqxi4mqsqfc42kkudktii@jpeg",
+        "displayName": "denver",
+        "description": "📍Texas | 🏳️‍🌈 Country Boy | 🌎 Traveler | 🍆 Vers 🍑 | 🔞 Content | 🔥 https://onlyfans.com/denverthefarmer\n\nLinks: https://linktr.ee/denverthefarmer",
+        "followers_count": 35649,
+        "connections": []
+    }
+]
